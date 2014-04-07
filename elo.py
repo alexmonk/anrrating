@@ -6,9 +6,22 @@ class EloResult:
 
 class EloRatingSystem:
 	def __init__(self):
+		self.playerGameHistory = {}
 		self.ratingTable = {}
 		self.playedGames = {}
 		pass
+	def _saveHistoryString(self, string, p1Id, p2Id):
+		def putStringForId(id):
+			if id in self.playerGameHistory:
+				self.playerGameHistory[id].append(string)
+			else:
+				defaultString = "(ratingA +/- deltaA) nameA (corpA/runnerA) - (runnerB, corpB) nameB (ratingB +/- deltaB)"
+				self.playerGameHistory[id] = [defaultString, string]
+			pass
+		putStringForId(p1Id)
+		putStringForId(p2Id)
+		
+
 	def calculateGame(self, player1Id, p1CorpPoints, p2RunnerPoints, p1RunnerPoints, p2CorpPoints, player2Id):
 		if player1Id in self.ratingTable:
 			ratingA = self.ratingTable[player1Id]
@@ -47,6 +60,10 @@ class EloRatingSystem:
 		self.ratingTable[player1Id] = newRA
 		self.ratingTable[player2Id] = newRB
 
+		dA = newRA - ratingA
+		dB = newRB - ratingB
+		historyString = "(%.2f %+.3f) %s (%i/%i) - (%i/%i) %s (%.2f %+.3f)" %(ratingA, dA, player1Id, p1CorpPoints, p1RunnerPoints, p2RunnerPoints, p2CorpPoints, player2Id, ratingB, dB)
+		self._saveHistoryString(historyString, player1Id, player2Id)
 		# self.playedGames[player2Id]+=1
 		pass
 
@@ -56,9 +73,17 @@ class EloRatingSystem:
 		newRating = playerRating + k * (playerScore - eA)
 		return newRating
 
+
+	def historyStringDict(self):
+		strings = {}
+		for name in self.playerGameHistory.keys():
+			string = "\n".join(self.playerGameHistory[name])
+			strings[name] = string
+		return strings
+
 	def ratingTableList(self):
-		sortetTable = sorted(self.ratingTable.keys(), key=lambda x: self.ratingTable[x] * -1)
+		sortedTable = sorted(self.ratingTable.keys(), key=lambda x: self.ratingTable[x] * -1)
 		strings = []
-		for name in sortetTable:
+		for name in sortedTable:
 			strings.append(str(name.encode("utf-8")) + "\t%.2f" % self.ratingTable[name] + "\t%i" % self.playedGames[name])
 		return strings

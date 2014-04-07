@@ -7,7 +7,8 @@ from elo import EloRatingSystem
 from datetime import datetime
 import random
 
-playerLoggingName = []
+playerLoggingName = [] #debug var
+gameCounter = 0 #debug var
 
 class Game:
 	def __init__(self, player1, player2, p1CorpScore, p2RunnerScore, p1RunnerScore, p2CorpScore):
@@ -24,11 +25,13 @@ class Player:
 	def __init__(self, id, name, corpName, runnerName):
 		self.id = id
 		self.name = name
-		if name == u'Попов Егор':
+
+		#debug code
+		if name == u'Борц Ларик':
 			global playerLoggingName
 			playerLoggingName.append(id)
-		#self.corpName = corpName
-		#self.runnerName = runnerName
+		#end debug
+
 		pass
 	def __repr__(self):
 		return "%s" % (repr(self.name).decode("unicode_escape"))
@@ -69,11 +72,12 @@ def parseGame(game):
 	p2Score1 = int(game["Player2Score1"])
 	p2Score2 = int(game["Player2Score2"])
 
+	#debug
 	if player1Id in playerLoggingName or player2Id in playerLoggingName:
 		global gameCounter
 		gameCounter += 1
-		# print str(gameCounter) + " " + game["Player1Alias"] +  " - " + game["Player2Alias"]
 		print "%i %s (%i/%i) - (%i/%i) %s" % (gameCounter, game["Player1Alias"], p1Score1, p1Score2, p2Score1, p2Score2, game["Player2Alias"])
+	#end
 
 	if p1Score1 == p2Score1 == 0:
 		# print "NULL RESULT " + player1Id + player2Id + repr(game).decode("unicode-escape")
@@ -100,15 +104,12 @@ def playedPlayoffs(playoffDict):
 	playoff = []
 	playoffDict.pop("StartRound", None)
 	for game in playoffDict.values():
-		# game = playoffDict[gameKey]
-		# print game
 		gameObj = parseGame(game)
 		if gameObj != None:
 			playoff.append(gameObj)
 	return playoff
 
-gameCounter = 0
-def calculateRatingsInTournament(tournament):
+def calculateRatingsInTournament(tournament, eloRatingSystem):
 	def calculateRatingForGame(game):
 		p1Name = tournament.players[game.player1].name
 		p2Name = tournament.players[game.player2].name
@@ -120,39 +121,59 @@ def calculateRatingsInTournament(tournament):
 	for playoffGame in tournament.playoff:
 		calculateRatingForGame(playoffGame)
 
-files = []
-eloRatingSystem = EloRatingSystem()
-directoryWithLogs = "tournament_logs/"
-for fileName in os.listdir(directoryWithLogs):
-	print "Start parse " + fileName
-	pathToFile = directoryWithLogs + fileName
-	if os.path.isfile(pathToFile):
-		file = open(pathToFile)
-		xmlString = file.read()
-		dict = xmltodict.parse(xmlString)
-		files.append(dict)
-		file.close()
-tournaments = []
-for file in files:
-	tournament = buildTournamentModel(file["Tournament"])
-	tournaments.append(tournament)
-	pass
+def loadDataToTournamentsList():
+	files = []
+	directoryWithLogs = "tournament_logs/"
+	for fileName in os.listdir(directoryWithLogs):
+		print "Start parse " + fileName
+		pathToFile = directoryWithLogs + fileName
+		if os.path.isfile(pathToFile):
+			file = open(pathToFile)
+			xmlString = file.read()
+			dict = xmltodict.parse(xmlString)
+			files.append(dict)
+			file.close()
+	tournaments = []
+	for dict in files:
+		tournament = buildTournamentModel(dict["Tournament"])
+		tournaments.append(tournament)
+		pass
 
-tournamentsSortedByDate = sorted(tournaments, key=lambda tournament:tournament.date)
+	tournamentsSortedByDate = sorted(tournaments, key=lambda tournament:tournament.date)
+	return tournamentsSortedByDate
 
-totalPlayers = {}
+def saveListOfStrings(listOfStrings, fileName):
+	textTable = '\n'.join(listOfStrings)
+	# print textTable
+	outputFile = open(fileName, 'w')
+	outputFile.write(textTable)
+	outputFile.close()
 
-for tournament in tournamentsSortedByDate:
-	for player in tournament.players.values():
-		counter = 1000
-		if player.name in totalPlayers.keys():
-			counter = totalPlayers[player.name]
-		totalPlayers[player.name] = counter 
-	calculateRatingsInTournament(tournament)
+def saveHistoryDict(history, folderName):
+	for player in history.keys():
+		historyString = history[player]
+		outputFile = open("%s/%s.txt" % (folderName, player), 'w')
+		outputFile.write(historyString.encode("utf-8"))
+		outputFile.close()
 
-resultTable = eloRatingSystem.ratingTableList()
-textTable = '\n'.join(resultTable)
-print textTable
-outputFile = open('netrunner_elo_rating.csv', 'w')
-outputFile.write(textTable)
-outputFile.close()
+def executeRatingCalculate():
+	tournaments = loadDataToTournamentsList()
+
+	totalPlayers = {}
+	eloRatingSystem = EloRatingSystem()
+	for tournament in tournaments:
+		for player in tournament.players.values():
+			counter = 1000
+			if player.name in totalPlayers.keys():
+				counter = totalPlayers[player.name]
+			totalPlayers[player.name] = counter 
+		calculateRatingsInTournament(tournament, eloRatingSystem)
+
+	resultTable = eloRatingSystem.ratingTableList()
+	saveListOfStrings(resultTable, 'netrunner_elo_rating.csv')
+	
+	history = eloRatingSystem.historyStringDict()
+	saveHistoryDict(history, "playerHistory")
+
+if __name__ == "__main__":
+	executeRatingCalculate()
