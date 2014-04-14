@@ -62,9 +62,12 @@ class EloRatingSystem:
 		elif p2CorpPoints == p1RunnerPoints:# or (p2CorpPoints < 7 and p1RunnerPoints < 7):
 			scoreA += 0.25
 			scoreB += 0.25
+
+		relativeScoreA = scoreA / (scoreA + scoreB)
+		relativeScoreB = 1 - relativeScoreA
 		
-		newRA = self._recalculateEvo(ratingA, ratingB, scoreA, 20)
-		newRB = self._recalculateEvo(ratingB, ratingA, scoreB, 20)
+		newRA = self._recalculateEvo(ratingA, ratingB, relativeScoreA, 20)
+		newRB = self._recalculateEvo(ratingB, ratingA, relativeScoreB, 20)
 		self.ratingTable[player1Id] = newRA
 		self.ratingTable[player2Id] = newRB
 
