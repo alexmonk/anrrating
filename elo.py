@@ -10,7 +10,7 @@ class EloRatingSystem:
 		self.ratingTable = {}
 		self.playedGames = {}
 		pass
-	def _saveHistoryString(self, string, p1Id, p2Id):
+	def _saveHistoryString(self, string, pId):
 		def putStringForId(id):
 			if id in self.playerGameHistory:
 				self.playerGameHistory[id].append(string)
@@ -18,8 +18,8 @@ class EloRatingSystem:
 				defaultString = "(ratingA +/- deltaA) nameA (corpA/runnerA) - (runnerB, corpB) nameB (ratingB +/- deltaB)"
 				self.playerGameHistory[id] = [defaultString, string]
 			pass
-		putStringForId(p1Id)
-		putStringForId(p2Id)
+		putStringForId(pId)
+		# putStringForId(p2Id)
 		
 
 	def calculateGame(self, player1Id, p1CorpPoints, p2RunnerPoints, p1RunnerPoints, p2CorpPoints, player2Id):
@@ -62,8 +62,10 @@ class EloRatingSystem:
 
 		dA = newRA - ratingA
 		dB = newRB - ratingB
-		historyString = "(%.2f %+.3f) %s (%i/%i) - (%i/%i) %s (%.2f %+.3f)" %(ratingA, dA, player1Id, p1CorpPoints, p1RunnerPoints, p2RunnerPoints, p2CorpPoints, player2Id, ratingB, dB)
-		self._saveHistoryString(historyString, player1Id, player2Id)
+		historyStringA = "(%.2f %+.3f) %s (%i/%i) - (%i/%i) %s (%.2f %+.3f)" %(ratingA, dA, player1Id, p1CorpPoints, p1RunnerPoints, p2RunnerPoints, p2CorpPoints, player2Id, ratingB, dB)
+		historyStringB = "(%.2f %+.3f) %s (%i/%i) - (%i/%i) %s (%.2f %+.3f)" %(ratingB, dB, player2Id, p2CorpPoints, p2RunnerPoints, p1RunnerPoints, p1CorpPoints, player1Id, ratingA, dA)
+		self._saveHistoryString(historyStringA, player1Id)
+		self._saveHistoryString(historyStringB, player2Id)
 		# self.playedGames[player2Id]+=1
 		pass
 

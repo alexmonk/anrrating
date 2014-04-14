@@ -143,7 +143,7 @@ def loadDataToTournamentsList():
 	return tournamentsSortedByDate
 
 def saveListOfStrings(listOfStrings, fileName):
-	textTable = '\n'.join(listOfStrings)
+	textTable = '\r\n'.join(listOfStrings)
 	# print textTable
 	outputFile = open(fileName, 'w')
 	outputFile.write(textTable)
@@ -152,7 +152,7 @@ def saveListOfStrings(listOfStrings, fileName):
 def saveHistoryDict(history, folderName):
 	for player in history.keys():
 		historyString = history[player]
-		outputFile = open("%s/%s.txt" % (folderName, player), 'w')
+		outputFile = open("%s/%s.txt" % (folderName, player.encode("utf-8")), 'w')
 		outputFile.write(historyString.encode("utf-8"))
 		outputFile.close()
 
