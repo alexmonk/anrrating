@@ -15,7 +15,7 @@ class EloRatingSystem:
 			if id in self.playerGameHistory:
 				self.playerGameHistory[id].append(string)
 			else:
-				defaultString = "(ratingA +/- deltaA) nameA (corpA/runnerA) - (runnerB, corpB) nameB (ratingB +/- deltaB)"
+				defaultString = "(ratingA +/- deltaA) nameA (corpA/runnerA) - (runnerB/corpB) nameB (ratingB +/- deltaB)"
 				self.playerGameHistory[id] = [defaultString, string]
 			pass
 		putStringForId(pId)
@@ -40,32 +40,39 @@ class EloRatingSystem:
 		scoreA = 0.0
 		scoreB = 0.0
 		if p1CorpPoints > p2RunnerPoints: 
-			scoreA += 0.25
+			scoreA += 1
 			if p1CorpPoints > 6:
-				scoreA += 0.25
+				scoreA += 1
 		elif p2RunnerPoints > p1CorpPoints:
-			scoreB += 0.25
+			scoreB += 1
 			if p2RunnerPoints > 6:
-			 	scoreB += 0.25
+			 	scoreB += 1
 		elif p2RunnerPoints == p1CorpPoints:# or (p2RunnerPoints < 7 and p1CorpPoints < 7):
-			scoreA += 0.25
-			scoreB += 0.25
+			scoreA += 1
+			scoreB += 1
 
 		if p1RunnerPoints > p2CorpPoints:
-			scoreA += 0.25
+			scoreA += 1
 			if p1RunnerPoints > 6:
-				scoreA += 0.25
+				scoreA += 1
 		elif p2CorpPoints > p1RunnerPoints:
-			scoreB += 0.25
+			scoreB += 1
 			if p2CorpPoints > 6:
-			 	scoreB += 0.25
+			 	scoreB += 1
 		elif p2CorpPoints == p1RunnerPoints:# or (p2CorpPoints < 7 and p1RunnerPoints < 7):
-			scoreA += 0.25
-			scoreB += 0.25
+			scoreA += 1
+			scoreB += 1
+
+		D = (4.0 - scoreA - scoreB )/8
+		scoreA = scoreA / 4.0 + D
+		scoreB = scoreB / 4.0 + D
+		# print "A: %.2f B: %.2f" % (scoreA, scoreB)
+		# print "D = %.2f" % (D)
 
 		relativeScoreA = scoreA / (scoreA + scoreB)
 		relativeScoreB = 1 - relativeScoreA
-		
+		# print "rA: %.2f rB: %.2f" % (relativeScoreA, relativeScoreB)
+
 		newRA = self._recalculateEvo(ratingA, ratingB, relativeScoreA, 20)
 		newRB = self._recalculateEvo(ratingB, ratingA, relativeScoreB, 20)
 		self.ratingTable[player1Id] = newRA
@@ -73,8 +80,11 @@ class EloRatingSystem:
 
 		dA = newRA - ratingA
 		dB = newRB - ratingB
-		historyStringA = "(%.2f %+.3f) %s (%i/%i = %.2f) - (%i/%i = %.2f) %s (%.2f %+.3f)" %(ratingA, dA, player1Id, p1CorpPoints, p1RunnerPoints, scoreA, p2RunnerPoints, p2CorpPoints, scoreB, player2Id, ratingB, dB)
-		historyStringB = "(%.2f %+.3f) %s (%i/%i = %.2f) - (%i/%i = %.2f) %s (%.2f %+.3f)" %(ratingB, dB, player2Id, p2CorpPoints, p2RunnerPoints, scoreB, p1RunnerPoints, p1CorpPoints, scoreA, player1Id, ratingA, dA)
+		# historyStringA = "(%.2f %+.3f) %s (%i/%i = %.2f) - (%i/%i = %.2f) %s (%.2f %+.3f)" %(ratingA, dA, player1Id, p1CorpPoints, p1RunnerPoints, scoreA, p2RunnerPoints, p2CorpPoints, scoreB, player2Id, ratingB, dB)
+		# historyStringB = "(%.2f %+.3f) %s (%i/%i = %.2f) - (%i/%i = %.2f) %s (%.2f %+.3f)" %(ratingB, dB, player2Id, p2CorpPoints, p2RunnerPoints, scoreB, p1RunnerPoints, p1CorpPoints, scoreA, player1Id, ratingA, dA)
+		historyStringA = "(%.2f %+.3f) %s (%i/%i) - (%i/%i) %s (%.2f %+.3f)" %(ratingA, dA, player1Id, p1CorpPoints, p1RunnerPoints, p2RunnerPoints, p2CorpPoints, player2Id, ratingB, dB)
+		historyStringB = "(%.2f %+.3f) %s (%i/%i) - (%i/%i) %s (%.2f %+.3f)" %(ratingB, dB, player2Id, p2CorpPoints, p2RunnerPoints, p1RunnerPoints, p1CorpPoints, player1Id, ratingA, dA)
+
 		self._saveHistoryString(historyStringA, player1Id)
 		self._saveHistoryString(historyStringB, player2Id)
 		# self.playedGames[player2Id]+=1
