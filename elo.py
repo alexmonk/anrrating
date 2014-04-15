@@ -71,7 +71,7 @@ class EloRatingSystem:
 
 
 	def _recalculateEvo(self, playerRating, opponentRating, playerScore, k):
-		eA = 1.0 / (1.0 + pow(10.0, (opponentRating-playerRating)/400))
+		eA = 1.0 / (1.0 + pow(10.0, (opponentRating-playerRating)/200))
 		newRating = playerRating + k * (playerScore - eA)
 		return newRating
 
