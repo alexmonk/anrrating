@@ -1787,7 +1787,400 @@
       <Number>0</Number>
     </Game>
   </AllGames>
-  <FinalResults />
+  <FinalResults>
+    <FinalResult>
+      <FinalPlace>11</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>a92a1cb5-50a1-4eb3-a68c-7851a78489b5</Id>
+        <Place>11</Place>
+        <Name />
+        <Surname />
+        <Alias>Гончаренко Сергей</Alias>
+        <RaceCorpo>HaasBioroid</RaceCorpo>
+        <RaceRunner>Criminal</RaceRunner>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>0</GamesWin>
+        <GamesDraw>3</GamesDraw>
+        <GamesLoose>1</GamesLoose>
+        <SmallPointsPlus>30</SmallPointsPlus>
+        <SmallPointsMinus>50</SmallPointsMinus>
+        <RunnerWins>3</RunnerWins>
+        <CorpoWins>0</CorpoWins>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>32</Bucholz>
+        <MBucholz>16</MBucholz>
+        <Points>6</Points>
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>12</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>1825159b-acfc-48e3-bcc2-14284ff498a4</Id>
+        <Place>12</Place>
+        <Name />
+        <Surname />
+        <Alias>Ковалёв Александр</Alias>
+        <RaceCorpo>WeylandConsortium</RaceCorpo>
+        <RaceRunner>Shaper</RaceRunner>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>1</GamesWin>
+        <GamesDraw>1</GamesDraw>
+        <GamesLoose>2</GamesLoose>
+        <SmallPointsPlus>10</SmallPointsPlus>
+        <SmallPointsMinus>50</SmallPointsMinus>
+        <RunnerWins>0</RunnerWins>
+        <CorpoWins>1</CorpoWins>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>20</Bucholz>
+        <MBucholz>10</MBucholz>
+        <Points>6</Points>
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>7</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>ae05c8d4-96ea-4ada-9fac-94d8fd1e2865</Id>
+        <Place>7</Place>
+        <Name />
+        <Surname />
+        <Alias>Борц Ларик</Alias>
+        <RaceCorpo>NBN</RaceCorpo>
+        <RaceRunner>Criminal</RaceRunner>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>1</GamesWin>
+        <GamesDraw>1</GamesDraw>
+        <GamesLoose>2</GamesLoose>
+        <SmallPointsPlus>30</SmallPointsPlus>
+        <SmallPointsMinus>50</SmallPointsMinus>
+        <RunnerWins>2</RunnerWins>
+        <CorpoWins>1</CorpoWins>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>36</Bucholz>
+        <MBucholz>16</MBucholz>
+        <Points>6</Points>
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>8</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>aa1cf457-0599-4ca8-bc73-a909a133122c</Id>
+        <Place>8</Place>
+        <Name />
+        <Surname />
+        <Alias>Смирнов Михаил</Alias>
+        <RaceCorpo>Jinteki</RaceCorpo>
+        <RaceRunner>Shaper</RaceRunner>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>1</GamesWin>
+        <GamesDraw>1</GamesDraw>
+        <GamesLoose>2</GamesLoose>
+        <SmallPointsPlus>30</SmallPointsPlus>
+        <SmallPointsMinus>50</SmallPointsMinus>
+        <RunnerWins>1</RunnerWins>
+        <CorpoWins>2</CorpoWins>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>36</Bucholz>
+        <MBucholz>16</MBucholz>
+        <Points>6</Points>
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>10</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>bdbf803a-f6cc-48f2-9219-89aa632b8c71</Id>
+        <Place>10</Place>
+        <Name />
+        <Surname />
+        <Alias>Рогозин Антон</Alias>
+        <RaceCorpo>NBN</RaceCorpo>
+        <RaceRunner>Anarch</RaceRunner>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>1</GamesWin>
+        <GamesDraw>1</GamesDraw>
+        <GamesLoose>0</GamesLoose>
+        <SmallPointsPlus>30</SmallPointsPlus>
+        <SmallPointsMinus>10</SmallPointsMinus>
+        <RunnerWins>2</RunnerWins>
+        <CorpoWins>1</CorpoWins>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>false</Active>
+        <Bucholz>16</Bucholz>
+        <MBucholz>0</MBucholz>
+        <Points>6</Points>
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>9</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>7c4843bb-7429-4bbd-a69e-4e363732be77</Id>
+        <Place>9</Place>
+        <Name />
+        <Surname />
+        <Alias>Шунин Иван</Alias>
+        <RaceCorpo>WeylandConsortium</RaceCorpo>
+        <RaceRunner>Shaper</RaceRunner>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>1</GamesWin>
+        <GamesDraw>1</GamesDraw>
+        <GamesLoose>2</GamesLoose>
+        <SmallPointsPlus>30</SmallPointsPlus>
+        <SmallPointsMinus>50</SmallPointsMinus>
+        <RunnerWins>1</RunnerWins>
+        <CorpoWins>2</CorpoWins>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>30</Bucholz>
+        <MBucholz>16</MBucholz>
+        <Points>6</Points>
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>5</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>63260bf3-03d9-45c2-b23a-88e8b1f95890</Id>
+        <Place>5</Place>
+        <Name />
+        <Surname />
+        <Alias>Новиков Богдан</Alias>
+        <RaceCorpo>HaasBioroid</RaceCorpo>
+        <RaceRunner>Shaper</RaceRunner>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>2</GamesWin>
+        <GamesDraw>1</GamesDraw>
+        <GamesLoose>1</GamesLoose>
+        <SmallPointsPlus>50</SmallPointsPlus>
+        <SmallPointsMinus>30</SmallPointsMinus>
+        <RunnerWins>3</RunnerWins>
+        <CorpoWins>2</CorpoWins>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>30</Bucholz>
+        <MBucholz>12</MBucholz>
+        <Points>10</Points>
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>13</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>93166441-6c42-48d1-813e-29cb556fe1a4</Id>
+        <Place>13</Place>
+        <Name />
+        <Surname />
+        <Alias>Павлов Алексей</Alias>
+        <RaceCorpo>Jinteki</RaceCorpo>
+        <RaceRunner>Anarch</RaceRunner>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>1</GamesWin>
+        <GamesDraw>1</GamesDraw>
+        <GamesLoose>2</GamesLoose>
+        <SmallPointsPlus>10</SmallPointsPlus>
+        <SmallPointsMinus>50</SmallPointsMinus>
+        <RunnerWins>0</RunnerWins>
+        <CorpoWins>1</CorpoWins>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>20</Bucholz>
+        <MBucholz>10</MBucholz>
+        <Points>6</Points>
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>6</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>00767b52-d304-4b09-a286-50bca388f150</Id>
+        <Place>6</Place>
+        <Name />
+        <Surname />
+        <Alias>Филиппов Александр</Alias>
+        <RaceCorpo>NBN</RaceCorpo>
+        <RaceRunner>Criminal</RaceRunner>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>2</GamesWin>
+        <GamesDraw>1</GamesDraw>
+        <GamesLoose>1</GamesLoose>
+        <SmallPointsPlus>50</SmallPointsPlus>
+        <SmallPointsMinus>30</SmallPointsMinus>
+        <RunnerWins>3</RunnerWins>
+        <CorpoWins>2</CorpoWins>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>28</Bucholz>
+        <MBucholz>12</MBucholz>
+        <Points>10</Points>
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>14</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>0a8acd7a-f6ff-4ac6-bbd2-91dc9cb9d5e6</Id>
+        <Place>14</Place>
+        <Name />
+        <Surname />
+        <Alias>Ларин Филипп</Alias>
+        <RaceCorpo>WeylandConsortium</RaceCorpo>
+        <RaceRunner>Anarch</RaceRunner>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>0</GamesWin>
+        <GamesDraw>2</GamesDraw>
+        <GamesLoose>2</GamesLoose>
+        <SmallPointsPlus>20</SmallPointsPlus>
+        <SmallPointsMinus>60</SmallPointsMinus>
+        <RunnerWins>0</RunnerWins>
+        <CorpoWins>2</CorpoWins>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>30</Bucholz>
+        <MBucholz>12</MBucholz>
+        <Points>4</Points>
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>1</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>63260bf3-03d9-45c2-b23a-88e8b1f95890</Id>
+        <Place>5</Place>
+        <Name />
+        <Surname />
+        <Alias>Новиков Богдан</Alias>
+        <RaceCorpo>HaasBioroid</RaceCorpo>
+        <RaceRunner>Shaper</RaceRunner>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>2</GamesWin>
+        <GamesDraw>1</GamesDraw>
+        <GamesLoose>1</GamesLoose>
+        <SmallPointsPlus>50</SmallPointsPlus>
+        <SmallPointsMinus>30</SmallPointsMinus>
+        <RunnerWins>3</RunnerWins>
+        <CorpoWins>2</CorpoWins>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>30</Bucholz>
+        <MBucholz>12</MBucholz>
+        <Points>10</Points>
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>2</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>9a6b5564-ea36-4419-b328-b644df49dcc3</Id>
+        <Place>3</Place>
+        <Name />
+        <Surname />
+        <Alias>Гребенщиков Леонид</Alias>
+        <RaceCorpo>HaasBioroid</RaceCorpo>
+        <RaceRunner>Criminal</RaceRunner>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>2</GamesWin>
+        <GamesDraw>1</GamesDraw>
+        <GamesLoose>1</GamesLoose>
+        <SmallPointsPlus>50</SmallPointsPlus>
+        <SmallPointsMinus>30</SmallPointsMinus>
+        <RunnerWins>3</RunnerWins>
+        <CorpoWins>2</CorpoWins>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>40</Bucholz>
+        <MBucholz>20</MBucholz>
+        <Points>10</Points>
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>3</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>080e4b53-8025-4e01-8fab-e6d95fabc9cc</Id>
+        <Place>1</Place>
+        <Name />
+        <Surname />
+        <Alias>Попов Егор</Alias>
+        <RaceCorpo>NBN</RaceCorpo>
+        <RaceRunner>Anarch</RaceRunner>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>3</GamesWin>
+        <GamesDraw>1</GamesDraw>
+        <GamesLoose>0</GamesLoose>
+        <SmallPointsPlus>70</SmallPointsPlus>
+        <SmallPointsMinus>10</SmallPointsMinus>
+        <RunnerWins>3</RunnerWins>
+        <CorpoWins>4</CorpoWins>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>34</Bucholz>
+        <MBucholz>16</MBucholz>
+        <Points>14</Points>
+      </Player>
+    </FinalResult>
+    <FinalResult>
+      <FinalPlace>4</FinalPlace>
+      <Player>
+        <IdGalakta>0</IdGalakta>
+        <Id>b5473bbe-fd69-4555-b47c-72af70bca9c6</Id>
+        <Place>2</Place>
+        <Name />
+        <Surname />
+        <Alias>Игнатов Владимир</Alias>
+        <RaceCorpo>WeylandConsortium</RaceCorpo>
+        <RaceRunner>Shaper</RaceRunner>
+        <RankBeforeTournament>0</RankBeforeTournament>
+        <GamesWin>2</GamesWin>
+        <GamesDraw>2</GamesDraw>
+        <GamesLoose>0</GamesLoose>
+        <SmallPointsPlus>60</SmallPointsPlus>
+        <SmallPointsMinus>20</SmallPointsMinus>
+        <RunnerWins>2</RunnerWins>
+        <CorpoWins>4</CorpoWins>
+        <DiceCount>0</DiceCount>
+        <DeckCheck>false</DeckCheck>
+        <Payment>true</Payment>
+        <Active>true</Active>
+        <Bucholz>38</Bucholz>
+        <MBucholz>20</MBucholz>
+        <Points>12</Points>
+      </Player>
+    </FinalResult>
+  </FinalResults>
   <Playoffs>
     <Final_2_01>
       <Player1Id>080e4b53-8025-4e01-8fab-e6d95fabc9cc</Player1Id>
@@ -1857,8 +2250,8 @@
       <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
       <Player1RaceRunner>Anarch</Player1RaceRunner>
       <Player2RaceRunner>Shaper</Player2RaceRunner>
-      <Player1Score1>0</Player1Score1>
-      <Player1Score2>0</Player1Score2>
+      <Player1Score1>10</Player1Score1>
+      <Player1Score2>10</Player1Score2>
       <Player2Score1>0</Player2Score1>
       <Player2Score2>0</Player2Score2>
       <IsSecondGameNotStarted>false</IsSecondGameNotStarted>

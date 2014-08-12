@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tournament xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Date>2014-06-15T01:00:00+04:00</Date>
+  <Rounds />
+  <Playoffs>
+    <Final_01>
+      <Player1Alias>Попов Егор</Player1Alias>
+      <Player2Alias>Антонов Евгений</Player2Alias>
+      <Player1Score1>10</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+    </Final_01>
+    <Final_02>
+      <Player1Alias>Ковалёв Александр</Player1Alias>
+      <Player2Alias>Рогозин Антон</Player2Alias>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>10</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+    </Final_02>
+    <Final_03>
+      <Player1Alias>Попов Егор</Player1Alias>
+      <Player2Alias>Рогозин Антон</Player2Alias>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>10</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+    </Final_03>
+    <Final_04>
+      <Player1Alias>Ковалёв Александр</Player1Alias>
+      <Player2Alias>Антонов Евгений</Player2Alias>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>10</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+    </Final_04>
+    <Final_05>
+      <Player1Alias>Попов Егор</Player1Alias>
+      <Player2Alias>Антонов Евгений</Player2Alias>
+      <Player1Score1>10</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+    </Final_05>
+    <Final_06>
+      <Player1Alias>Попов Егор</Player1Alias>
+      <Player2Alias>Рогозин Антон</Player2Alias>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>10</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+    </Final_06>
+  </Playoffs>
+</Tournament>
