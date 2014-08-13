@@ -15,24 +15,24 @@
       <Player1Alias>Ковалёв Александр</Player1Alias>
       <Player2Alias>Рогозин Антон</Player2Alias>
       <Player1Score1>0</Player1Score1>
-      <Player1Score2>10</Player1Score2>
-      <Player2Score1>0</Player2Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>10</Player2Score1>
       <Player2Score2>0</Player2Score2>
     </Final_02>
     <Final_03>
       <Player1Alias>Попов Егор</Player1Alias>
       <Player2Alias>Рогозин Антон</Player2Alias>
       <Player1Score1>0</Player1Score1>
-      <Player1Score2>10</Player1Score2>
-      <Player2Score1>0</Player2Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>10</Player2Score1>
       <Player2Score2>0</Player2Score2>
     </Final_03>
     <Final_04>
       <Player1Alias>Ковалёв Александр</Player1Alias>
       <Player2Alias>Антонов Евгений</Player2Alias>
       <Player1Score1>0</Player1Score1>
-      <Player1Score2>10</Player1Score2>
-      <Player2Score1>0</Player2Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>10</Player2Score1>
       <Player2Score2>0</Player2Score2>
     </Final_04>
     <Final_05>
@@ -47,8 +47,8 @@
       <Player1Alias>Попов Егор</Player1Alias>
       <Player2Alias>Рогозин Антон</Player2Alias>
       <Player1Score1>0</Player1Score1>
-      <Player1Score2>10</Player1Score2>
-      <Player2Score1>0</Player2Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>10</Player2Score1>
       <Player2Score2>0</Player2Score2>
     </Final_06>
   </Playoffs>

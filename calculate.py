@@ -10,7 +10,7 @@ from rating_least_squares import LeastSquaresRating
 
 # -----------------------------------------------------------------
 
-def checkTournamentDates(tournaments): 	#debug
+def checkTournamentDates(tournaments):
 	dateError = False
 	for tournament1 in tournaments:
 		for tournament2 in tournaments:
@@ -19,6 +19,7 @@ def checkTournamentDates(tournaments): 	#debug
 				dateError = True
 	return dateError
 
+# -----------------------------------------------------------------
 
 def executeRatingCalculate():
 	tournaments = []
@@ -47,11 +48,13 @@ def executeRatingCalculate():
 		print(tournamentName)
 		for match in tournament.matches:
 			elo.updateByMatch(match, tournamentName)
-			addPlayer(match.playerA) #debug
-			addPlayer(match.playerB) #debug
+			addPlayer(match.playerA)  #debug
+			addPlayer(match.playerB)  #debug
 
 	print("Done")
 
+	if not os.path.exists("playerHistory"):
+		os.makedirs("playerHistory")
 	elo.saveHistory("playerHistory")
 	elo.saveRatings("netrunner_elo_rating.csv")
 

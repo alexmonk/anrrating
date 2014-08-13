@@ -138,7 +138,7 @@
       <Place>6</Place>
       <Name />
       <Surname />
-      <Alias>Яковлева Анна</Alias>
+      <Alias>Селина Анна</Alias>
       <RankBeforeTournament>0</RankBeforeTournament>
       <GamesWin>1</GamesWin>
       <GamesDraw>3</GamesDraw>
@@ -462,7 +462,7 @@
           <Player1Dice>false</Player1Dice>
           <Player2Dice>false</Player2Dice>
           <Player1Alias>Дынников Савел</Player1Alias>
-          <Player2Alias>Яковлева Анна</Player2Alias>
+          <Player2Alias>Селина Анна</Player2Alias>
           <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
           <Player2RaceCorpo>NBN</Player2RaceCorpo>
           <Player1RaceRunner>Shaper</Player1RaceRunner>
@@ -601,7 +601,7 @@
           <Player1Dice>false</Player1Dice>
           <Player2Dice>false</Player2Dice>
           <Player1Alias>Привалов Денис</Player1Alias>
-          <Player2Alias>Яковлева Анна</Player2Alias>
+          <Player2Alias>Селина Анна</Player2Alias>
           <Player1RaceCorpo>WeylandConsortium</Player1RaceCorpo>
           <Player2RaceCorpo>NBN</Player2RaceCorpo>
           <Player1RaceRunner>Criminal</Player1RaceRunner>
@@ -739,7 +739,7 @@
           <Player2Id>d3a5733d-cd9d-4d75-b20e-1e6cb36317a7</Player2Id>
           <Player1Dice>false</Player1Dice>
           <Player2Dice>false</Player2Dice>
-          <Player1Alias>Яковлева Анна</Player1Alias>
+          <Player1Alias>Селина Анна</Player1Alias>
           <Player2Alias>Лапыгин Антон</Player2Alias>
           <Player1RaceCorpo>NBN</Player1RaceCorpo>
           <Player2RaceCorpo>NBN</Player2RaceCorpo>
@@ -802,7 +802,7 @@
           <Player2Id>e6f06a3a-ce60-4b65-adb2-2b54aeb902dd</Player2Id>
           <Player1Dice>false</Player1Dice>
           <Player2Dice>false</Player2Dice>
-          <Player1Alias>Яковлева Анна</Player1Alias>
+          <Player1Alias>Селина Анна</Player1Alias>
           <Player2Alias>Дмитриев Павел</Player2Alias>
           <Player1RaceCorpo>NBN</Player1RaceCorpo>
           <Player2RaceCorpo>NBN</Player2RaceCorpo>
@@ -942,7 +942,7 @@
           <Player1Dice>false</Player1Dice>
           <Player2Dice>false</Player2Dice>
           <Player1Alias>Леонов Антон</Player1Alias>
-          <Player2Alias>Яковлева Анна</Player2Alias>
+          <Player2Alias>Селина Анна</Player2Alias>
           <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
           <Player2RaceCorpo>NBN</Player2RaceCorpo>
           <Player1RaceRunner>Shaper</Player1RaceRunner>
@@ -1173,7 +1173,7 @@
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
       <Player1Alias>Сорокин Валентин</Player1Alias>
-      <Player2Alias>Яковлева Анна</Player2Alias>
+      <Player2Alias>Селина Анна</Player2Alias>
       <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
       <Player2RaceCorpo>NBN</Player2RaceCorpo>
       <Player1RaceRunner>Criminal</Player1RaceRunner>
@@ -1344,7 +1344,7 @@
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
       <Player1Alias>Селин Станислав</Player1Alias>
-      <Player2Alias>Яковлева Анна</Player2Alias>
+      <Player2Alias>Селина Анна</Player2Alias>
       <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
       <Player2RaceCorpo>NBN</Player2RaceCorpo>
       <Player1RaceRunner>Criminal</Player1RaceRunner>
@@ -1419,7 +1419,7 @@
       <Player2Id>611f13db-3fc8-4f57-8ec9-5292e0b09ad2</Player2Id>
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
-      <Player1Alias>Яковлева Анна</Player1Alias>
+      <Player1Alias>Селина Анна</Player1Alias>
       <Player2Alias>Никитин Сергей</Player2Alias>
       <Player1RaceCorpo>NBN</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
@@ -1438,7 +1438,7 @@
       <Player2Id>011b5e4a-910c-419e-a873-924fff7efffd</Player2Id>
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
-      <Player1Alias>Яковлева Анна</Player1Alias>
+      <Player1Alias>Селина Анна</Player1Alias>
       <Player2Alias>Мягги Константин</Player2Alias>
       <Player1RaceCorpo>NBN</Player1RaceCorpo>
       <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
@@ -1457,7 +1457,7 @@
       <Player2Id>b1a314fc-ef31-497f-b3d8-ba888783bdae</Player2Id>
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
-      <Player1Alias>Яковлева Анна</Player1Alias>
+      <Player1Alias>Селина Анна</Player1Alias>
       <Player2Alias>Борц Ларик</Player2Alias>
       <Player1RaceCorpo>NBN</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
@@ -1476,7 +1476,7 @@
       <Player2Id>ce0df853-94a6-49dd-9fae-3d66882c7bc4</Player2Id>
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
-      <Player1Alias>Яковлева Анна</Player1Alias>
+      <Player1Alias>Селина Анна</Player1Alias>
       <Player2Alias>Ковшиков Тимофей</Player2Alias>
       <Player1RaceCorpo>NBN</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
@@ -1495,7 +1495,7 @@
       <Player2Id>77aa13bd-9150-4114-a4e5-ea9f7d3d95c0</Player2Id>
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
-      <Player1Alias>Яковлева Анна</Player1Alias>
+      <Player1Alias>Селина Анна</Player1Alias>
       <Player2Alias>Макаров Ян</Player2Alias>
       <Player1RaceCorpo>NBN</Player1RaceCorpo>
       <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
@@ -1757,7 +1757,7 @@
       <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
-      <Player1Alias>Яковлева Анна</Player1Alias>
+      <Player1Alias>Селина Анна</Player1Alias>
       <Player1RaceCorpo>NBN</Player1RaceCorpo>
       <Player2RaceCorpo>NotSet</Player2RaceCorpo>
       <Player1RaceRunner>Shaper</Player1RaceRunner>

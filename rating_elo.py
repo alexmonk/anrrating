@@ -84,13 +84,12 @@ class EloRating:
 
 	def saveRatings(self, filePath):
 		sortedPlayers = sorted(self.players.keys(), key=lambda x: self.players[x].rating * -1)
-		tableStr = []
+		text = ""
 		for player in sortedPlayers:
 			#tableStr.append(str(player.encode("utf-8")) + "\t%.2f" % self.players[player].rating + "\t%i" % self.players[player].playedGames)
-			tableStr.append(player + "\t%.2f" % self.players[player].rating + "\t%i" % self.players[player].playedGames)
+			text += player + "\t%.2f" % self.players[player].rating + "\t%i\n" % self.players[player].playedGames
 		#file = open(filePath, 'w')
 		file = open(filePath, 'w', encoding='utf8')
-		text = '\r\n'.join(tableStr)
 		file.write(text)
 		file.close()
 

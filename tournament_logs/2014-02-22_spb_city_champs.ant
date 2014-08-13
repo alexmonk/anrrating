@@ -510,7 +510,7 @@
       <Place>11</Place>
       <Name />
       <Surname />
-      <Alias>Яковлева Анна</Alias>
+      <Alias>Селина Анна</Alias>
       <RaceCorpo>HaasBioroid</RaceCorpo>
       <RaceRunner>Shaper</RaceRunner>
       <RankBeforeTournament>0</RankBeforeTournament>
@@ -604,7 +604,7 @@
           <Player1Dice>false</Player1Dice>
           <Player2Dice>false</Player2Dice>
           <Player1Alias>Сорокин Валентин</Player1Alias>
-          <Player2Alias>Яковлева Анна</Player2Alias>
+          <Player2Alias>Селина Анна</Player2Alias>
           <Player1RaceCorpo>NBN</Player1RaceCorpo>
           <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
           <Player1RaceRunner>Criminal</Player1RaceRunner>
@@ -952,7 +952,7 @@
           <Player1Dice>false</Player1Dice>
           <Player2Dice>false</Player2Dice>
           <Player1Alias>Леонов Антон</Player1Alias>
-          <Player2Alias>Яковлева Анна</Player2Alias>
+          <Player2Alias>Селина Анна</Player2Alias>
           <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
           <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
           <Player1RaceRunner>Shaper</Player1RaceRunner>
@@ -1148,7 +1148,7 @@
           <Player1Dice>false</Player1Dice>
           <Player2Dice>false</Player2Dice>
           <Player1Alias>Трескунов Игорь</Player1Alias>
-          <Player2Alias>Яковлева Анна</Player2Alias>
+          <Player2Alias>Селина Анна</Player2Alias>
           <Player1RaceCorpo>WeylandConsortium</Player1RaceCorpo>
           <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
           <Player1RaceRunner>Anarch</Player1RaceRunner>
@@ -1363,7 +1363,7 @@
           <Player1Dice>false</Player1Dice>
           <Player2Dice>false</Player2Dice>
           <Player1Alias>Волков Кирилл</Player1Alias>
-          <Player2Alias>Яковлева Анна</Player2Alias>
+          <Player2Alias>Селина Анна</Player2Alias>
           <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
           <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
           <Player1RaceRunner>Shaper</Player1RaceRunner>
@@ -1671,7 +1671,7 @@
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
       <Player1Alias>Борц Ларик</Player1Alias>
-      <Player2Alias>Яковлева Анна</Player2Alias>
+      <Player2Alias>Селина Анна</Player2Alias>
       <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
       <Player1RaceRunner>Criminal</Player1RaceRunner>
@@ -2165,7 +2165,7 @@
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
       <Player1Alias>Володин Антон</Player1Alias>
-      <Player2Alias>Яковлева Анна</Player2Alias>
+      <Player2Alias>Селина Анна</Player2Alias>
       <Player1RaceCorpo>WeylandConsortium</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
       <Player1RaceRunner>Shaper</Player1RaceRunner>
@@ -2545,7 +2545,7 @@
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
       <Player1Alias>Елисеев Борис</Player1Alias>
-      <Player2Alias>Яковлева Анна</Player2Alias>
+      <Player2Alias>Селина Анна</Player2Alias>
       <Player1RaceCorpo>WeylandConsortium</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
       <Player1RaceRunner>Criminal</Player1RaceRunner>
@@ -2754,7 +2754,7 @@
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
       <Player1Alias>Ермолаев Алексей</Player1Alias>
-      <Player2Alias>Яковлева Анна</Player2Alias>
+      <Player2Alias>Селина Анна</Player2Alias>
       <Player1RaceCorpo>NBN</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
       <Player1RaceRunner>Shaper</Player1RaceRunner>
@@ -2982,7 +2982,7 @@
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
       <Player1Alias>Зубко Дмитрий</Player1Alias>
-      <Player2Alias>Яковлева Анна</Player2Alias>
+      <Player2Alias>Селина Анна</Player2Alias>
       <Player1RaceCorpo>NBN</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
       <Player1RaceRunner>Criminal</Player1RaceRunner>
@@ -3153,7 +3153,7 @@
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
       <Player1Alias>Карташёв Дмитрий</Player1Alias>
-      <Player2Alias>Яковлева Анна</Player2Alias>
+      <Player2Alias>Селина Анна</Player2Alias>
       <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
       <Player1RaceRunner>Shaper</Player1RaceRunner>
@@ -3343,7 +3343,7 @@
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
       <Player1Alias>Куклин Андрей</Player1Alias>
-      <Player2Alias>Яковлева Анна</Player2Alias>
+      <Player2Alias>Селина Анна</Player2Alias>
       <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
       <Player1RaceRunner>Shaper</Player1RaceRunner>
@@ -3647,7 +3647,7 @@
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
       <Player1Alias>Нестеренко Виталий</Player1Alias>
-      <Player2Alias>Яковлева Анна</Player2Alias>
+      <Player2Alias>Селина Анна</Player2Alias>
       <Player1RaceCorpo>NBN</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
       <Player1RaceRunner>Criminal</Player1RaceRunner>
@@ -3742,7 +3742,7 @@
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
       <Player1Alias>Пинчук Сергей</Player1Alias>
-      <Player2Alias>Яковлева Анна</Player2Alias>
+      <Player2Alias>Селина Анна</Player2Alias>
       <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
       <Player1RaceRunner>Shaper</Player1RaceRunner>
@@ -3837,7 +3837,7 @@
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
       <Player1Alias>Привалов Денис</Player1Alias>
-      <Player2Alias>Яковлева Анна</Player2Alias>
+      <Player2Alias>Селина Анна</Player2Alias>
       <Player1RaceCorpo>WeylandConsortium</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
       <Player1RaceRunner>Criminal</Player1RaceRunner>
@@ -3951,7 +3951,7 @@
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
       <Player1Alias>Селин Станислав</Player1Alias>
-      <Player2Alias>Яковлева Анна</Player2Alias>
+      <Player2Alias>Селина Анна</Player2Alias>
       <Player1RaceCorpo>NBN</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
       <Player1RaceRunner>Criminal</Player1RaceRunner>
@@ -4160,7 +4160,7 @@
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
       <Player1Alias>Черноножкин Василий</Player1Alias>
-      <Player2Alias>Яковлева Анна</Player2Alias>
+      <Player2Alias>Селина Анна</Player2Alias>
       <Player1RaceCorpo>NBN</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
       <Player1RaceRunner>Shaper</Player1RaceRunner>
@@ -4198,7 +4198,7 @@
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
       <Player1Alias>Шурыгин Егор</Player1Alias>
-      <Player2Alias>Яковлева Анна</Player2Alias>
+      <Player2Alias>Селина Анна</Player2Alias>
       <Player1RaceCorpo>NBN</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
       <Player1RaceRunner>Criminal</Player1RaceRunner>
@@ -4388,7 +4388,7 @@
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
       <Player1Alias>Семёнов Олег</Player1Alias>
-      <Player2Alias>Яковлева Анна</Player2Alias>
+      <Player2Alias>Селина Анна</Player2Alias>
       <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
       <Player1RaceRunner>Shaper</Player1RaceRunner>
@@ -4464,7 +4464,7 @@
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
       <Player1Alias>Дмитриев Павел</Player1Alias>
-      <Player2Alias>Яковлева Анна</Player2Alias>
+      <Player2Alias>Селина Анна</Player2Alias>
       <Player1RaceCorpo>NBN</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
       <Player1RaceRunner>Criminal</Player1RaceRunner>
@@ -4615,7 +4615,7 @@
       <Player2Id>556f60ba-1dbe-40ad-94e9-648274e050b3</Player2Id>
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
-      <Player1Alias>Яковлева Анна</Player1Alias>
+      <Player1Alias>Селина Анна</Player1Alias>
       <Player2Alias>Филиппов Александр</Player2Alias>
       <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
@@ -4939,7 +4939,7 @@
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
       <Player1Alias>Малынич Александр</Player1Alias>
-      <Player2Alias>Яковлева Анна</Player2Alias>
+      <Player2Alias>Селина Анна</Player2Alias>
       <Player1RaceCorpo>WeylandConsortium</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
       <Player1RaceRunner>Criminal</Player1RaceRunner>

@@ -197,8 +197,19 @@ def createPlayersList(matches):
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
+def printTournament(tournament, filePath):
+	file = open(filePath, "w", encoding="utf8")
+	for match in tournament.matches:
+		logText = match.playerA + " " + match.toStringPlayerAPoints() + " " + match.toStringPlayerBPoints() + " " + match.playerB + "\r\n"
+		file.write(logText)
+	file.close()
+
+
 if __name__ == "__main__":
 	pass
-	#tournament = Tournament("tournament_logs/2013-09-14.ant")
-	tournament = Tournament("tournament_logs/2014-06-15_final.xml")
+	#tournament1 = Tournament("tournament_logs/2014-07-05_msk_regional.ant")
+	#tournament2 = Tournament("tournament_logs/2014-07-05_msk_side_event.ant")
+
+	#printTournament(tournament1, "!t1.txt")
+	#printTournament(tournament2, "!t2.txt")
 	pass

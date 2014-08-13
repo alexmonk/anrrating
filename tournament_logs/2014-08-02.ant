@@ -1,0 +1,2742 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tournament xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PlayoffStartRound>WithoutPlayoffs</PlayoffStartRound>
+  <Name />
+  <Date>2014-08-02T00:00:00+04:00</Date>
+  <Importance>Local</Importance>
+  <PointsTable>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>445b56e5-2724-4174-86c5-11291ba5e77d</Id>
+      <CorpoIdentity>Jinteki: Personal Evolution</CorpoIdentity>
+      <RunnerIdentity>Andromeda: Dispossessed Ristie</RunnerIdentity>
+      <Place>11</Place>
+      <Name />
+      <Surname />
+      <Alias>Амирханов Артём</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>3</GamesLoose>
+      <SmallPointsPlus>40</SmallPointsPlus>
+      <SmallPointsMinus>60</SmallPointsMinus>
+      <RunnerWins>2</RunnerWins>
+      <CorpoWins>2</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>51</Bucholz>
+      <MBucholz>33</MBucholz>
+      <Points>8</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>9577d205-a618-4a6b-b922-3c53abd491d6</Id>
+      <CorpoIdentity>Haas-Bioroid: Engineering the Future</CorpoIdentity>
+      <RunnerIdentity>Gabriel Santiago: Consummate Professional</RunnerIdentity>
+      <Place>16</Place>
+      <Name />
+      <Surname />
+      <Alias>Максимов Владимир</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>0</GamesWin>
+      <GamesDraw>2</GamesDraw>
+      <GamesLoose>3</GamesLoose>
+      <SmallPointsPlus>20</SmallPointsPlus>
+      <SmallPointsMinus>80</SmallPointsMinus>
+      <RunnerWins>2</RunnerWins>
+      <CorpoWins>0</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>36</Bucholz>
+      <MBucholz>22</MBucholz>
+      <Points>4</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>5b7e35d0-5739-4a4d-a53e-d4fb7bb37ede</Id>
+      <CorpoIdentity>Cerebral Imaging: Infinite Frontiers</CorpoIdentity>
+      <RunnerIdentity>Iain Stirling: Retired Spook</RunnerIdentity>
+      <Place>14</Place>
+      <Name />
+      <Surname />
+      <Alias>Малич Антон</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>1</GamesDraw>
+      <GamesLoose>3</GamesLoose>
+      <SmallPointsPlus>30</SmallPointsPlus>
+      <SmallPointsMinus>70</SmallPointsMinus>
+      <RunnerWins>2</RunnerWins>
+      <CorpoWins>1</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>49</Bucholz>
+      <MBucholz>31</MBucholz>
+      <Points>6</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>9c9efe98-c418-421b-b679-920e411fc07a</Id>
+      <CorpoIdentity>Jinteki: Replicating Perfection</CorpoIdentity>
+      <RunnerIdentity>Ken "Express" Tenma: Disappeared Clone</RunnerIdentity>
+      <Place>5</Place>
+      <Name />
+      <Surname />
+      <Alias>Клюйков Дмитрий</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>3</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>60</SmallPointsPlus>
+      <SmallPointsMinus>40</SmallPointsMinus>
+      <RunnerWins>3</RunnerWins>
+      <CorpoWins>3</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>62</Bucholz>
+      <MBucholz>36</MBucholz>
+      <Points>12</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>837a0584-ae22-47db-ac00-3452967a07e4</Id>
+      <CorpoIdentity>NBN: Making News</CorpoIdentity>
+      <RunnerIdentity>Kate "Mac" McCaffrey: Digital Tinker</RunnerIdentity>
+      <Place>6</Place>
+      <Name />
+      <Surname />
+      <Alias>Воробьёв Петя</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>2</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>60</SmallPointsPlus>
+      <SmallPointsMinus>40</SmallPointsMinus>
+      <RunnerWins>3</RunnerWins>
+      <CorpoWins>3</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>53</Bucholz>
+      <MBucholz>33</MBucholz>
+      <Points>12</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>1c64253c-7840-4aa0-9ee6-256714a8c6c6</Id>
+      <CorpoIdentity>NBN: The World is Yours*</CorpoIdentity>
+      <RunnerIdentity>Ken "Express" Tenma: Disappeared Clone</RunnerIdentity>
+      <Place>9</Place>
+      <Name />
+      <Surname />
+      <Alias>Зубко Дмитрий</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>3</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>50</SmallPointsPlus>
+      <SmallPointsMinus>50</SmallPointsMinus>
+      <RunnerWins>3</RunnerWins>
+      <CorpoWins>2</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>41</Bucholz>
+      <MBucholz>25</MBucholz>
+      <Points>10</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>11b7148d-2097-4d38-8d06-32347608092a</Id>
+      <CorpoIdentity>NBN: The World is Yours*</CorpoIdentity>
+      <RunnerIdentity>Kate "Mac" McCaffrey: Digital Tinker</RunnerIdentity>
+      <Place>10</Place>
+      <Name />
+      <Surname />
+      <Alias>Ярцев Александр</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>2</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>40</SmallPointsPlus>
+      <SmallPointsMinus>60</SmallPointsMinus>
+      <RunnerWins>2</RunnerWins>
+      <CorpoWins>2</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>54</Bucholz>
+      <MBucholz>36</MBucholz>
+      <Points>8</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>39742ffe-6954-44a5-880b-18d980c34962</Id>
+      <CorpoIdentity>Weyland Consortium: Building a Better World</CorpoIdentity>
+      <RunnerIdentity>Gabriel Santiago: Consummate Professional</RunnerIdentity>
+      <Place>8</Place>
+      <Name />
+      <Surname />
+      <Alias>Смирнов Михаил</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>3</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>50</SmallPointsPlus>
+      <SmallPointsMinus>50</SmallPointsMinus>
+      <RunnerWins>2</RunnerWins>
+      <CorpoWins>3</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>54</Bucholz>
+      <MBucholz>36</MBucholz>
+      <Points>10</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>cfdae1a7-71a9-4f51-b93d-b49d480aad95</Id>
+      <CorpoIdentity>NBN: Making News</CorpoIdentity>
+      <RunnerIdentity>Kate "Mac" McCaffrey: Digital Tinker</RunnerIdentity>
+      <Place>7</Place>
+      <Name />
+      <Surname />
+      <Alias>Шурыгин Егор</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>2</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>60</SmallPointsPlus>
+      <SmallPointsMinus>40</SmallPointsMinus>
+      <RunnerWins>2</RunnerWins>
+      <CorpoWins>4</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>45</Bucholz>
+      <MBucholz>25</MBucholz>
+      <Points>12</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>d4849d65-abd7-40fd-91a3-d041918c986d</Id>
+      <CorpoIdentity>Jinteki: Personal Evolution</CorpoIdentity>
+      <RunnerIdentity>Reina Roja: Freedom Fighter</RunnerIdentity>
+      <Place>15</Place>
+      <Name />
+      <Surname />
+      <Alias>Белоусов Николай</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>0</GamesWin>
+      <GamesDraw>2</GamesDraw>
+      <GamesLoose>3</GamesLoose>
+      <SmallPointsPlus>20</SmallPointsPlus>
+      <SmallPointsMinus>80</SmallPointsMinus>
+      <RunnerWins>1</RunnerWins>
+      <CorpoWins>1</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>42</Bucholz>
+      <MBucholz>24</MBucholz>
+      <Points>4</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>f60731d9-5bbb-4657-9c33-454ad290ec83</Id>
+      <CorpoIdentity>Weyland Consortium: Building a Better World</CorpoIdentity>
+      <RunnerIdentity>Chaos Theory: Wünderkind</RunnerIdentity>
+      <Place>3</Place>
+      <Name />
+      <Surname />
+      <Alias>Ковалёв Александр</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>3</GamesWin>
+      <GamesDraw>1</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>70</SmallPointsPlus>
+      <SmallPointsMinus>30</SmallPointsMinus>
+      <RunnerWins>4</RunnerWins>
+      <CorpoWins>3</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>56</Bucholz>
+      <MBucholz>32</MBucholz>
+      <Points>14</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>4f368627-2e9a-4a74-ab61-c9a945774c93</Id>
+      <CorpoIdentity>NBN: Making News</CorpoIdentity>
+      <RunnerIdentity>Reina Roja: Freedom Fighter</RunnerIdentity>
+      <Place>4</Place>
+      <Name />
+      <Surname />
+      <Alias>Пинчук Сергей</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>3</GamesWin>
+      <GamesDraw>1</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>70</SmallPointsPlus>
+      <SmallPointsMinus>30</SmallPointsMinus>
+      <RunnerWins>3</RunnerWins>
+      <CorpoWins>4</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>52</Bucholz>
+      <MBucholz>30</MBucholz>
+      <Points>14</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>41b66a34-db07-4516-8ffc-e789ddc412ac</Id>
+      <CorpoIdentity>Jinteki: Personal Evolution</CorpoIdentity>
+      <RunnerIdentity>Ken "Express" Tenma: Disappeared Clone</RunnerIdentity>
+      <Place>1</Place>
+      <Name />
+      <Surname />
+      <Alias>Попов Егор</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>4</GamesWin>
+      <GamesDraw>1</GamesDraw>
+      <GamesLoose>0</GamesLoose>
+      <SmallPointsPlus>90</SmallPointsPlus>
+      <SmallPointsMinus>10</SmallPointsMinus>
+      <RunnerWins>5</RunnerWins>
+      <CorpoWins>4</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>61</Bucholz>
+      <MBucholz>40</MBucholz>
+      <Points>18</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>652ee2f3-4b1c-46dd-a919-1b415167834d</Id>
+      <CorpoIdentity>Weyland Consortium: Building a Better World</CorpoIdentity>
+      <RunnerIdentity>Noise: Hacker Extraordinaire</RunnerIdentity>
+      <Place>2</Place>
+      <Name />
+      <Surname />
+      <Alias>Рогозин Антон</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>3</GamesDraw>
+      <GamesLoose>0</GamesLoose>
+      <SmallPointsPlus>70</SmallPointsPlus>
+      <SmallPointsMinus>30</SmallPointsMinus>
+      <RunnerWins>4</RunnerWins>
+      <CorpoWins>3</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>56</Bucholz>
+      <MBucholz>30</MBucholz>
+      <Points>14</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>d9c953c5-babc-4ec6-ad56-0503ad3b7231</Id>
+      <CorpoIdentity>Cerebral Imaging: Infinite Frontiers</CorpoIdentity>
+      <RunnerIdentity>Kate "Mac" McCaffrey: Digital Tinker</RunnerIdentity>
+      <Place>12</Place>
+      <Name />
+      <Surname />
+      <Alias>Сизякин Артём</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>2</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>36</SmallPointsPlus>
+      <SmallPointsMinus>66</SmallPointsMinus>
+      <RunnerWins>2</RunnerWins>
+      <CorpoWins>1</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>47</Bucholz>
+      <MBucholz>25</MBucholz>
+      <Points>7</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>f976f3a4-c209-4b00-bb6a-eb7e153107a3</Id>
+      <CorpoIdentity>Jinteki: Personal Evolution</CorpoIdentity>
+      <RunnerIdentity>Kate "Mac" McCaffrey: Digital Tinker</RunnerIdentity>
+      <Place>13</Place>
+      <Name />
+      <Surname />
+      <Alias>Борц Ларик</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>1</GamesDraw>
+      <GamesLoose>3</GamesLoose>
+      <SmallPointsPlus>36</SmallPointsPlus>
+      <SmallPointsMinus>66</SmallPointsMinus>
+      <RunnerWins>1</RunnerWins>
+      <CorpoWins>2</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>true</Payment>
+      <Active>true</Active>
+      <Bucholz>41</Bucholz>
+      <MBucholz>25</MBucholz>
+      <Points>7</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+  </PointsTable>
+  <Rounds>
+    <Round>
+      <ScoreEnabled>false</ScoreEnabled>
+      <Number>1</Number>
+      <Games>
+        <Game>
+          <Player1Id>445b56e5-2724-4174-86c5-11291ba5e77d</Player1Id>
+          <Player2Id>f60731d9-5bbb-4657-9c33-454ad290ec83</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Амирханов Артём</Player1Alias>
+          <Player2Alias>Ковалёв Александр</Player2Alias>
+          <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+          <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Shaper</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>1</Number>
+        </Game>
+        <Game>
+          <Player1Id>11b7148d-2097-4d38-8d06-32347608092a</Player1Id>
+          <Player2Id>652ee2f3-4b1c-46dd-a919-1b415167834d</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Ярцев Александр</Player1Alias>
+          <Player2Alias>Рогозин Антон</Player2Alias>
+          <Player1RaceCorpo>NBN</Player1RaceCorpo>
+          <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+          <Player1RaceRunner>Shaper</Player1RaceRunner>
+          <Player2RaceRunner>Anarch</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>2</Number>
+        </Game>
+        <Game>
+          <Player1Id>9577d205-a618-4a6b-b922-3c53abd491d6</Player1Id>
+          <Player2Id>5b7e35d0-5739-4a4d-a53e-d4fb7bb37ede</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Максимов Владимир</Player1Alias>
+          <Player2Alias>Малич Антон</Player2Alias>
+          <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+          <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Criminal</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>3</Number>
+        </Game>
+        <Game>
+          <Player1Id>837a0584-ae22-47db-ac00-3452967a07e4</Player1Id>
+          <Player2Id>f976f3a4-c209-4b00-bb6a-eb7e153107a3</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Воробьёв Петя</Player1Alias>
+          <Player2Alias>Борц Ларик</Player2Alias>
+          <Player1RaceCorpo>NBN</Player1RaceCorpo>
+          <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+          <Player1RaceRunner>Shaper</Player1RaceRunner>
+          <Player2RaceRunner>Shaper</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>4</Number>
+        </Game>
+        <Game>
+          <Player1Id>9c9efe98-c418-421b-b679-920e411fc07a</Player1Id>
+          <Player2Id>1c64253c-7840-4aa0-9ee6-256714a8c6c6</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Клюйков Дмитрий</Player1Alias>
+          <Player2Alias>Зубко Дмитрий</Player2Alias>
+          <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+          <Player2RaceCorpo>NBN</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Criminal</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>5</Number>
+        </Game>
+        <Game>
+          <Player1Id>41b66a34-db07-4516-8ffc-e789ddc412ac</Player1Id>
+          <Player2Id>d9c953c5-babc-4ec6-ad56-0503ad3b7231</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Попов Егор</Player1Alias>
+          <Player2Alias>Сизякин Артём</Player2Alias>
+          <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+          <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Shaper</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>6</Number>
+        </Game>
+        <Game>
+          <Player1Id>39742ffe-6954-44a5-880b-18d980c34962</Player1Id>
+          <Player2Id>cfdae1a7-71a9-4f51-b93d-b49d480aad95</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Смирнов Михаил</Player1Alias>
+          <Player2Alias>Шурыгин Егор</Player2Alias>
+          <Player1RaceCorpo>WeylandConsortium</Player1RaceCorpo>
+          <Player2RaceCorpo>NBN</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Shaper</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>7</Number>
+        </Game>
+        <Game>
+          <Player1Id>d4849d65-abd7-40fd-91a3-d041918c986d</Player1Id>
+          <Player2Id>4f368627-2e9a-4a74-ab61-c9a945774c93</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Белоусов Николай</Player1Alias>
+          <Player2Alias>Пинчук Сергей</Player2Alias>
+          <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+          <Player2RaceCorpo>NBN</Player2RaceCorpo>
+          <Player1RaceRunner>Anarch</Player1RaceRunner>
+          <Player2RaceRunner>Anarch</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>8</Number>
+        </Game>
+      </Games>
+    </Round>
+    <Round>
+      <ScoreEnabled>false</ScoreEnabled>
+      <Number>2</Number>
+      <Games>
+        <Game>
+          <Player1Id>4f368627-2e9a-4a74-ab61-c9a945774c93</Player1Id>
+          <Player2Id>41b66a34-db07-4516-8ffc-e789ddc412ac</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Пинчук Сергей</Player1Alias>
+          <Player2Alias>Попов Егор</Player2Alias>
+          <Player1RaceCorpo>NBN</Player1RaceCorpo>
+          <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+          <Player1RaceRunner>Anarch</Player1RaceRunner>
+          <Player2RaceRunner>Criminal</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>1</Number>
+        </Game>
+        <Game>
+          <Player1Id>9c9efe98-c418-421b-b679-920e411fc07a</Player1Id>
+          <Player2Id>837a0584-ae22-47db-ac00-3452967a07e4</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Клюйков Дмитрий</Player1Alias>
+          <Player2Alias>Воробьёв Петя</Player2Alias>
+          <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+          <Player2RaceCorpo>NBN</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Shaper</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>2</Number>
+        </Game>
+        <Game>
+          <Player1Id>5b7e35d0-5739-4a4d-a53e-d4fb7bb37ede</Player1Id>
+          <Player2Id>f60731d9-5bbb-4657-9c33-454ad290ec83</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Малич Антон</Player1Alias>
+          <Player2Alias>Ковалёв Александр</Player2Alias>
+          <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+          <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Shaper</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>3</Number>
+        </Game>
+        <Game>
+          <Player1Id>9577d205-a618-4a6b-b922-3c53abd491d6</Player1Id>
+          <Player2Id>39742ffe-6954-44a5-880b-18d980c34962</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Максимов Владимир</Player1Alias>
+          <Player2Alias>Смирнов Михаил</Player2Alias>
+          <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+          <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Criminal</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>4</Number>
+        </Game>
+        <Game>
+          <Player1Id>11b7148d-2097-4d38-8d06-32347608092a</Player1Id>
+          <Player2Id>cfdae1a7-71a9-4f51-b93d-b49d480aad95</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Ярцев Александр</Player1Alias>
+          <Player2Alias>Шурыгин Егор</Player2Alias>
+          <Player1RaceCorpo>NBN</Player1RaceCorpo>
+          <Player2RaceCorpo>NBN</Player2RaceCorpo>
+          <Player1RaceRunner>Shaper</Player1RaceRunner>
+          <Player2RaceRunner>Shaper</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>5</Number>
+        </Game>
+        <Game>
+          <Player1Id>445b56e5-2724-4174-86c5-11291ba5e77d</Player1Id>
+          <Player2Id>652ee2f3-4b1c-46dd-a919-1b415167834d</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Амирханов Артём</Player1Alias>
+          <Player2Alias>Рогозин Антон</Player2Alias>
+          <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+          <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Anarch</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>6</Number>
+        </Game>
+        <Game>
+          <Player1Id>1c64253c-7840-4aa0-9ee6-256714a8c6c6</Player1Id>
+          <Player2Id>d9c953c5-babc-4ec6-ad56-0503ad3b7231</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Зубко Дмитрий</Player1Alias>
+          <Player2Alias>Сизякин Артём</Player2Alias>
+          <Player1RaceCorpo>NBN</Player1RaceCorpo>
+          <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Shaper</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>7</Number>
+        </Game>
+        <Game>
+          <Player1Id>d4849d65-abd7-40fd-91a3-d041918c986d</Player1Id>
+          <Player2Id>f976f3a4-c209-4b00-bb6a-eb7e153107a3</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Белоусов Николай</Player1Alias>
+          <Player2Alias>Борц Ларик</Player2Alias>
+          <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+          <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+          <Player1RaceRunner>Anarch</Player1RaceRunner>
+          <Player2RaceRunner>Shaper</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>8</Number>
+        </Game>
+      </Games>
+    </Round>
+    <Round>
+      <ScoreEnabled>false</ScoreEnabled>
+      <Number>3</Number>
+      <Games>
+        <Game>
+          <Player1Id>9c9efe98-c418-421b-b679-920e411fc07a</Player1Id>
+          <Player2Id>41b66a34-db07-4516-8ffc-e789ddc412ac</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Клюйков Дмитрий</Player1Alias>
+          <Player2Alias>Попов Егор</Player2Alias>
+          <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+          <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Criminal</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>1</Number>
+        </Game>
+        <Game>
+          <Player1Id>cfdae1a7-71a9-4f51-b93d-b49d480aad95</Player1Id>
+          <Player2Id>f60731d9-5bbb-4657-9c33-454ad290ec83</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Шурыгин Егор</Player1Alias>
+          <Player2Alias>Ковалёв Александр</Player2Alias>
+          <Player1RaceCorpo>NBN</Player1RaceCorpo>
+          <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+          <Player1RaceRunner>Shaper</Player1RaceRunner>
+          <Player2RaceRunner>Shaper</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>2</Number>
+        </Game>
+        <Game>
+          <Player1Id>39742ffe-6954-44a5-880b-18d980c34962</Player1Id>
+          <Player2Id>652ee2f3-4b1c-46dd-a919-1b415167834d</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Смирнов Михаил</Player1Alias>
+          <Player2Alias>Рогозин Антон</Player2Alias>
+          <Player1RaceCorpo>WeylandConsortium</Player1RaceCorpo>
+          <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Anarch</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>3</Number>
+        </Game>
+        <Game>
+          <Player1Id>837a0584-ae22-47db-ac00-3452967a07e4</Player1Id>
+          <Player2Id>4f368627-2e9a-4a74-ab61-c9a945774c93</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Воробьёв Петя</Player1Alias>
+          <Player2Alias>Пинчук Сергей</Player2Alias>
+          <Player1RaceCorpo>NBN</Player1RaceCorpo>
+          <Player2RaceCorpo>NBN</Player2RaceCorpo>
+          <Player1RaceRunner>Shaper</Player1RaceRunner>
+          <Player2RaceRunner>Anarch</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>4</Number>
+        </Game>
+        <Game>
+          <Player1Id>5b7e35d0-5739-4a4d-a53e-d4fb7bb37ede</Player1Id>
+          <Player2Id>f976f3a4-c209-4b00-bb6a-eb7e153107a3</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Малич Антон</Player1Alias>
+          <Player2Alias>Борц Ларик</Player2Alias>
+          <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+          <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Shaper</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>5</Number>
+        </Game>
+        <Game>
+          <Player1Id>9577d205-a618-4a6b-b922-3c53abd491d6</Player1Id>
+          <Player2Id>11b7148d-2097-4d38-8d06-32347608092a</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Максимов Владимир</Player1Alias>
+          <Player2Alias>Ярцев Александр</Player2Alias>
+          <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+          <Player2RaceCorpo>NBN</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Shaper</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>6</Number>
+        </Game>
+        <Game>
+          <Player1Id>445b56e5-2724-4174-86c5-11291ba5e77d</Player1Id>
+          <Player2Id>d9c953c5-babc-4ec6-ad56-0503ad3b7231</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Амирханов Артём</Player1Alias>
+          <Player2Alias>Сизякин Артём</Player2Alias>
+          <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+          <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Shaper</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>7</Number>
+        </Game>
+        <Game>
+          <Player1Id>1c64253c-7840-4aa0-9ee6-256714a8c6c6</Player1Id>
+          <Player2Id>d4849d65-abd7-40fd-91a3-d041918c986d</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Зубко Дмитрий</Player1Alias>
+          <Player2Alias>Белоусов Николай</Player2Alias>
+          <Player1RaceCorpo>NBN</Player1RaceCorpo>
+          <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Anarch</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>8</Number>
+        </Game>
+      </Games>
+    </Round>
+    <Round>
+      <ScoreEnabled>false</ScoreEnabled>
+      <Number>4</Number>
+      <Games>
+        <Game>
+          <Player1Id>f60731d9-5bbb-4657-9c33-454ad290ec83</Player1Id>
+          <Player2Id>41b66a34-db07-4516-8ffc-e789ddc412ac</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Ковалёв Александр</Player1Alias>
+          <Player2Alias>Попов Егор</Player2Alias>
+          <Player1RaceCorpo>WeylandConsortium</Player1RaceCorpo>
+          <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+          <Player1RaceRunner>Shaper</Player1RaceRunner>
+          <Player2RaceRunner>Criminal</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>1</Number>
+        </Game>
+        <Game>
+          <Player1Id>9c9efe98-c418-421b-b679-920e411fc07a</Player1Id>
+          <Player2Id>652ee2f3-4b1c-46dd-a919-1b415167834d</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Клюйков Дмитрий</Player1Alias>
+          <Player2Alias>Рогозин Антон</Player2Alias>
+          <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+          <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Anarch</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>2</Number>
+        </Game>
+        <Game>
+          <Player1Id>39742ffe-6954-44a5-880b-18d980c34962</Player1Id>
+          <Player2Id>4f368627-2e9a-4a74-ab61-c9a945774c93</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Смирнов Михаил</Player1Alias>
+          <Player2Alias>Пинчук Сергей</Player2Alias>
+          <Player1RaceCorpo>WeylandConsortium</Player1RaceCorpo>
+          <Player2RaceCorpo>NBN</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Anarch</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>3</Number>
+        </Game>
+        <Game>
+          <Player1Id>1c64253c-7840-4aa0-9ee6-256714a8c6c6</Player1Id>
+          <Player2Id>11b7148d-2097-4d38-8d06-32347608092a</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Зубко Дмитрий</Player1Alias>
+          <Player2Alias>Ярцев Александр</Player2Alias>
+          <Player1RaceCorpo>NBN</Player1RaceCorpo>
+          <Player2RaceCorpo>NBN</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Shaper</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>4</Number>
+        </Game>
+        <Game>
+          <Player1Id>5b7e35d0-5739-4a4d-a53e-d4fb7bb37ede</Player1Id>
+          <Player2Id>837a0584-ae22-47db-ac00-3452967a07e4</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Малич Антон</Player1Alias>
+          <Player2Alias>Воробьёв Петя</Player2Alias>
+          <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+          <Player2RaceCorpo>NBN</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Shaper</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>5</Number>
+        </Game>
+        <Game>
+          <Player1Id>cfdae1a7-71a9-4f51-b93d-b49d480aad95</Player1Id>
+          <Player2Id>f976f3a4-c209-4b00-bb6a-eb7e153107a3</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Шурыгин Егор</Player1Alias>
+          <Player2Alias>Борц Ларик</Player2Alias>
+          <Player1RaceCorpo>NBN</Player1RaceCorpo>
+          <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+          <Player1RaceRunner>Shaper</Player1RaceRunner>
+          <Player2RaceRunner>Shaper</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>6</Number>
+        </Game>
+        <Game>
+          <Player1Id>445b56e5-2724-4174-86c5-11291ba5e77d</Player1Id>
+          <Player2Id>9577d205-a618-4a6b-b922-3c53abd491d6</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Амирханов Артём</Player1Alias>
+          <Player2Alias>Максимов Владимир</Player2Alias>
+          <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+          <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Criminal</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>7</Number>
+        </Game>
+        <Game>
+          <Player1Id>d4849d65-abd7-40fd-91a3-d041918c986d</Player1Id>
+          <Player2Id>d9c953c5-babc-4ec6-ad56-0503ad3b7231</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Белоусов Николай</Player1Alias>
+          <Player2Alias>Сизякин Артём</Player2Alias>
+          <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+          <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
+          <Player1RaceRunner>Anarch</Player1RaceRunner>
+          <Player2RaceRunner>Shaper</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>8</Number>
+        </Game>
+      </Games>
+    </Round>
+    <Round>
+      <ScoreEnabled>false</ScoreEnabled>
+      <Number>5</Number>
+      <Games>
+        <Game>
+          <Player1Id>41b66a34-db07-4516-8ffc-e789ddc412ac</Player1Id>
+          <Player2Id>652ee2f3-4b1c-46dd-a919-1b415167834d</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Попов Егор</Player1Alias>
+          <Player2Alias>Рогозин Антон</Player2Alias>
+          <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+          <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Anarch</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>1</Number>
+        </Game>
+        <Game>
+          <Player1Id>837a0584-ae22-47db-ac00-3452967a07e4</Player1Id>
+          <Player2Id>f60731d9-5bbb-4657-9c33-454ad290ec83</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Воробьёв Петя</Player1Alias>
+          <Player2Alias>Ковалёв Александр</Player2Alias>
+          <Player1RaceCorpo>NBN</Player1RaceCorpo>
+          <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+          <Player1RaceRunner>Shaper</Player1RaceRunner>
+          <Player2RaceRunner>Shaper</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>2</Number>
+        </Game>
+        <Game>
+          <Player1Id>11b7148d-2097-4d38-8d06-32347608092a</Player1Id>
+          <Player2Id>4f368627-2e9a-4a74-ab61-c9a945774c93</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Ярцев Александр</Player1Alias>
+          <Player2Alias>Пинчук Сергей</Player2Alias>
+          <Player1RaceCorpo>NBN</Player1RaceCorpo>
+          <Player2RaceCorpo>NBN</Player2RaceCorpo>
+          <Player1RaceRunner>Shaper</Player1RaceRunner>
+          <Player2RaceRunner>Anarch</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>3</Number>
+        </Game>
+        <Game>
+          <Player1Id>1c64253c-7840-4aa0-9ee6-256714a8c6c6</Player1Id>
+          <Player2Id>39742ffe-6954-44a5-880b-18d980c34962</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Зубко Дмитрий</Player1Alias>
+          <Player2Alias>Смирнов Михаил</Player2Alias>
+          <Player1RaceCorpo>NBN</Player1RaceCorpo>
+          <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Criminal</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>4</Number>
+        </Game>
+        <Game>
+          <Player1Id>445b56e5-2724-4174-86c5-11291ba5e77d</Player1Id>
+          <Player2Id>9c9efe98-c418-421b-b679-920e411fc07a</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Амирханов Артём</Player1Alias>
+          <Player2Alias>Клюйков Дмитрий</Player2Alias>
+          <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+          <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Criminal</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>5</Number>
+        </Game>
+        <Game>
+          <Player1Id>5b7e35d0-5739-4a4d-a53e-d4fb7bb37ede</Player1Id>
+          <Player2Id>cfdae1a7-71a9-4f51-b93d-b49d480aad95</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Малич Антон</Player1Alias>
+          <Player2Alias>Шурыгин Егор</Player2Alias>
+          <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+          <Player2RaceCorpo>NBN</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Shaper</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>6</Number>
+        </Game>
+        <Game>
+          <Player1Id>d9c953c5-babc-4ec6-ad56-0503ad3b7231</Player1Id>
+          <Player2Id>f976f3a4-c209-4b00-bb6a-eb7e153107a3</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Сизякин Артём</Player1Alias>
+          <Player2Alias>Борц Ларик</Player2Alias>
+          <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+          <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+          <Player1RaceRunner>Shaper</Player1RaceRunner>
+          <Player2RaceRunner>Shaper</Player2RaceRunner>
+          <Player1Score1>6</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>6</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>7</Number>
+        </Game>
+        <Game>
+          <Player1Id>9577d205-a618-4a6b-b922-3c53abd491d6</Player1Id>
+          <Player2Id>d4849d65-abd7-40fd-91a3-d041918c986d</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Максимов Владимир</Player1Alias>
+          <Player2Alias>Белоусов Николай</Player2Alias>
+          <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+          <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+          <Player1RaceRunner>Criminal</Player1RaceRunner>
+          <Player2RaceRunner>Anarch</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>8</Number>
+        </Game>
+      </Games>
+    </Round>
+  </Rounds>
+  <AllGames>
+    <Game>
+      <Player1Id>445b56e5-2724-4174-86c5-11291ba5e77d</Player1Id>
+      <Player2Id>5b7e35d0-5739-4a4d-a53e-d4fb7bb37ede</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Амирханов Артём</Player1Alias>
+      <Player2Alias>Малич Антон</Player2Alias>
+      <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+      <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Criminal</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>445b56e5-2724-4174-86c5-11291ba5e77d</Player1Id>
+      <Player2Id>837a0584-ae22-47db-ac00-3452967a07e4</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Амирханов Артём</Player1Alias>
+      <Player2Alias>Воробьёв Петя</Player2Alias>
+      <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+      <Player2RaceCorpo>NBN</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>445b56e5-2724-4174-86c5-11291ba5e77d</Player1Id>
+      <Player2Id>1c64253c-7840-4aa0-9ee6-256714a8c6c6</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Амирханов Артём</Player1Alias>
+      <Player2Alias>Зубко Дмитрий</Player2Alias>
+      <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+      <Player2RaceCorpo>NBN</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Criminal</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>445b56e5-2724-4174-86c5-11291ba5e77d</Player1Id>
+      <Player2Id>11b7148d-2097-4d38-8d06-32347608092a</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Амирханов Артём</Player1Alias>
+      <Player2Alias>Ярцев Александр</Player2Alias>
+      <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+      <Player2RaceCorpo>NBN</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>445b56e5-2724-4174-86c5-11291ba5e77d</Player1Id>
+      <Player2Id>39742ffe-6954-44a5-880b-18d980c34962</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Амирханов Артём</Player1Alias>
+      <Player2Alias>Смирнов Михаил</Player2Alias>
+      <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+      <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Criminal</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>445b56e5-2724-4174-86c5-11291ba5e77d</Player1Id>
+      <Player2Id>cfdae1a7-71a9-4f51-b93d-b49d480aad95</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Амирханов Артём</Player1Alias>
+      <Player2Alias>Шурыгин Егор</Player2Alias>
+      <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+      <Player2RaceCorpo>NBN</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>445b56e5-2724-4174-86c5-11291ba5e77d</Player1Id>
+      <Player2Id>d4849d65-abd7-40fd-91a3-d041918c986d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Амирханов Артём</Player1Alias>
+      <Player2Alias>Белоусов Николай</Player2Alias>
+      <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Anarch</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>445b56e5-2724-4174-86c5-11291ba5e77d</Player1Id>
+      <Player2Id>4f368627-2e9a-4a74-ab61-c9a945774c93</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Амирханов Артём</Player1Alias>
+      <Player2Alias>Пинчук Сергей</Player2Alias>
+      <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+      <Player2RaceCorpo>NBN</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Anarch</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>445b56e5-2724-4174-86c5-11291ba5e77d</Player1Id>
+      <Player2Id>41b66a34-db07-4516-8ffc-e789ddc412ac</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Амирханов Артём</Player1Alias>
+      <Player2Alias>Попов Егор</Player2Alias>
+      <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Criminal</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>445b56e5-2724-4174-86c5-11291ba5e77d</Player1Id>
+      <Player2Id>f976f3a4-c209-4b00-bb6a-eb7e153107a3</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Амирханов Артём</Player1Alias>
+      <Player2Alias>Борц Ларик</Player2Alias>
+      <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>9577d205-a618-4a6b-b922-3c53abd491d6</Player1Id>
+      <Player2Id>9c9efe98-c418-421b-b679-920e411fc07a</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Максимов Владимир</Player1Alias>
+      <Player2Alias>Клюйков Дмитрий</Player2Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Criminal</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>9577d205-a618-4a6b-b922-3c53abd491d6</Player1Id>
+      <Player2Id>837a0584-ae22-47db-ac00-3452967a07e4</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Максимов Владимир</Player1Alias>
+      <Player2Alias>Воробьёв Петя</Player2Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>NBN</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>9577d205-a618-4a6b-b922-3c53abd491d6</Player1Id>
+      <Player2Id>1c64253c-7840-4aa0-9ee6-256714a8c6c6</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Максимов Владимир</Player1Alias>
+      <Player2Alias>Зубко Дмитрий</Player2Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>NBN</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Criminal</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>9577d205-a618-4a6b-b922-3c53abd491d6</Player1Id>
+      <Player2Id>cfdae1a7-71a9-4f51-b93d-b49d480aad95</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Максимов Владимир</Player1Alias>
+      <Player2Alias>Шурыгин Егор</Player2Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>NBN</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>9577d205-a618-4a6b-b922-3c53abd491d6</Player1Id>
+      <Player2Id>f60731d9-5bbb-4657-9c33-454ad290ec83</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Максимов Владимир</Player1Alias>
+      <Player2Alias>Ковалёв Александр</Player2Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>9577d205-a618-4a6b-b922-3c53abd491d6</Player1Id>
+      <Player2Id>4f368627-2e9a-4a74-ab61-c9a945774c93</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Максимов Владимир</Player1Alias>
+      <Player2Alias>Пинчук Сергей</Player2Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>NBN</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Anarch</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>9577d205-a618-4a6b-b922-3c53abd491d6</Player1Id>
+      <Player2Id>41b66a34-db07-4516-8ffc-e789ddc412ac</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Максимов Владимир</Player1Alias>
+      <Player2Alias>Попов Егор</Player2Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Criminal</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>9577d205-a618-4a6b-b922-3c53abd491d6</Player1Id>
+      <Player2Id>652ee2f3-4b1c-46dd-a919-1b415167834d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Максимов Владимир</Player1Alias>
+      <Player2Alias>Рогозин Антон</Player2Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Anarch</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>9577d205-a618-4a6b-b922-3c53abd491d6</Player1Id>
+      <Player2Id>d9c953c5-babc-4ec6-ad56-0503ad3b7231</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Максимов Владимир</Player1Alias>
+      <Player2Alias>Сизякин Артём</Player2Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>9577d205-a618-4a6b-b922-3c53abd491d6</Player1Id>
+      <Player2Id>f976f3a4-c209-4b00-bb6a-eb7e153107a3</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Максимов Владимир</Player1Alias>
+      <Player2Alias>Борц Ларик</Player2Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>5b7e35d0-5739-4a4d-a53e-d4fb7bb37ede</Player1Id>
+      <Player2Id>9c9efe98-c418-421b-b679-920e411fc07a</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Малич Антон</Player1Alias>
+      <Player2Alias>Клюйков Дмитрий</Player2Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Criminal</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>5b7e35d0-5739-4a4d-a53e-d4fb7bb37ede</Player1Id>
+      <Player2Id>1c64253c-7840-4aa0-9ee6-256714a8c6c6</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Малич Антон</Player1Alias>
+      <Player2Alias>Зубко Дмитрий</Player2Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>NBN</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Criminal</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>5b7e35d0-5739-4a4d-a53e-d4fb7bb37ede</Player1Id>
+      <Player2Id>11b7148d-2097-4d38-8d06-32347608092a</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Малич Антон</Player1Alias>
+      <Player2Alias>Ярцев Александр</Player2Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>NBN</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>5b7e35d0-5739-4a4d-a53e-d4fb7bb37ede</Player1Id>
+      <Player2Id>39742ffe-6954-44a5-880b-18d980c34962</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Малич Антон</Player1Alias>
+      <Player2Alias>Смирнов Михаил</Player2Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Criminal</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>5b7e35d0-5739-4a4d-a53e-d4fb7bb37ede</Player1Id>
+      <Player2Id>d4849d65-abd7-40fd-91a3-d041918c986d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Малич Антон</Player1Alias>
+      <Player2Alias>Белоусов Николай</Player2Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Anarch</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>5b7e35d0-5739-4a4d-a53e-d4fb7bb37ede</Player1Id>
+      <Player2Id>4f368627-2e9a-4a74-ab61-c9a945774c93</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Малич Антон</Player1Alias>
+      <Player2Alias>Пинчук Сергей</Player2Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>NBN</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Anarch</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>5b7e35d0-5739-4a4d-a53e-d4fb7bb37ede</Player1Id>
+      <Player2Id>41b66a34-db07-4516-8ffc-e789ddc412ac</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Малич Антон</Player1Alias>
+      <Player2Alias>Попов Егор</Player2Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Criminal</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>5b7e35d0-5739-4a4d-a53e-d4fb7bb37ede</Player1Id>
+      <Player2Id>652ee2f3-4b1c-46dd-a919-1b415167834d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Малич Антон</Player1Alias>
+      <Player2Alias>Рогозин Антон</Player2Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Anarch</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>5b7e35d0-5739-4a4d-a53e-d4fb7bb37ede</Player1Id>
+      <Player2Id>d9c953c5-babc-4ec6-ad56-0503ad3b7231</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Малич Антон</Player1Alias>
+      <Player2Alias>Сизякин Артём</Player2Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>9c9efe98-c418-421b-b679-920e411fc07a</Player1Id>
+      <Player2Id>11b7148d-2097-4d38-8d06-32347608092a</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Клюйков Дмитрий</Player1Alias>
+      <Player2Alias>Ярцев Александр</Player2Alias>
+      <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+      <Player2RaceCorpo>NBN</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>9c9efe98-c418-421b-b679-920e411fc07a</Player1Id>
+      <Player2Id>39742ffe-6954-44a5-880b-18d980c34962</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Клюйков Дмитрий</Player1Alias>
+      <Player2Alias>Смирнов Михаил</Player2Alias>
+      <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+      <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Criminal</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>9c9efe98-c418-421b-b679-920e411fc07a</Player1Id>
+      <Player2Id>cfdae1a7-71a9-4f51-b93d-b49d480aad95</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Клюйков Дмитрий</Player1Alias>
+      <Player2Alias>Шурыгин Егор</Player2Alias>
+      <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+      <Player2RaceCorpo>NBN</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>9c9efe98-c418-421b-b679-920e411fc07a</Player1Id>
+      <Player2Id>d4849d65-abd7-40fd-91a3-d041918c986d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Клюйков Дмитрий</Player1Alias>
+      <Player2Alias>Белоусов Николай</Player2Alias>
+      <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Anarch</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>9c9efe98-c418-421b-b679-920e411fc07a</Player1Id>
+      <Player2Id>f60731d9-5bbb-4657-9c33-454ad290ec83</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Клюйков Дмитрий</Player1Alias>
+      <Player2Alias>Ковалёв Александр</Player2Alias>
+      <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+      <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>9c9efe98-c418-421b-b679-920e411fc07a</Player1Id>
+      <Player2Id>4f368627-2e9a-4a74-ab61-c9a945774c93</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Клюйков Дмитрий</Player1Alias>
+      <Player2Alias>Пинчук Сергей</Player2Alias>
+      <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+      <Player2RaceCorpo>NBN</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Anarch</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>9c9efe98-c418-421b-b679-920e411fc07a</Player1Id>
+      <Player2Id>d9c953c5-babc-4ec6-ad56-0503ad3b7231</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Клюйков Дмитрий</Player1Alias>
+      <Player2Alias>Сизякин Артём</Player2Alias>
+      <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+      <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>9c9efe98-c418-421b-b679-920e411fc07a</Player1Id>
+      <Player2Id>f976f3a4-c209-4b00-bb6a-eb7e153107a3</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Клюйков Дмитрий</Player1Alias>
+      <Player2Alias>Борц Ларик</Player2Alias>
+      <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>837a0584-ae22-47db-ac00-3452967a07e4</Player1Id>
+      <Player2Id>1c64253c-7840-4aa0-9ee6-256714a8c6c6</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Воробьёв Петя</Player1Alias>
+      <Player2Alias>Зубко Дмитрий</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>NBN</Player2RaceCorpo>
+      <Player1RaceRunner>Shaper</Player1RaceRunner>
+      <Player2RaceRunner>Criminal</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>837a0584-ae22-47db-ac00-3452967a07e4</Player1Id>
+      <Player2Id>11b7148d-2097-4d38-8d06-32347608092a</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Воробьёв Петя</Player1Alias>
+      <Player2Alias>Ярцев Александр</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>NBN</Player2RaceCorpo>
+      <Player1RaceRunner>Shaper</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>837a0584-ae22-47db-ac00-3452967a07e4</Player1Id>
+      <Player2Id>39742ffe-6954-44a5-880b-18d980c34962</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Воробьёв Петя</Player1Alias>
+      <Player2Alias>Смирнов Михаил</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+      <Player1RaceRunner>Shaper</Player1RaceRunner>
+      <Player2RaceRunner>Criminal</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>837a0584-ae22-47db-ac00-3452967a07e4</Player1Id>
+      <Player2Id>cfdae1a7-71a9-4f51-b93d-b49d480aad95</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Воробьёв Петя</Player1Alias>
+      <Player2Alias>Шурыгин Егор</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>NBN</Player2RaceCorpo>
+      <Player1RaceRunner>Shaper</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>837a0584-ae22-47db-ac00-3452967a07e4</Player1Id>
+      <Player2Id>d4849d65-abd7-40fd-91a3-d041918c986d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Воробьёв Петя</Player1Alias>
+      <Player2Alias>Белоусов Николай</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Shaper</Player1RaceRunner>
+      <Player2RaceRunner>Anarch</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>837a0584-ae22-47db-ac00-3452967a07e4</Player1Id>
+      <Player2Id>41b66a34-db07-4516-8ffc-e789ddc412ac</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Воробьёв Петя</Player1Alias>
+      <Player2Alias>Попов Егор</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Shaper</Player1RaceRunner>
+      <Player2RaceRunner>Criminal</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>837a0584-ae22-47db-ac00-3452967a07e4</Player1Id>
+      <Player2Id>652ee2f3-4b1c-46dd-a919-1b415167834d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Воробьёв Петя</Player1Alias>
+      <Player2Alias>Рогозин Антон</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+      <Player1RaceRunner>Shaper</Player1RaceRunner>
+      <Player2RaceRunner>Anarch</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>837a0584-ae22-47db-ac00-3452967a07e4</Player1Id>
+      <Player2Id>d9c953c5-babc-4ec6-ad56-0503ad3b7231</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Воробьёв Петя</Player1Alias>
+      <Player2Alias>Сизякин Артём</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
+      <Player1RaceRunner>Shaper</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>1c64253c-7840-4aa0-9ee6-256714a8c6c6</Player1Id>
+      <Player2Id>cfdae1a7-71a9-4f51-b93d-b49d480aad95</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Зубко Дмитрий</Player1Alias>
+      <Player2Alias>Шурыгин Егор</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>NBN</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>1c64253c-7840-4aa0-9ee6-256714a8c6c6</Player1Id>
+      <Player2Id>f60731d9-5bbb-4657-9c33-454ad290ec83</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Зубко Дмитрий</Player1Alias>
+      <Player2Alias>Ковалёв Александр</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>1c64253c-7840-4aa0-9ee6-256714a8c6c6</Player1Id>
+      <Player2Id>4f368627-2e9a-4a74-ab61-c9a945774c93</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Зубко Дмитрий</Player1Alias>
+      <Player2Alias>Пинчук Сергей</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>NBN</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Anarch</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>1c64253c-7840-4aa0-9ee6-256714a8c6c6</Player1Id>
+      <Player2Id>41b66a34-db07-4516-8ffc-e789ddc412ac</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Зубко Дмитрий</Player1Alias>
+      <Player2Alias>Попов Егор</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Criminal</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>1c64253c-7840-4aa0-9ee6-256714a8c6c6</Player1Id>
+      <Player2Id>652ee2f3-4b1c-46dd-a919-1b415167834d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Зубко Дмитрий</Player1Alias>
+      <Player2Alias>Рогозин Антон</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Anarch</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>1c64253c-7840-4aa0-9ee6-256714a8c6c6</Player1Id>
+      <Player2Id>f976f3a4-c209-4b00-bb6a-eb7e153107a3</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Зубко Дмитрий</Player1Alias>
+      <Player2Alias>Борц Ларик</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>11b7148d-2097-4d38-8d06-32347608092a</Player1Id>
+      <Player2Id>39742ffe-6954-44a5-880b-18d980c34962</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Ярцев Александр</Player1Alias>
+      <Player2Alias>Смирнов Михаил</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+      <Player1RaceRunner>Shaper</Player1RaceRunner>
+      <Player2RaceRunner>Criminal</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>11b7148d-2097-4d38-8d06-32347608092a</Player1Id>
+      <Player2Id>d4849d65-abd7-40fd-91a3-d041918c986d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Ярцев Александр</Player1Alias>
+      <Player2Alias>Белоусов Николай</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Shaper</Player1RaceRunner>
+      <Player2RaceRunner>Anarch</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>11b7148d-2097-4d38-8d06-32347608092a</Player1Id>
+      <Player2Id>f60731d9-5bbb-4657-9c33-454ad290ec83</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Ярцев Александр</Player1Alias>
+      <Player2Alias>Ковалёв Александр</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+      <Player1RaceRunner>Shaper</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>11b7148d-2097-4d38-8d06-32347608092a</Player1Id>
+      <Player2Id>41b66a34-db07-4516-8ffc-e789ddc412ac</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Ярцев Александр</Player1Alias>
+      <Player2Alias>Попов Егор</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Shaper</Player1RaceRunner>
+      <Player2RaceRunner>Criminal</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>11b7148d-2097-4d38-8d06-32347608092a</Player1Id>
+      <Player2Id>d9c953c5-babc-4ec6-ad56-0503ad3b7231</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Ярцев Александр</Player1Alias>
+      <Player2Alias>Сизякин Артём</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
+      <Player1RaceRunner>Shaper</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>11b7148d-2097-4d38-8d06-32347608092a</Player1Id>
+      <Player2Id>f976f3a4-c209-4b00-bb6a-eb7e153107a3</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Ярцев Александр</Player1Alias>
+      <Player2Alias>Борц Ларик</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Shaper</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>39742ffe-6954-44a5-880b-18d980c34962</Player1Id>
+      <Player2Id>d4849d65-abd7-40fd-91a3-d041918c986d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Смирнов Михаил</Player1Alias>
+      <Player2Alias>Белоусов Николай</Player2Alias>
+      <Player1RaceCorpo>WeylandConsortium</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Anarch</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>39742ffe-6954-44a5-880b-18d980c34962</Player1Id>
+      <Player2Id>f60731d9-5bbb-4657-9c33-454ad290ec83</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Смирнов Михаил</Player1Alias>
+      <Player2Alias>Ковалёв Александр</Player2Alias>
+      <Player1RaceCorpo>WeylandConsortium</Player1RaceCorpo>
+      <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>39742ffe-6954-44a5-880b-18d980c34962</Player1Id>
+      <Player2Id>41b66a34-db07-4516-8ffc-e789ddc412ac</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Смирнов Михаил</Player1Alias>
+      <Player2Alias>Попов Егор</Player2Alias>
+      <Player1RaceCorpo>WeylandConsortium</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Criminal</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>39742ffe-6954-44a5-880b-18d980c34962</Player1Id>
+      <Player2Id>d9c953c5-babc-4ec6-ad56-0503ad3b7231</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Смирнов Михаил</Player1Alias>
+      <Player2Alias>Сизякин Артём</Player2Alias>
+      <Player1RaceCorpo>WeylandConsortium</Player1RaceCorpo>
+      <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>39742ffe-6954-44a5-880b-18d980c34962</Player1Id>
+      <Player2Id>f976f3a4-c209-4b00-bb6a-eb7e153107a3</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Смирнов Михаил</Player1Alias>
+      <Player2Alias>Борц Ларик</Player2Alias>
+      <Player1RaceCorpo>WeylandConsortium</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>cfdae1a7-71a9-4f51-b93d-b49d480aad95</Player1Id>
+      <Player2Id>d4849d65-abd7-40fd-91a3-d041918c986d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Шурыгин Егор</Player1Alias>
+      <Player2Alias>Белоусов Николай</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Shaper</Player1RaceRunner>
+      <Player2RaceRunner>Anarch</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>cfdae1a7-71a9-4f51-b93d-b49d480aad95</Player1Id>
+      <Player2Id>4f368627-2e9a-4a74-ab61-c9a945774c93</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Шурыгин Егор</Player1Alias>
+      <Player2Alias>Пинчук Сергей</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>NBN</Player2RaceCorpo>
+      <Player1RaceRunner>Shaper</Player1RaceRunner>
+      <Player2RaceRunner>Anarch</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>cfdae1a7-71a9-4f51-b93d-b49d480aad95</Player1Id>
+      <Player2Id>41b66a34-db07-4516-8ffc-e789ddc412ac</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Шурыгин Егор</Player1Alias>
+      <Player2Alias>Попов Егор</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Shaper</Player1RaceRunner>
+      <Player2RaceRunner>Criminal</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>cfdae1a7-71a9-4f51-b93d-b49d480aad95</Player1Id>
+      <Player2Id>652ee2f3-4b1c-46dd-a919-1b415167834d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Шурыгин Егор</Player1Alias>
+      <Player2Alias>Рогозин Антон</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+      <Player1RaceRunner>Shaper</Player1RaceRunner>
+      <Player2RaceRunner>Anarch</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>cfdae1a7-71a9-4f51-b93d-b49d480aad95</Player1Id>
+      <Player2Id>d9c953c5-babc-4ec6-ad56-0503ad3b7231</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Шурыгин Егор</Player1Alias>
+      <Player2Alias>Сизякин Артём</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
+      <Player1RaceRunner>Shaper</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>d4849d65-abd7-40fd-91a3-d041918c986d</Player1Id>
+      <Player2Id>f60731d9-5bbb-4657-9c33-454ad290ec83</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Белоусов Николай</Player1Alias>
+      <Player2Alias>Ковалёв Александр</Player2Alias>
+      <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+      <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+      <Player1RaceRunner>Anarch</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>d4849d65-abd7-40fd-91a3-d041918c986d</Player1Id>
+      <Player2Id>41b66a34-db07-4516-8ffc-e789ddc412ac</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Белоусов Николай</Player1Alias>
+      <Player2Alias>Попов Егор</Player2Alias>
+      <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Anarch</Player1RaceRunner>
+      <Player2RaceRunner>Criminal</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>d4849d65-abd7-40fd-91a3-d041918c986d</Player1Id>
+      <Player2Id>652ee2f3-4b1c-46dd-a919-1b415167834d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Белоусов Николай</Player1Alias>
+      <Player2Alias>Рогозин Антон</Player2Alias>
+      <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+      <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+      <Player1RaceRunner>Anarch</Player1RaceRunner>
+      <Player2RaceRunner>Anarch</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>f60731d9-5bbb-4657-9c33-454ad290ec83</Player1Id>
+      <Player2Id>4f368627-2e9a-4a74-ab61-c9a945774c93</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Ковалёв Александр</Player1Alias>
+      <Player2Alias>Пинчук Сергей</Player2Alias>
+      <Player1RaceCorpo>WeylandConsortium</Player1RaceCorpo>
+      <Player2RaceCorpo>NBN</Player2RaceCorpo>
+      <Player1RaceRunner>Shaper</Player1RaceRunner>
+      <Player2RaceRunner>Anarch</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>f60731d9-5bbb-4657-9c33-454ad290ec83</Player1Id>
+      <Player2Id>652ee2f3-4b1c-46dd-a919-1b415167834d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Ковалёв Александр</Player1Alias>
+      <Player2Alias>Рогозин Антон</Player2Alias>
+      <Player1RaceCorpo>WeylandConsortium</Player1RaceCorpo>
+      <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+      <Player1RaceRunner>Shaper</Player1RaceRunner>
+      <Player2RaceRunner>Anarch</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>f60731d9-5bbb-4657-9c33-454ad290ec83</Player1Id>
+      <Player2Id>d9c953c5-babc-4ec6-ad56-0503ad3b7231</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Ковалёв Александр</Player1Alias>
+      <Player2Alias>Сизякин Артём</Player2Alias>
+      <Player1RaceCorpo>WeylandConsortium</Player1RaceCorpo>
+      <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
+      <Player1RaceRunner>Shaper</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>f60731d9-5bbb-4657-9c33-454ad290ec83</Player1Id>
+      <Player2Id>f976f3a4-c209-4b00-bb6a-eb7e153107a3</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Ковалёв Александр</Player1Alias>
+      <Player2Alias>Борц Ларик</Player2Alias>
+      <Player1RaceCorpo>WeylandConsortium</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Shaper</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>4f368627-2e9a-4a74-ab61-c9a945774c93</Player1Id>
+      <Player2Id>652ee2f3-4b1c-46dd-a919-1b415167834d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Пинчук Сергей</Player1Alias>
+      <Player2Alias>Рогозин Антон</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>WeylandConsortium</Player2RaceCorpo>
+      <Player1RaceRunner>Anarch</Player1RaceRunner>
+      <Player2RaceRunner>Anarch</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>4f368627-2e9a-4a74-ab61-c9a945774c93</Player1Id>
+      <Player2Id>d9c953c5-babc-4ec6-ad56-0503ad3b7231</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Пинчук Сергей</Player1Alias>
+      <Player2Alias>Сизякин Артём</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
+      <Player1RaceRunner>Anarch</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>4f368627-2e9a-4a74-ab61-c9a945774c93</Player1Id>
+      <Player2Id>f976f3a4-c209-4b00-bb6a-eb7e153107a3</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Пинчук Сергей</Player1Alias>
+      <Player2Alias>Борц Ларик</Player2Alias>
+      <Player1RaceCorpo>NBN</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Anarch</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>41b66a34-db07-4516-8ffc-e789ddc412ac</Player1Id>
+      <Player2Id>f976f3a4-c209-4b00-bb6a-eb7e153107a3</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Попов Егор</Player1Alias>
+      <Player2Alias>Борц Ларик</Player2Alias>
+      <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Criminal</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>652ee2f3-4b1c-46dd-a919-1b415167834d</Player1Id>
+      <Player2Id>d9c953c5-babc-4ec6-ad56-0503ad3b7231</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Рогозин Антон</Player1Alias>
+      <Player2Alias>Сизякин Артём</Player2Alias>
+      <Player1RaceCorpo>WeylandConsortium</Player1RaceCorpo>
+      <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
+      <Player1RaceRunner>Anarch</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>652ee2f3-4b1c-46dd-a919-1b415167834d</Player1Id>
+      <Player2Id>f976f3a4-c209-4b00-bb6a-eb7e153107a3</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Рогозин Антон</Player1Alias>
+      <Player2Alias>Борц Ларик</Player2Alias>
+      <Player1RaceCorpo>WeylandConsortium</Player1RaceCorpo>
+      <Player2RaceCorpo>Jinteki</Player2RaceCorpo>
+      <Player1RaceRunner>Anarch</Player1RaceRunner>
+      <Player2RaceRunner>Shaper</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+  </AllGames>
+  <FinalResults />
+  <Playoffs16 />
+  <Playoffs8 />
+</Tournament>
