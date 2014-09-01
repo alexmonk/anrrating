@@ -38,6 +38,9 @@ class Game:
 			return (0., 1.)
 		return (0.5, 0.5)
 
+	def isZeroPoints(self):
+		return self.playerAPoints == 0 and self.playerBPoints == 0
+
 # ----------------------------
 
 class Match:
@@ -96,17 +99,19 @@ def createSwissMatchFromMatchDict(matchDict):
 		return None
 
 	match = Match(matchDict["Player1Alias"], matchDict["Player2Alias"])
-	def addSwissGame(pointsA, pointsB):
-		match.addGame(Game(pointsA, pointsB))
-		if int(pointsA) != 0 or int(pointsB) != 0:
-			return True
-		else:
-			return False
 
-	validSwissGame = addSwissGame(matchDict["Player1Score1"], matchDict["Player2Score1"])
-	validSwissGame = addSwissGame(matchDict["Player1Score2"], matchDict["Player2Score2"]) or validSwissGame
-	if not validSwissGame and matchDict["IsSecondGameNotStarted"] == "false":
+	game1 = Game(matchDict["Player1Score1"], matchDict["Player2Score1"])
+	game2 = Game(matchDict["Player1Score2"], matchDict["Player2Score2"])
+	if matchDict["IsSecondGameNotStarted"] == "false" and game1.isZeroPoints() and game2.isZeroPoints():
 		return None
+	if matchDict["IsSecondGameNotStarted"] == "true":
+		if not game1.isZeroPoints():
+			match.addGame(game1)
+		else:
+			match.addGame(game2)
+	else:
+		match.addGame(game1)
+		match.addGame(game2)
 	return match
 
 
@@ -117,8 +122,12 @@ def createPlayoffMatchFromMatchDict(matchDict):
 		if int(pointsA) != 0 or int(pointsB) != 0:
 			match.addGame(Game(pointsA, pointsB))
 
-	addPlayoffGame(matchDict["Player1Score1"], matchDict["Player2Score1"])
-	addPlayoffGame(matchDict["Player1Score2"], matchDict["Player2Score2"])
+	game1 = Game(matchDict["Player1Score1"], matchDict["Player2Score1"])
+	if not game1.isZeroPoints():
+		match.addGame(game1)
+	game2 = Game(matchDict["Player1Score2"], matchDict["Player2Score2"])
+	if not game2.isZeroPoints():
+		match.addGame(game2)
 	if match.getCountGames() == 0:
 		return None
 	return match
