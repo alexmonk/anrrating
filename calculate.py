@@ -5,6 +5,7 @@ from datetime import datetime
 
 from tournament import Tournament
 from tournament import createPlayersList
+from pairings import Pairings
 from rating_elo import EloRating
 from rating_least_squares import LeastSquaresRating
 
@@ -33,30 +34,20 @@ def executeRatingCalculate():
 	if checkTournamentDates(tournaments):
 		return
 
-	#debug
-	players = []
-	def addPlayer(playerName):
-		if not playerName in players:
-			print("Added player " + playerName)
-			players.append(playerName)
-	#end debug
-
 	print("Calculating elo ratings")
 	elo = EloRating()
+	pairings = Pairings()
 	for tournament in tournaments:
-		tournamentName = tournament.filePath.replace(directoryWithLogs, "")
-		print(tournamentName)
 		for match in tournament.matches:
-			elo.updateByMatch(match, tournamentName)
-			addPlayer(match.playerA)  #debug
-			addPlayer(match.playerB)  #debug
+			pairings.addMatch(match)
+			elo.updateByMatch(match, tournament)
 
 	print("Done")
 
 	if not os.path.exists("playerHistory"):
 		os.makedirs("playerHistory")
 	elo.saveHistory("playerHistory")
-	elo.saveRatings("netrunner_elo_rating.csv")
+	elo.saveRatings("netrunner_elo_rating.csv", pairings)
 
 	#leastSquares = LeastSquaresRating(matches)
 	pass

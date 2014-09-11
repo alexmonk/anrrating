@@ -88,6 +88,11 @@ class Match:
 				pointsString += str(game.playerBPoints)
 		return "(" + pointsString + ")"
 
+	def toStringPlayerAMatch(self):
+		return self.playerA + " " + self.toStringPlayerAPoints() + " - " + self.toStringPlayerBPoints() + " " + self.playerB
+
+	def toStringPlayerBMatch(self):
+		return self.playerB + " " + self.toStringPlayerBPoints() + " - " + self.toStringPlayerAPoints() + " " + self.playerA
 
 	def getCountGames(self):
 		return len(self.games)
@@ -172,7 +177,7 @@ def createMatchesFromPlayoffDict(playoffDict):
 
 class Tournament:
 	def __init__(self, filePath):
-		self.filePath = filePath
+		self.name = filePath
 		file = open(filePath, 'r', encoding='utf8')
 		tournamentDict  = xmltodict.parse(file.read())
 		tournamentDict = tournamentDict["Tournament"]
