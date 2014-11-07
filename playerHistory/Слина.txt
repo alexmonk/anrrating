@@ -1,0 +1,3 @@
+(ratingA +/- deltaA) nameA (corpA/runnerA) - (runnerB/corpB) nameB (ratingB +/- deltaB)
+tournament_results/2014-10-04_national.xml
+(1000.00 -5.866) Слина (0) - (4) Слина (1152.77 +5.866)

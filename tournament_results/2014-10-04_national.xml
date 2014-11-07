@@ -1,0 +1,620 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+<header>
+	<date>2014-10-04T00:00:00+04:00</date>
+</header>
+
+<games>
+<!-- Tour 1 -->
+	<item>
+		<player1>Лапыгин Антон</player1>
+		<player2>Малич Антон</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Ярцев Александр</player1>
+		<player2>Володин Антон</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Булатов Вадим</player1>
+		<player2>Елисеев Борис</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Черноножкин Василий</player1>
+		<player2>Колмаков Пётр</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Попов Егор</player1>
+		<player2>Селина Анна</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Рогозин Антон</player1>
+		<player2>Данюшевский Пётр</player2>
+		<prestige1>1</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Шурыгин Егор</player1>
+		<player2>Мухин Анатолий</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Зубко Дмитрий</player1>
+		<player2>Ковалёв Александр</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Борц Ларик</player1>
+		<player2>Пинчук Алексей</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Полевиков Александр</player1>
+		<player2>Селин Станислав</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Дмитриев Павел</player1>
+		<player2>Овешников Андрей</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Ермолаев Алексей</player1>
+		<player2>Голцов</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Пинчук Сергей</player1>
+		<player2>Смирнов Михаил</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+
+
+<!-- Tour 2 -->
+	<item>
+		<player1>Лапыгин Антон</player1>
+		<player2>Булатов Вадим</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Ярцев Александр</player1>
+		<player2>Дмитриев Павел</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Черноножкин Василий</player1>
+		<player2>Смирнов Михаил</player2>
+		<prestige1>2</prestige1>
+		<prestige2>1</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Попов Егор</player1>
+		<player2>Сорокин Валентин</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Рогозин Антон</player1>
+		<player2>Слина</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Данюшевский Пётр</player1>
+		<player2>Селин Станислав</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Овсяников Денис</player1>
+		<player2>Володин Антон</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Шурыгин Егор</player1>
+		<player2>Полевиков Александр</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Зубко Дмитрий</player1>
+		<player2>Мухин Анатолий</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Борц Ларик</player1>
+		<player2>Ермолаев Алексей</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Овешников Андрей</player1>
+		<player2>Колмаков Пётр</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Пинчук Алексей</player1>
+		<player2>Малич Антон</player2>
+		<prestige1>0</prestige1>
+		<prestige2>4</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Елисеев Борис</player1>
+		<player2>Гольцов Василий</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Ковалёв Александр</player1>
+		<player2>Пинчук Сергей</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+
+
+<!-- Tour 3 -->
+	<item>
+		<player1>Лапыгин Антон</player1>
+		<player2>Овсяннико</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Ярцев Александр</player1>
+		<player2>Пинчук Сергей</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Булатов Вадим</player1>
+		<player2>Борц Ларик</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Черноножкин Василий</player1>
+		<player2>Овешников Андрей</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Попов Егор</player1>
+		<player2>Ермолаев Алексей</player2>
+		<prestige1>1</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Рогозин Антон</player1>
+		<player2>Ковалёв Александр</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Данюшевский Пётр</player1>
+		<player2>Сорокин Валентин</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Шурыгин Егор</player1>
+		<player2>Селин Станислав</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Зубко Дмитрий</player1>
+		<player2>Малич Антон</player2>
+		<prestige1>2</prestige1>
+		<prestige2>1</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Мухин Анатолий</player1>
+		<player2>Дмитриев Павел</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Полевиков Александр</player1>
+		<player2>Володин Антон</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Пинчук Алексей</player1>
+		<player2>Смирнов Михаил</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Селина Анна</player1>
+		<player2>Гольцов Василий</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Елисеев Борис</player1>
+		<player2>Колмаков Пётр</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+
+
+<!-- Tour 4 -->
+	<item>
+		<player1>Лапыгин Антон</player1>
+		<player2>Рогозин Антон</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Ярцев Александр</player1>
+		<player2>Ермолаев Алексей</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Булатов Вадим</player1>
+		<player2>Попов Егор</player2>
+		<prestige1>0</prestige1>
+		<prestige2>4</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Черноножкин Василий</player1>
+		<player2>Данюшевский Пётр</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Овсяников Денис</player1>
+		<player2>Селин Станислав</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Шурыгин Егор</player1>
+		<player2>Дмитриев Павел</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Зубко Дмитрий</player1>
+		<player2>Елисеев Борис</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Борц Ларик</player1>
+		<player2>Володин Антон</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Мухин Анатолий</player1>
+		<player2>Полевиков Александр</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Овешников Андрей</player1>
+		<player2>Пинчук Сергей</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Пинчук Алексей</player1>
+		<player2>Колмаков Пётр</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Селина Анна</player1>
+		<player2>Малич Антон</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Сорокин Валентин</player1>
+		<player2>Ковалёв Александр</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Смирнов Михаил</player1>
+		<player2>Гольцов Василий</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+
+
+<!-- Tour 5 -->
+	<item>
+		<player1>Лапыгин Антон</player1>
+		<player2>Попов Егор</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Ярцев Александр</player1>
+		<player2>Рогозин Антон</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Булатов Вадим</player1>
+		<player2>Зубко Дмитрий</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Черноножкин Василий</player1>
+		<player2>Ермолаев Алексей</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Данюшевский Пётр</player1>
+		<player2>Овсяников Денис</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Шурыгин Егор</player1>
+		<player2>Елисеев Борис</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Борц Ларик</player1>
+		<player2>Полевиков Александр</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Мухин Анатолий</player1>
+		<player2>Пинчук Алексей</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Дмитриев Павел</player1>
+		<player2>Володин Антон</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Овешников Андрей</player1>
+		<player2>Селина Анна</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Сорокин Валентин</player1>
+		<player2>Смирнов Михаил</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Селин Станислав</player1>
+		<player2>Ковалёв Александр</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Пинчук Сергей</player1>
+		<player2>Гольцов Василий</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Колмаков Пётр</player1>
+		<player2>Малич Антон</player2>
+		<prestige1>3</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+
+
+<!-- Top -->
+	<item>
+		<player1>Попов Егор</player1>
+		<player2>Рогозин Антон</player2>
+		<prestige1>1</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>1</gamesCount>
+	</item>
+	<item>
+		<player1>Лапыгин Антон</player1>
+		<player2>Шурыгин Егор</player2>
+		<prestige1>2</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>1</gamesCount>
+	</item>
+	<item>
+		<player1>Ярцев Александр</player1>
+		<player2>Овсяников Денис</player2>
+		<prestige1>2</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>1</gamesCount>
+	</item>
+	<item>
+		<player1>Черноножкин Василий</player1>
+		<player2>Данюшевский Пётр</player2>
+		<prestige1>2</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>1</gamesCount>
+	</item>
+
+
+	<item>
+		<player1>Попов Егор</player1>
+		<player2>Лапыгин Антон</player2>
+		<prestige1>2</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>1</gamesCount>
+	</item>
+	<item>
+		<player1>Черноножкин Василий</player1>
+		<player2>Ярцев Александр</player2>
+		<prestige1>2</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>1</gamesCount>
+	</item>
+
+
+	<item>
+		<player1>Рогозин Антон</player1>
+		<player2>Шурыгин Егор</player2>
+		<prestige1>2</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>1</gamesCount>
+	</item>
+
+	<item>
+		<player1>Попов Егор</player1>
+		<player2>Черноножкин Василий</player2>
+		<prestige1>2</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>1</gamesCount>
+	</item>
+
+
+	<item>
+		<player1>Лапыгин Антон</player1>
+		<player2>Овсяников Денис</player2>
+		<prestige1>2</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>1</gamesCount>
+	</item>
+	<item>
+		<player1>Рогозин Антон</player1>
+		<player2>Ярцев Александр</player2>
+		<prestige1>2</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>1</gamesCount>
+	</item>
+
+
+	<item>
+		<player1>Лапыгин Антон</player1>
+		<player2>Рогозин Антон</player2>
+		<prestige1>2</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>1</gamesCount>
+	</item>
+
+
+	<item>
+		<player1>Черноножкин Василий</player1>
+		<player2>Лапыгин Антон</player2>
+		<prestige1>2</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>1</gamesCount>
+	</item>
+
+
+	<item>
+		<player1>Черноножкин Василий</player1>
+		<player2>Попов Егор</player2>
+		<prestige1>2</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>1</gamesCount>
+	</item>
+	<item>
+		<player1>Попов Егор</player1>
+		<player2>Черноножкин Василий</player2>
+		<prestige1>2</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>1</gamesCount>
+	</item>
+
+</games>
+</root>
