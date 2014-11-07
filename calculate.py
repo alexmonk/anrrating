@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 
 from tournament import Tournament
-from tournament import createPlayersList
+from tournament_logs_process import processLogs
 from pairings import Pairings
 from rating_elo import EloRating
 from rating_least_squares import LeastSquaresRating
@@ -23,8 +23,10 @@ def checkTournamentDates(tournaments):
 # -----------------------------------------------------------------
 
 def executeRatingCalculate():
+	processLogs("tournament_logs/", "tournament_results/")
+
 	tournaments = []
-	directoryWithLogs = "tournament_logs/"
+	directoryWithLogs = "tournament_results/"
 	for fileName in os.listdir(directoryWithLogs):
 		if os.path.isfile(directoryWithLogs + fileName):
 			tournaments.append(Tournament(directoryWithLogs + fileName))
