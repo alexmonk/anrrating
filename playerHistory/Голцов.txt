@@ -1,3 +1,0 @@
-(ratingA +/- deltaA) nameA (corpA/runnerA) - (runnerB/corpB) nameB (ratingB +/- deltaB)
-tournament_results/2014-10-04_national.xml
-(1000.00 -8.299) Голцов (0) - (4) Голцов (1059.68 +8.299)
