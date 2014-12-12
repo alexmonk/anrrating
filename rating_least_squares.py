@@ -1,6 +1,6 @@
 #-*- coding: utf-8 -*-
 from power_level import PowerLevel
-from tournament import createPlayersList
+from tournament import retrivePlayers
 
 #------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ class P2PResult:
 
 class LeastSquaresRating:
 	def __init__(self, matches):
-		players = createPlayersList(matches)
+		players = retrivePlayers(matches)
 		self.results = dict()
 		for playerA in players:
 			self.results[playerA] = dict()

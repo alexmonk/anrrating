@@ -4,6 +4,7 @@ import os
 from datetime import datetime
 
 from tournament import Tournament
+from tournament import retrivePlayers
 from tournament_logs_process import processLogs
 from pairings import Pairings
 from rating_elo import EloRating
@@ -26,10 +27,17 @@ def executeRatingCalculate():
 	processLogs("tournament_logs/", "tournament_results/")
 
 	tournaments = []
+	players = []
 	directoryWithLogs = "tournament_results/"
 	for fileName in os.listdir(directoryWithLogs):
 		if os.path.isfile(directoryWithLogs + fileName):
-			tournaments.append(Tournament(directoryWithLogs + fileName))
+			currentTournament = Tournament(directoryWithLogs + fileName)
+			tournaments.append(currentTournament)
+			currentPlayers = retrivePlayers(currentTournament.matches)
+			for player in currentPlayers:
+				if not player in players:
+					print(player)
+					players.append(player)
 
 	tournaments = sorted(tournaments, key=lambda tournament: tournament.date)
 
