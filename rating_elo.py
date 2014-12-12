@@ -61,9 +61,9 @@ class EloRating:
 		text = ""
 		for i in range(0, len(sortedPlayers)):
 			player = sortedPlayers[i]
-			text += str(i+1) + "\t" + player
-			text += "\t%.2f" % self.players[player].getLastRating()
-			text += "\t%i"%pairings.getTotalWins(player) + "/%i\n"%pairings.getTotalGames(player)
+			text += str(i+1) + "," + player
+			text += ",%.2f" % self.players[player].getLastRating()
+			text += ",%i"%pairings.getTotalWins(player) + "/%i\n"%pairings.getTotalGames(player)
 		file = open(filePath, 'w', encoding='utf8')
 		file.write(text)
 		file.close()
