@@ -1,0 +1,1547 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tournament xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PlayoffStartRound>WithoutPlayoffs</PlayoffStartRound>
+  <Name />
+  <Date>2014-11-08T01:00:00+03:00</Date>
+  <Importance>Local</Importance>
+  <PointsTable>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>c1a31df7-a9d1-4ce6-9360-33dd76659827</Id>
+      <Place>11</Place>
+      <Name />
+      <Surname />
+      <Alias>Сергей Пинчук</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>3</GamesLoose>
+      <SmallPointsPlus>0</SmallPointsPlus>
+      <SmallPointsMinus>60</SmallPointsMinus>
+      <RunnerWins>0</RunnerWins>
+      <CorpoWins>0</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>false</Payment>
+      <Active>true</Active>
+      <Bucholz>34</Bucholz>
+      <MBucholz>18</MBucholz>
+      <Points>4</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>01f84c52-ff78-4300-97ce-1379d5e8b55a</Id>
+      <Place>7</Place>
+      <Name />
+      <Surname />
+      <Alias>Анатолий Мухин</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>40</SmallPointsPlus>
+      <SmallPointsMinus>40</SmallPointsMinus>
+      <RunnerWins>2</RunnerWins>
+      <CorpoWins>2</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>false</Payment>
+      <Active>true</Active>
+      <Bucholz>34</Bucholz>
+      <MBucholz>20</MBucholz>
+      <Points>8</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>20ef58f1-85f2-4be7-955d-32a7d41f9ac4</Id>
+      <Place>5</Place>
+      <Name />
+      <Surname />
+      <Alias>Дмитрий Зубко</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>3</GamesDraw>
+      <GamesLoose>0</GamesLoose>
+      <SmallPointsPlus>50</SmallPointsPlus>
+      <SmallPointsMinus>30</SmallPointsMinus>
+      <RunnerWins>1</RunnerWins>
+      <CorpoWins>4</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>false</Payment>
+      <Active>true</Active>
+      <Bucholz>30</Bucholz>
+      <MBucholz>16</MBucholz>
+      <Points>10</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>91dae30c-6ad3-4a62-98e4-dd6888ca7405</Id>
+      <Place>2</Place>
+      <Name />
+      <Surname />
+      <Alias>Александр Ковалев</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>1</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>50</SmallPointsPlus>
+      <SmallPointsMinus>30</SmallPointsMinus>
+      <RunnerWins>2</RunnerWins>
+      <CorpoWins>3</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>false</Payment>
+      <Active>true</Active>
+      <Bucholz>40</Bucholz>
+      <MBucholz>18</MBucholz>
+      <Points>10</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>a3b71405-a330-4d3e-a80c-afd7b809617b</Id>
+      <Place>4</Place>
+      <Name />
+      <Surname />
+      <Alias>Алексей Пинчук</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>1</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>50</SmallPointsPlus>
+      <SmallPointsMinus>30</SmallPointsMinus>
+      <RunnerWins>2</RunnerWins>
+      <CorpoWins>3</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>false</Payment>
+      <Active>true</Active>
+      <Bucholz>32</Bucholz>
+      <MBucholz>16</MBucholz>
+      <Points>10</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>c6f47e09-fdaa-43f9-9a4a-0f29c7268b88</Id>
+      <Place>6</Place>
+      <Name />
+      <Surname />
+      <Alias>Василий Гольцов</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>1</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>30</SmallPointsPlus>
+      <SmallPointsMinus>30</SmallPointsMinus>
+      <RunnerWins>1</RunnerWins>
+      <CorpoWins>2</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>false</Payment>
+      <Active>true</Active>
+      <Bucholz>20</Bucholz>
+      <MBucholz>12</MBucholz>
+      <Points>10</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>eee5fc17-9fe6-4652-95b4-263a8a220a2c</Id>
+      <Place>1</Place>
+      <Name />
+      <Surname />
+      <Alias>Антон Рогозин</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>4</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>0</GamesLoose>
+      <SmallPointsPlus>80</SmallPointsPlus>
+      <SmallPointsMinus>0</SmallPointsMinus>
+      <RunnerWins>4</RunnerWins>
+      <CorpoWins>4</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>false</Payment>
+      <Active>true</Active>
+      <Bucholz>30</Bucholz>
+      <MBucholz>16</MBucholz>
+      <Points>16</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>5bf6d055-11c0-4ec7-907c-8a8f2381afed</Id>
+      <Place>10</Place>
+      <Name />
+      <Surname />
+      <Alias>Александр Ярцев</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>1</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>10</SmallPointsPlus>
+      <SmallPointsMinus>50</SmallPointsMinus>
+      <RunnerWins>0</RunnerWins>
+      <CorpoWins>1</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>false</Payment>
+      <Active>true</Active>
+      <Bucholz>30</Bucholz>
+      <MBucholz>20</MBucholz>
+      <Points>6</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>8dbbe84b-9a55-4e76-aaca-89a6fee9fd4d</Id>
+      <Place>3</Place>
+      <Name />
+      <Surname />
+      <Alias>Михаил Смирнов</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>1</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>50</SmallPointsPlus>
+      <SmallPointsMinus>30</SmallPointsMinus>
+      <RunnerWins>2</RunnerWins>
+      <CorpoWins>3</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>false</Payment>
+      <Active>true</Active>
+      <Bucholz>40</Bucholz>
+      <MBucholz>18</MBucholz>
+      <Points>10</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>214faf3e-5f25-4953-8df5-49e387c00eb4</Id>
+      <Place>8</Place>
+      <Name />
+      <Surname />
+      <Alias>Евгений Антонов</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>0</GamesWin>
+      <GamesDraw>3</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>30</SmallPointsPlus>
+      <SmallPointsMinus>50</SmallPointsMinus>
+      <RunnerWins>1</RunnerWins>
+      <CorpoWins>2</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>false</Payment>
+      <Active>true</Active>
+      <Bucholz>36</Bucholz>
+      <MBucholz>20</MBucholz>
+      <Points>6</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>601c996d-a2c3-4020-a134-310472115642</Id>
+      <Place>9</Place>
+      <Name />
+      <Surname />
+      <Alias>Егор Шурыгин</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>1</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>10</SmallPointsPlus>
+      <SmallPointsMinus>50</SmallPointsMinus>
+      <RunnerWins>1</RunnerWins>
+      <CorpoWins>0</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>false</Payment>
+      <Active>true</Active>
+      <Bucholz>32</Bucholz>
+      <MBucholz>16</MBucholz>
+      <Points>6</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+  </PointsTable>
+  <Rounds>
+    <Round>
+      <ScoreEnabled>false</ScoreEnabled>
+      <Number>1</Number>
+      <Games>
+        <Game>
+          <Player1Id>c1a31df7-a9d1-4ce6-9360-33dd76659827</Player1Id>
+          <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Сергей Пинчук</Player1Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>true</IsBYE>
+          <Number>1</Number>
+        </Game>
+        <Game>
+          <Player1Id>eee5fc17-9fe6-4652-95b4-263a8a220a2c</Player1Id>
+          <Player2Id>601c996d-a2c3-4020-a134-310472115642</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Антон Рогозин</Player1Alias>
+          <Player2Alias>Егор Шурыгин</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>2</Number>
+        </Game>
+        <Game>
+          <Player1Id>8dbbe84b-9a55-4e76-aaca-89a6fee9fd4d</Player1Id>
+          <Player2Id>214faf3e-5f25-4953-8df5-49e387c00eb4</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Михаил Смирнов</Player1Alias>
+          <Player2Alias>Евгений Антонов</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>3</Number>
+        </Game>
+        <Game>
+          <Player1Id>20ef58f1-85f2-4be7-955d-32a7d41f9ac4</Player1Id>
+          <Player2Id>a3b71405-a330-4d3e-a80c-afd7b809617b</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Дмитрий Зубко</Player1Alias>
+          <Player2Alias>Алексей Пинчук</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>4</Number>
+        </Game>
+        <Game>
+          <Player1Id>01f84c52-ff78-4300-97ce-1379d5e8b55a</Player1Id>
+          <Player2Id>c6f47e09-fdaa-43f9-9a4a-0f29c7268b88</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Анатолий Мухин</Player1Alias>
+          <Player2Alias>Василий Гольцов</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>5</Number>
+        </Game>
+        <Game>
+          <Player1Id>91dae30c-6ad3-4a62-98e4-dd6888ca7405</Player1Id>
+          <Player2Id>5bf6d055-11c0-4ec7-907c-8a8f2381afed</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Александр Ковалев</Player1Alias>
+          <Player2Alias>Александр Ярцев</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>6</Number>
+        </Game>
+      </Games>
+    </Round>
+    <Round>
+      <ScoreEnabled>false</ScoreEnabled>
+      <Number>2</Number>
+      <Games>
+        <Game>
+          <Player1Id>c1a31df7-a9d1-4ce6-9360-33dd76659827</Player1Id>
+          <Player2Id>eee5fc17-9fe6-4652-95b4-263a8a220a2c</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Сергей Пинчук</Player1Alias>
+          <Player2Alias>Антон Рогозин</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>1</Number>
+        </Game>
+        <Game>
+          <Player1Id>c6f47e09-fdaa-43f9-9a4a-0f29c7268b88</Player1Id>
+          <Player2Id>5bf6d055-11c0-4ec7-907c-8a8f2381afed</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Василий Гольцов</Player1Alias>
+          <Player2Alias>Александр Ярцев</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>2</Number>
+        </Game>
+        <Game>
+          <Player1Id>01f84c52-ff78-4300-97ce-1379d5e8b55a</Player1Id>
+          <Player2Id>91dae30c-6ad3-4a62-98e4-dd6888ca7405</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Анатолий Мухин</Player1Alias>
+          <Player2Alias>Александр Ковалев</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>3</Number>
+        </Game>
+        <Game>
+          <Player1Id>601c996d-a2c3-4020-a134-310472115642</Player1Id>
+          <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Егор Шурыгин</Player1Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>true</IsBYE>
+          <Number>4</Number>
+        </Game>
+        <Game>
+          <Player1Id>20ef58f1-85f2-4be7-955d-32a7d41f9ac4</Player1Id>
+          <Player2Id>214faf3e-5f25-4953-8df5-49e387c00eb4</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Дмитрий Зубко</Player1Alias>
+          <Player2Alias>Евгений Антонов</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>5</Number>
+        </Game>
+        <Game>
+          <Player1Id>a3b71405-a330-4d3e-a80c-afd7b809617b</Player1Id>
+          <Player2Id>8dbbe84b-9a55-4e76-aaca-89a6fee9fd4d</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Алексей Пинчук</Player1Alias>
+          <Player2Alias>Михаил Смирнов</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>6</Number>
+        </Game>
+      </Games>
+    </Round>
+    <Round>
+      <ScoreEnabled>false</ScoreEnabled>
+      <Number>3</Number>
+      <Games>
+        <Game>
+          <Player1Id>91dae30c-6ad3-4a62-98e4-dd6888ca7405</Player1Id>
+          <Player2Id>eee5fc17-9fe6-4652-95b4-263a8a220a2c</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Александр Ковалев</Player1Alias>
+          <Player2Alias>Антон Рогозин</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>1</Number>
+        </Game>
+        <Game>
+          <Player1Id>c1a31df7-a9d1-4ce6-9360-33dd76659827</Player1Id>
+          <Player2Id>20ef58f1-85f2-4be7-955d-32a7d41f9ac4</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Сергей Пинчук</Player1Alias>
+          <Player2Alias>Дмитрий Зубко</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>2</Number>
+        </Game>
+        <Game>
+          <Player1Id>c6f47e09-fdaa-43f9-9a4a-0f29c7268b88</Player1Id>
+          <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Василий Гольцов</Player1Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>true</IsBYE>
+          <Number>3</Number>
+        </Game>
+        <Game>
+          <Player1Id>214faf3e-5f25-4953-8df5-49e387c00eb4</Player1Id>
+          <Player2Id>601c996d-a2c3-4020-a134-310472115642</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Евгений Антонов</Player1Alias>
+          <Player2Alias>Егор Шурыгин</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>4</Number>
+        </Game>
+        <Game>
+          <Player1Id>01f84c52-ff78-4300-97ce-1379d5e8b55a</Player1Id>
+          <Player2Id>8dbbe84b-9a55-4e76-aaca-89a6fee9fd4d</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Анатолий Мухин</Player1Alias>
+          <Player2Alias>Михаил Смирнов</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>5</Number>
+        </Game>
+        <Game>
+          <Player1Id>a3b71405-a330-4d3e-a80c-afd7b809617b</Player1Id>
+          <Player2Id>5bf6d055-11c0-4ec7-907c-8a8f2381afed</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Алексей Пинчук</Player1Alias>
+          <Player2Alias>Александр Ярцев</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>6</Number>
+        </Game>
+      </Games>
+    </Round>
+    <Round>
+      <ScoreEnabled>false</ScoreEnabled>
+      <Number>4</Number>
+      <Games>
+        <Game>
+          <Player1Id>eee5fc17-9fe6-4652-95b4-263a8a220a2c</Player1Id>
+          <Player2Id>8dbbe84b-9a55-4e76-aaca-89a6fee9fd4d</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Антон Рогозин</Player1Alias>
+          <Player2Alias>Михаил Смирнов</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>1</Number>
+        </Game>
+        <Game>
+          <Player1Id>20ef58f1-85f2-4be7-955d-32a7d41f9ac4</Player1Id>
+          <Player2Id>91dae30c-6ad3-4a62-98e4-dd6888ca7405</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Дмитрий Зубко</Player1Alias>
+          <Player2Alias>Александр Ковалев</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>2</Number>
+        </Game>
+        <Game>
+          <Player1Id>a3b71405-a330-4d3e-a80c-afd7b809617b</Player1Id>
+          <Player2Id>214faf3e-5f25-4953-8df5-49e387c00eb4</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Алексей Пинчук</Player1Alias>
+          <Player2Alias>Евгений Антонов</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>3</Number>
+        </Game>
+        <Game>
+          <Player1Id>c6f47e09-fdaa-43f9-9a4a-0f29c7268b88</Player1Id>
+          <Player2Id>601c996d-a2c3-4020-a134-310472115642</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Василий Гольцов</Player1Alias>
+          <Player2Alias>Егор Шурыгин</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>4</Number>
+        </Game>
+        <Game>
+          <Player1Id>c1a31df7-a9d1-4ce6-9360-33dd76659827</Player1Id>
+          <Player2Id>01f84c52-ff78-4300-97ce-1379d5e8b55a</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Сергей Пинчук</Player1Alias>
+          <Player2Alias>Анатолий Мухин</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>5</Number>
+        </Game>
+        <Game>
+          <Player1Id>5bf6d055-11c0-4ec7-907c-8a8f2381afed</Player1Id>
+          <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Александр Ярцев</Player1Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>true</IsBYE>
+          <Number>6</Number>
+        </Game>
+      </Games>
+    </Round>
+  </Rounds>
+  <AllGames>
+    <Game>
+      <Player1Id>c1a31df7-a9d1-4ce6-9360-33dd76659827</Player1Id>
+      <Player2Id>c6f47e09-fdaa-43f9-9a4a-0f29c7268b88</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Сергей Пинчук</Player1Alias>
+      <Player2Alias>Василий Гольцов</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>c1a31df7-a9d1-4ce6-9360-33dd76659827</Player1Id>
+      <Player2Id>5bf6d055-11c0-4ec7-907c-8a8f2381afed</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Сергей Пинчук</Player1Alias>
+      <Player2Alias>Александр Ярцев</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>c1a31df7-a9d1-4ce6-9360-33dd76659827</Player1Id>
+      <Player2Id>8dbbe84b-9a55-4e76-aaca-89a6fee9fd4d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Сергей Пинчук</Player1Alias>
+      <Player2Alias>Михаил Смирнов</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>01f84c52-ff78-4300-97ce-1379d5e8b55a</Player1Id>
+      <Player2Id>5bf6d055-11c0-4ec7-907c-8a8f2381afed</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Анатолий Мухин</Player1Alias>
+      <Player2Alias>Александр Ярцев</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>20ef58f1-85f2-4be7-955d-32a7d41f9ac4</Player1Id>
+      <Player2Id>c6f47e09-fdaa-43f9-9a4a-0f29c7268b88</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Дмитрий Зубко</Player1Alias>
+      <Player2Alias>Василий Гольцов</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>20ef58f1-85f2-4be7-955d-32a7d41f9ac4</Player1Id>
+      <Player2Id>eee5fc17-9fe6-4652-95b4-263a8a220a2c</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Дмитрий Зубко</Player1Alias>
+      <Player2Alias>Антон Рогозин</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>91dae30c-6ad3-4a62-98e4-dd6888ca7405</Player1Id>
+      <Player2Id>a3b71405-a330-4d3e-a80c-afd7b809617b</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Александр Ковалев</Player1Alias>
+      <Player2Alias>Алексей Пинчук</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>91dae30c-6ad3-4a62-98e4-dd6888ca7405</Player1Id>
+      <Player2Id>c6f47e09-fdaa-43f9-9a4a-0f29c7268b88</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Александр Ковалев</Player1Alias>
+      <Player2Alias>Василий Гольцов</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>91dae30c-6ad3-4a62-98e4-dd6888ca7405</Player1Id>
+      <Player2Id>8dbbe84b-9a55-4e76-aaca-89a6fee9fd4d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Александр Ковалев</Player1Alias>
+      <Player2Alias>Михаил Смирнов</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>91dae30c-6ad3-4a62-98e4-dd6888ca7405</Player1Id>
+      <Player2Id>214faf3e-5f25-4953-8df5-49e387c00eb4</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Александр Ковалев</Player1Alias>
+      <Player2Alias>Евгений Антонов</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>91dae30c-6ad3-4a62-98e4-dd6888ca7405</Player1Id>
+      <Player2Id>601c996d-a2c3-4020-a134-310472115642</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Александр Ковалев</Player1Alias>
+      <Player2Alias>Егор Шурыгин</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>a3b71405-a330-4d3e-a80c-afd7b809617b</Player1Id>
+      <Player2Id>c6f47e09-fdaa-43f9-9a4a-0f29c7268b88</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Алексей Пинчук</Player1Alias>
+      <Player2Alias>Василий Гольцов</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>a3b71405-a330-4d3e-a80c-afd7b809617b</Player1Id>
+      <Player2Id>eee5fc17-9fe6-4652-95b4-263a8a220a2c</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Алексей Пинчук</Player1Alias>
+      <Player2Alias>Антон Рогозин</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>c6f47e09-fdaa-43f9-9a4a-0f29c7268b88</Player1Id>
+      <Player2Id>eee5fc17-9fe6-4652-95b4-263a8a220a2c</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Василий Гольцов</Player1Alias>
+      <Player2Alias>Антон Рогозин</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>c6f47e09-fdaa-43f9-9a4a-0f29c7268b88</Player1Id>
+      <Player2Id>8dbbe84b-9a55-4e76-aaca-89a6fee9fd4d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Василий Гольцов</Player1Alias>
+      <Player2Alias>Михаил Смирнов</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>c6f47e09-fdaa-43f9-9a4a-0f29c7268b88</Player1Id>
+      <Player2Id>214faf3e-5f25-4953-8df5-49e387c00eb4</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Василий Гольцов</Player1Alias>
+      <Player2Alias>Евгений Антонов</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>eee5fc17-9fe6-4652-95b4-263a8a220a2c</Player1Id>
+      <Player2Id>5bf6d055-11c0-4ec7-907c-8a8f2381afed</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Антон Рогозин</Player1Alias>
+      <Player2Alias>Александр Ярцев</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>eee5fc17-9fe6-4652-95b4-263a8a220a2c</Player1Id>
+      <Player2Id>214faf3e-5f25-4953-8df5-49e387c00eb4</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Антон Рогозин</Player1Alias>
+      <Player2Alias>Евгений Антонов</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>5bf6d055-11c0-4ec7-907c-8a8f2381afed</Player1Id>
+      <Player2Id>601c996d-a2c3-4020-a134-310472115642</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Александр Ярцев</Player1Alias>
+      <Player2Alias>Егор Шурыгин</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>01f84c52-ff78-4300-97ce-1379d5e8b55a</Player1Id>
+      <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Анатолий Мухин</Player1Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>true</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>20ef58f1-85f2-4be7-955d-32a7d41f9ac4</Player1Id>
+      <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Дмитрий Зубко</Player1Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>true</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>91dae30c-6ad3-4a62-98e4-dd6888ca7405</Player1Id>
+      <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Александр Ковалев</Player1Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>true</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>a3b71405-a330-4d3e-a80c-afd7b809617b</Player1Id>
+      <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Алексей Пинчук</Player1Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>true</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>eee5fc17-9fe6-4652-95b4-263a8a220a2c</Player1Id>
+      <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Антон Рогозин</Player1Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>true</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>8dbbe84b-9a55-4e76-aaca-89a6fee9fd4d</Player1Id>
+      <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Михаил Смирнов</Player1Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>true</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>214faf3e-5f25-4953-8df5-49e387c00eb4</Player1Id>
+      <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Евгений Антонов</Player1Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>true</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>01f84c52-ff78-4300-97ce-1379d5e8b55a</Player1Id>
+      <Player2Id>eee5fc17-9fe6-4652-95b4-263a8a220a2c</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Анатолий Мухин</Player1Alias>
+      <Player2Alias>Антон Рогозин</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>1</Number>
+    </Game>
+    <Game>
+      <Player1Id>c1a31df7-a9d1-4ce6-9360-33dd76659827</Player1Id>
+      <Player2Id>91dae30c-6ad3-4a62-98e4-dd6888ca7405</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Сергей Пинчук</Player1Alias>
+      <Player2Alias>Александр Ковалев</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>2</Number>
+    </Game>
+    <Game>
+      <Player1Id>8dbbe84b-9a55-4e76-aaca-89a6fee9fd4d</Player1Id>
+      <Player2Id>601c996d-a2c3-4020-a134-310472115642</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Михаил Смирнов</Player1Alias>
+      <Player2Alias>Егор Шурыгин</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>3</Number>
+    </Game>
+    <Game>
+      <Player1Id>20ef58f1-85f2-4be7-955d-32a7d41f9ac4</Player1Id>
+      <Player2Id>5bf6d055-11c0-4ec7-907c-8a8f2381afed</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Дмитрий Зубко</Player1Alias>
+      <Player2Alias>Александр Ярцев</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>5</Number>
+    </Game>
+    <Game>
+      <Player1Id>a3b71405-a330-4d3e-a80c-afd7b809617b</Player1Id>
+      <Player2Id>601c996d-a2c3-4020-a134-310472115642</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Алексей Пинчук</Player1Alias>
+      <Player2Alias>Егор Шурыгин</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>3</Number>
+    </Game>
+    <Game>
+      <Player1Id>01f84c52-ff78-4300-97ce-1379d5e8b55a</Player1Id>
+      <Player2Id>214faf3e-5f25-4953-8df5-49e387c00eb4</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Анатолий Мухин</Player1Alias>
+      <Player2Alias>Евгений Антонов</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>2</Number>
+    </Game>
+    <Game>
+      <Player1Id>01f84c52-ff78-4300-97ce-1379d5e8b55a</Player1Id>
+      <Player2Id>20ef58f1-85f2-4be7-955d-32a7d41f9ac4</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Анатолий Мухин</Player1Alias>
+      <Player2Alias>Дмитрий Зубко</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>2</Number>
+    </Game>
+    <Game>
+      <Player1Id>c1a31df7-a9d1-4ce6-9360-33dd76659827</Player1Id>
+      <Player2Id>601c996d-a2c3-4020-a134-310472115642</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Сергей Пинчук</Player1Alias>
+      <Player2Alias>Егор Шурыгин</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>3</Number>
+    </Game>
+    <Game>
+      <Player1Id>01f84c52-ff78-4300-97ce-1379d5e8b55a</Player1Id>
+      <Player2Id>601c996d-a2c3-4020-a134-310472115642</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Анатолий Мухин</Player1Alias>
+      <Player2Alias>Егор Шурыгин</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>2</Number>
+    </Game>
+    <Game>
+      <Player1Id>c1a31df7-a9d1-4ce6-9360-33dd76659827</Player1Id>
+      <Player2Id>a3b71405-a330-4d3e-a80c-afd7b809617b</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Сергей Пинчук</Player1Alias>
+      <Player2Alias>Алексей Пинчук</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>3</Number>
+    </Game>
+    <Game>
+      <Player1Id>20ef58f1-85f2-4be7-955d-32a7d41f9ac4</Player1Id>
+      <Player2Id>8dbbe84b-9a55-4e76-aaca-89a6fee9fd4d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Дмитрий Зубко</Player1Alias>
+      <Player2Alias>Михаил Смирнов</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>4</Number>
+    </Game>
+    <Game>
+      <Player1Id>5bf6d055-11c0-4ec7-907c-8a8f2381afed</Player1Id>
+      <Player2Id>214faf3e-5f25-4953-8df5-49e387c00eb4</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Александр Ярцев</Player1Alias>
+      <Player2Alias>Евгений Антонов</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>5</Number>
+    </Game>
+    <Game>
+      <Player1Id>01f84c52-ff78-4300-97ce-1379d5e8b55a</Player1Id>
+      <Player2Id>a3b71405-a330-4d3e-a80c-afd7b809617b</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Анатолий Мухин</Player1Alias>
+      <Player2Alias>Алексей Пинчук</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>2</Number>
+    </Game>
+    <Game>
+      <Player1Id>20ef58f1-85f2-4be7-955d-32a7d41f9ac4</Player1Id>
+      <Player2Id>601c996d-a2c3-4020-a134-310472115642</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Дмитрий Зубко</Player1Alias>
+      <Player2Alias>Егор Шурыгин</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>3</Number>
+    </Game>
+    <Game>
+      <Player1Id>c1a31df7-a9d1-4ce6-9360-33dd76659827</Player1Id>
+      <Player2Id>214faf3e-5f25-4953-8df5-49e387c00eb4</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Сергей Пинчук</Player1Alias>
+      <Player2Alias>Евгений Антонов</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>4</Number>
+    </Game>
+    <Game>
+      <Player1Id>5bf6d055-11c0-4ec7-907c-8a8f2381afed</Player1Id>
+      <Player2Id>8dbbe84b-9a55-4e76-aaca-89a6fee9fd4d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Александр Ярцев</Player1Alias>
+      <Player2Alias>Михаил Смирнов</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>5</Number>
+    </Game>
+  </AllGames>
+  <FinalResults />
+  <Playoffs16 />
+  <Playoffs8 />
+</Tournament>
