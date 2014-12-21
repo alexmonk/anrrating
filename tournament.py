@@ -30,10 +30,10 @@ class Match:
 		return "(" + str(self.prestigeB) + ")"
 
 	def toStringPlayerAMatch(self):
-		return self.playerA + " " + self.toStringPlayerAPoints() + " - " + self.toStringPlayerBPoints() + " " + self.playerA
+		return self.playerA + " " + self.toStringPlayerAPoints() + " - " + self.toStringPlayerBPoints() + " " + self.playerB
 
 	def toStringPlayerBMatch(self):
-		return self.playerB + " " + self.toStringPlayerBPoints() + " - " + self.toStringPlayerAPoints() + " " + self.playerB
+		return self.playerB + " " + self.toStringPlayerBPoints() + " - " + self.toStringPlayerAPoints() + " " + self.playerA
 
 	def getCountGames(self):
 		return self.gamesCount
@@ -60,7 +60,7 @@ class Tournament:
 
 # -----------------------------------------------------------------
 
-def createPlayersList(matches):
+def retrivePlayers(matches):
 	players = []
 	for match in matches:
 		if not match.playerA in players:
@@ -72,7 +72,7 @@ def createPlayersList(matches):
 # ----------------------------------------------------------------
 if __name__ == "__main__":
 	pass
-	tournament1 = Tournament("tournament_results/2013-09-14.ant")
+	tournament1 = Tournament("tournament_results/2014-10-04_national.xml")
 	#tournament2 = Tournament("tournament_logs/2014-07-05_msk_side_event.ant")
 
 	#printTournament(tournament1, "!t1.txt")
