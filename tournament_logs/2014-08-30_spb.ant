@@ -247,7 +247,7 @@
       <Place>10</Place>
       <Name />
       <Surname />
-      <Alias>Землянин Дмитрий</Alias>
+      <Alias>Зелянин Дмитрий</Alias>
       <RankBeforeTournament>0</RankBeforeTournament>
       <GamesWin>0</GamesWin>
       <GamesDraw>1</GamesDraw>
@@ -277,7 +277,7 @@
           <Player1Dice>false</Player1Dice>
           <Player2Dice>false</Player2Dice>
           <Player1Alias>Черноножкин Василий</Player1Alias>
-          <Player2Alias>Землянин Дмитрий</Player2Alias>
+          <Player2Alias>Зелянин Дмитрий</Player2Alias>
           <Player1RaceCorpo>NBN</Player1RaceCorpo>
           <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
           <Player1RaceRunner>Anarch</Player1RaceRunner>
@@ -454,7 +454,7 @@
           <Player1Dice>false</Player1Dice>
           <Player2Dice>false</Player2Dice>
           <Player1Alias>Лапыгин Антон</Player1Alias>
-          <Player2Alias>Землянин Дмитрий</Player2Alias>
+          <Player2Alias>Зелянин Дмитрий</Player2Alias>
           <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
           <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
           <Player1RaceRunner>Criminal</Player1RaceRunner>
@@ -536,7 +536,7 @@
           <Player1Dice>false</Player1Dice>
           <Player2Dice>false</Player2Dice>
           <Player1Alias>Селина Анна</Player1Alias>
-          <Player2Alias>Землянин Дмитрий</Player2Alias>
+          <Player2Alias>Зелянин Дмитрий</Player2Alias>
           <Player1RaceCorpo>Jinteki</Player1RaceCorpo>
           <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
           <Player1RaceRunner>Shaper</Player1RaceRunner>
@@ -656,7 +656,7 @@
           <Player1Dice>false</Player1Dice>
           <Player2Dice>false</Player2Dice>
           <Player1Alias>Шеляпин Антон</Player1Alias>
-          <Player2Alias>Землянин Дмитрий</Player2Alias>
+          <Player2Alias>Зелянин Дмитрий</Player2Alias>
           <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
           <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
           <Player1RaceRunner>Shaper</Player1RaceRunner>
@@ -755,7 +755,7 @@
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
       <Player1Alias>Селин Станислав</Player1Alias>
-      <Player2Alias>Землянин Дмитрий</Player2Alias>
+      <Player2Alias>Зелянин Дмитрий</Player2Alias>
       <Player1RaceCorpo>NBN</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
       <Player1RaceRunner>Anarch</Player1RaceRunner>
@@ -831,7 +831,7 @@
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
       <Player1Alias>Елисеев Борис</Player1Alias>
-      <Player2Alias>Землянин Дмитрий</Player2Alias>
+      <Player2Alias>Зелянин Дмитрий</Player2Alias>
       <Player1RaceCorpo>NBN</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
       <Player1RaceRunner>Criminal</Player1RaceRunner>
@@ -926,7 +926,7 @@
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
       <Player1Alias>Володин Антон</Player1Alias>
-      <Player2Alias>Землянин Дмитрий</Player2Alias>
+      <Player2Alias>Зелянин Дмитрий</Player2Alias>
       <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
       <Player1RaceRunner>Anarch</Player1RaceRunner>
@@ -1059,7 +1059,7 @@
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
       <Player1Alias>Дмитриев Павел</Player1Alias>
-      <Player2Alias>Землянин Дмитрий</Player2Alias>
+      <Player2Alias>Зелянин Дмитрий</Player2Alias>
       <Player1RaceCorpo>NBN</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
       <Player1RaceRunner>Criminal</Player1RaceRunner>
@@ -1135,7 +1135,7 @@
       <Player1Dice>false</Player1Dice>
       <Player2Dice>false</Player2Dice>
       <Player1Alias>Иванов Максим</Player1Alias>
-      <Player2Alias>Землянин Дмитрий</Player2Alias>
+      <Player2Alias>Зелянин Дмитрий</Player2Alias>
       <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
       <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
       <Player1RaceRunner>Shaper</Player1RaceRunner>
