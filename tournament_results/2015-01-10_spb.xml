@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+<header>
+	<date>2015-01-10T00:00:00+04:00</date>
+</header>
+
+<games>
+<!-- Tour 1 -->
+	<item>
+		<player1>Шеляпин Антон</player1>
+		<player2>Елисеев Борис</player2>
+		<prestige1>0</prestige1>
+		<prestige2>4</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Тихомиров Андрей</player1>
+		<player2>Никитин Сергей</player2>
+		<prestige1>0</prestige1>
+		<prestige2>4</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Привалов Денис</player1>
+		<player2>Черноножкин Василий</player2>
+		<prestige1>0</prestige1>
+		<prestige2>4</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Сергеев Иван</player1>
+		<player2>Володин Антон</player2>
+		<prestige1>0</prestige1>
+		<prestige2>4</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Сорокин Валентин</player1>
+		<player2>Степанович Сергей</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+
+<!-- Tour 2 -->
+	<item>
+		<player1>Черноножкин Василий</player1>
+		<player2>Володин Антон</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Никитин Сергей</player1>
+		<player2>Сорокин Валентин</player2>
+		<prestige1>0</prestige1>
+		<prestige2>4</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Шеляпин Антон</player1>
+		<player2>Степанович Сергей</player2>
+		<prestige1>3</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Тихомиров Андрей</player1>
+		<player2>Привалов Денис</player2>
+		<prestige1>0</prestige1>
+		<prestige2>4</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Сергеев Иван</player1>
+		<player2>Елисеев Борис</player2>
+		<prestige1>0</prestige1>
+		<prestige2>4</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+
+
+<!-- Tour 3 -->
+	<item>
+		<player1>Елисеев Борис</player1>
+		<player2>Сорокин Валентин</player2>
+		<prestige1>0</prestige1>
+		<prestige2>4</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Привалов Денис</player1>
+		<player2>Володин Антон</player2>
+		<prestige1>0</prestige1>
+		<prestige2>4</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Черноножкин Василий</player1>
+		<player2>Никитин Сергей</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Тихомиров Андрей</player1>
+		<player2>Степанович Сергей</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Шеляпин Антон</player1>
+		<player2>Сергеев Иван</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+
+
+<!-- Tour 4 -->
+	<item>
+		<player1>Сорокин Валентин</player1>
+		<player2>Володин Антон</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Черноножкин Василий</player1>
+		<player2>Елисеев Борис</player2>
+		<prestige1>2</prestige1>
+		<prestige2>2</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Никитин Сергей</player1>
+		<player2>Шеляпин Антон</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Привалов Денис</player1>
+		<player2>Степанович Сергей</player2>
+		<prestige1>4</prestige1>
+		<prestige2>0</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+	<item>
+		<player1>Тихомиров Андрей</player1>
+		<player2>Сергеев Иван</player2>
+		<prestige1>0</prestige1>
+		<prestige2>4</prestige2>
+		<gamesCount>2</gamesCount>
+	</item>
+
+</games>
+</root>
