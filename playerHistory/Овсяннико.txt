@@ -1,3 +1,0 @@
-(ratingA +/- deltaA) nameA (corpA/runnerA) - (runnerB/corpB) nameB (ratingB +/- deltaB)
-tournament_results/2014-10-04_national.xml
-(1000.00 -8.501) Овсяннико (0) - (4) Лапыгин Антон (1052.49 +8.501)
