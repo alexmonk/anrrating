@@ -78,9 +78,9 @@ def executeRatingCalculate():
 
 	base = CommunityBase(tournaments)
 
-	ordering.Ordering(distances.GamesDistance(base), "ratings/ordering_games.csv")
-	ordering.Ordering(distances.LeastSquares(base), "ratings/ordering_lease_squares.csv")
-	ordering.Ordering(distances.MaximumLikehood(base), "ratings/ordering_maximum_likehood.csv")
+	#ordering.Ordering(distances.GamesDistance(base), "ratings/ordering_games.csv")
+	#ordering.Ordering(distances.LeastSquares(base), "ratings/ordering_lease_squares.csv")
+	#ordering.Ordering(distances.MaximumLikehood(base), "ratings/ordering_maximum_likehood.csv")
 
 	pass
 
