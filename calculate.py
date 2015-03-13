@@ -5,10 +5,21 @@ from datetime import datetime
 
 from tournament import Tournament
 from tournament import retrivePlayers
+from tournament import CommunityBase
 from tournament_logs_process import processLogs
 from pairings import Pairings
 from rating_elo import EloRating
-from rating_least_squares import LeastSquaresRating
+import distances
+import ordering
+
+# -----------------------------------------------------------------
+
+def MergeSets(set1, set2):
+	result = list()
+	for node in set1 + set2:
+		if not node in result:
+			result.append(node)
+	return result
 
 # -----------------------------------------------------------------
 
@@ -56,10 +67,21 @@ def executeRatingCalculate():
 
 	if not os.path.exists("playerHistory"):
 		os.makedirs("playerHistory")
-	elo.saveHistory("playerHistory")
-	elo.saveRatings("netrunner_elo_rating.csv", pairings)
+	if not os.path.exists("playerHistory/elo"):
+		os.makedirs("playerHistory/elo")
+	elo.saveHistory("playerHistory/elo")
+	if not os.path.exists("ratings"):
+		os.makedirs("ratings")
+	elo.saveRatings("ratings/rating_elo.csv", pairings)
 
-	#leastSquares = LeastSquaresRating(matches)
+# -------------- Exotic ratings -------------------------
+
+	base = CommunityBase(tournaments)
+
+	ordering.Ordering(distances.GamesDistance(base), "ratings/ordering_games.csv")
+	ordering.Ordering(distances.LeastSquares(base), "ratings/ordering_lease_squares.csv")
+	ordering.Ordering(distances.MaximumLikehood(base), "ratings/ordering_maximum_likehood.csv")
+
 	pass
 
 

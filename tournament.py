@@ -2,6 +2,7 @@
 import xmltodict
 import os
 import collections
+import copy
 from datetime import datetime
 
 # ----------------------------
@@ -68,6 +69,48 @@ def retrivePlayers(matches):
 		if not match.playerB in players:
 			players.append(match.playerB)
 	return players
+
+# -----------------------------------------------------------------
+
+class CommunityBase:
+	def __init__(self, tournamentList):
+		self.players = list()
+		for tournament in tournamentList:
+			for currentPlayer in retrivePlayers(tournament.matches):
+				if not currentPlayer in self.players:
+					self.players.append(currentPlayer)
+
+		self.base = dict()
+		for winner in self.players:
+			self.base[winner] = dict()
+			for loser in self.players:
+				self.base[winner][loser] = 0.
+
+		for tournament in tournamentList:
+			for match in tournament.matches:
+				wins = match.calculateWins()
+				self.base[match.playerA][match.playerB] += wins[0]
+				self.base[match.playerB][match.playerA] += wins[1]
+		pass
+
+	def Get(self, winner, loser):
+		return self.base[winner][loser]
+
+	def CountWins(self, winner):
+		wins = 0.
+		for opponent in self.base[winner].keys():
+			wins += self.base[winner][opponent]
+		return wins
+
+	def CountLinks(self, player):
+		links = 0
+		for opponent in self.players:
+			if self.IsLinked(player, opponent):
+				links += 1
+		return links
+
+	def IsLinked(self, player1, player2):
+		return self.base[player1][player2] != 0 or self.base[player2][player1] != 0
 
 # ----------------------------------------------------------------
 if __name__ == "__main__":
