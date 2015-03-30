@@ -9,8 +9,6 @@ from tournament import CommunityBase
 from tournament_logs_process import processLogs
 from pairings import Pairings
 from rating_elo import EloRating
-import distances
-import ordering
 
 # -----------------------------------------------------------------
 
@@ -77,10 +75,6 @@ def executeRatingCalculate():
 # -------------- Exotic ratings -------------------------
 
 	base = CommunityBase(tournaments)
-
-	#ordering.Ordering(distances.GamesDistance(base), "ratings/ordering_games.csv")
-	#ordering.Ordering(distances.LeastSquares(base), "ratings/ordering_lease_squares.csv")
-	#ordering.Ordering(distances.MaximumLikehood(base), "ratings/ordering_maximum_likehood.csv")
 
 	pass
 
