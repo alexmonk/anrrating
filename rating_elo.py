@@ -51,6 +51,15 @@ class EloRating:
 		return self.players[player].getLastRating()
 
 
+	def getRatings(self):
+		sortedPlayers = sorted(self.players.keys(), key=lambda x: self.players[x].getLastRating() * -1)
+		result = list()
+		for player in sortedPlayers:
+			text = player + ":%.2f" % self.players[player].getLastRating()
+			result.append(text)
+		return result
+
+
 	def saveHistory(self, dirPath):
 		for player in self.players.keys():
 			self.players[player].saveHistory(dirPath + "/" + player + ".txt")

@@ -32,6 +32,26 @@ def checkTournamentDates(tournaments):
 
 # -----------------------------------------------------------------
 
+def saveHistory(filePath, tournaments, ratings):
+	text = ""
+	for tournament in tournaments:
+		text += "," + tournament.name
+	text += "\n"
+	for i in range(0, len(ratings[-1])):
+		currentText = str(i+1)
+		for tournamentIt in range(0, len(ratings)):
+			if i < len(ratings[tournamentIt]):
+				currentText += "," + ratings[tournamentIt][i]
+			else:
+				currentText += ","
+		currentText += "\n"
+		text += currentText
+	file = open(filePath, 'w', encoding='utf8')
+	file.write(text)
+	file.close()
+
+# -----------------------------------------------------------------
+
 def executeRatingCalculate():
 	processLogs("tournament_logs/", "tournament_results/")
 
@@ -56,10 +76,12 @@ def executeRatingCalculate():
 	print("Calculating elo ratings")
 	elo = EloRating()
 	pairings = Pairings()
+	ratings = list()
 	for tournament in tournaments:
 		for match in tournament.matches:
 			pairings.addMatch(match)
 			elo.updateByMatch(match, tournament)
+		ratings.append(elo.getRatings())
 
 	print("Done")
 
@@ -70,6 +92,7 @@ def executeRatingCalculate():
 	elo.saveHistory("playerHistory/elo")
 	if not os.path.exists("ratings"):
 		os.makedirs("ratings")
+	saveHistory("ratings/history_elo.csv", tournaments, ratings)
 	elo.saveRatings("ratings/rating_elo.csv", pairings)
 
 # -------------- Exotic ratings -------------------------
