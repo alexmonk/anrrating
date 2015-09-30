@@ -35,7 +35,11 @@ def checkTournamentDates(tournaments):
 def saveHistory(filePath, tournaments, ratings):
 	text = ""
 	for tournament in tournaments:
-		text += "," + tournament.name
+		name = tournament.name
+		name = name.replace("tournament_results/", "")
+		name = name.replace(".xml", "")
+		name = name.replace(".ant", "")
+		text += "," + name
 	text += "\n"
 	for i in range(0, len(ratings[-1])):
 		currentText = str(i+1)
