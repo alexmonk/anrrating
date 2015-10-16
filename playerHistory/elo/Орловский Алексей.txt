@@ -1,5 +1,5 @@
 (ratingA +/- deltaA) nameA (corpA/runnerA) - (runnerB/corpB) nameB (ratingB +/- deltaB)
-tournament_results/2014-04-19_chronos_protocol.ant
+tournament_results/2014-04-19_chronos_protocol.xml
 (1000.00 -8.894) Орловский Алексей (0) - (4) Абдулазизов Озод (1038.60 +8.894)
 (991.11 +0.256) Орловский Алексей (2) - (2) Ратников Николай (1000.00 -0.256)
 (991.36 -0.079) Орловский Алексей (2) - (2) Федин Пётр (988.63 +0.079)

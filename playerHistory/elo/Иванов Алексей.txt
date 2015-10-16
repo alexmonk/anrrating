@@ -1,5 +1,5 @@
 (ratingA +/- deltaA) nameA (corpA/runnerA) - (runnerB/corpB) nameB (ratingB +/- deltaB)
-tournament_results/2014-04-19_chronos_protocol.ant
+tournament_results/2014-04-19_chronos_protocol.xml
 (1000.00 +8.982) Иванов Алексей (4) - (0) Гончаренко Сергей (964.52 -8.982)
 (1008.98 +0.174) Иванов Алексей (2) - (2) Смирнов Михаил (1015.02 -0.174)
 (1009.16 +10.655) Иванов Алексей (4) - (0) Дмитриев Павел (1031.93 -10.655)
