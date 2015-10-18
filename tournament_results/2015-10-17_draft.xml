@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?><root><games>
+<item>
+	<prestige1>4</prestige1>
+	<prestige2>0</prestige2>
+	<gamesCount>2</gamesCount>
+	<player1>Шурыгин Егор</player1>
+	<player2>Галкин Дмитрий</player2>
+</item>
+<item>
+	<prestige1>4</prestige1>
+	<prestige2>0</prestige2>
+	<gamesCount>2</gamesCount>
+	<player1>Ярцев Александр</player1>
+	<player2>Борц Ларик</player2>
+</item>
+<item>
+	<prestige1>4</prestige1>
+	<prestige2>0</prestige2>
+	<gamesCount>2</gamesCount>
+	<player1>Зубко Дмитрий</player1>
+	<player2>Жигарёв Борис</player2>
+</item>
+<item>
+	<prestige1>0</prestige1>
+	<prestige2>4</prestige2>
+	<gamesCount>2</gamesCount>
+	<player1>Амирханов Артём</player1>
+	<player2>Попов Егор</player2>
+</item>
+
+<item>
+	<prestige1>2</prestige1>
+	<prestige2>2</prestige2>
+	<gamesCount>2</gamesCount>
+	<player1>Шурыгин Егор</player1>
+	<player2>Ярцев Александр</player2>
+</item>
+<item>
+	<prestige1>0</prestige1>
+	<prestige2>4</prestige2>
+	<gamesCount>2</gamesCount>
+	<player1>Зубко Дмитрий</player1>
+	<player2>Попов Егор</player2>
+</item>
+<item>
+	<prestige1>2</prestige1>
+	<prestige2>2</prestige2>
+	<gamesCount>2</gamesCount>
+	<player1>Жигарёв Борис</player1>
+	<player2>Галкин Дмитрий</player2>
+</item>
+<item>
+	<prestige1>2</prestige1>
+	<prestige2>2</prestige2>
+	<gamesCount>2</gamesCount>
+	<player1>Борц Ларик</player1>
+	<player2>Амирханов Артём</player2>
+</item>
+
+<item>
+	<prestige1>4</prestige1>
+	<prestige2>0</prestige2>
+	<gamesCount>2</gamesCount>
+	<player1>Попов Егор</player1>
+	<player2>Ярцев Александр</player2>
+</item>
+<item>
+	<prestige1>0</prestige1>
+	<prestige2>4</prestige2>
+	<gamesCount>2</gamesCount>
+	<player1>Шурыгин Егор</player1>
+	<player2>Зубко Дмитрий</player2>
+</item>
+<item>
+	<prestige1>2</prestige1>
+	<prestige2>2</prestige2>
+	<gamesCount>2</gamesCount>
+	<player1>Жигарёв Борис</player1>
+	<player2>Амирханов Артём</player2>
+</item>
+<item>
+	<prestige1>4</prestige1>
+	<prestige2>0</prestige2>
+	<gamesCount>2</gamesCount>
+	<player1>Галкин Дмитрий</player1>
+	<player2>Борц Ларик</player2>
+</item>
+
+<item>
+	<prestige1>4</prestige1>
+	<prestige2>0</prestige2>
+	<gamesCount>2</gamesCount>
+	<player1>Попов Егор</player1>
+	<player2>Галкин Дмитрий</player2>
+</item>
+<item>
+	<prestige1>2</prestige1>
+	<prestige2>2</prestige2>
+	<gamesCount>2</gamesCount>
+	<player1>Зубко Дмитрий</player1>
+	<player2>Ярцев Александр</player2>
+</item>
+<item>
+	<prestige1>2</prestige1>
+	<prestige2>2</prestige2>
+	<gamesCount>2</gamesCount>
+	<player1>Шурыгин Егор</player1>
+	<player2>Амирханов Артём</player2>
+</item>
+<item>
+	<prestige1>0</prestige1>
+	<prestige2>4</prestige2>
+	<gamesCount>2</gamesCount>
+	<player1>Жигарёв Борис</player1>
+	<player2>Борц Ларик</player2>
+</item>
+
+</games><header><date>2015-10-17T00:00:00+04:00</date></header></root>
