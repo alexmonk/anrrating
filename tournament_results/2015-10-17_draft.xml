@@ -115,4 +115,12 @@
 	<player2>Борц Ларик</player2>
 </item>
 
-</games><header><date>2015-10-17T00:00:00+04:00</date></header></root>
+</games>
+
+<header>
+	<date>2015-10-17T00:00:00+04:00</date>
+	<location>
+		<city>Msk</city>
+	</location>
+</header>
+</root>

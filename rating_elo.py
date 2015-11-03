@@ -1,6 +1,8 @@
 #-*- coding: utf-8 -*-
 import tournament
 import math
+from datetime import timedelta
+
 from rating import PlayerRating
 from pairings import Pairings
 
@@ -26,8 +28,8 @@ class EloRating:
 		logA = self.toStringMatchResults(playerA, playerB, match.toStringPlayerAMatch(), newPlayerARating, newPlayerBRating)
 		logB = self.toStringMatchResults(playerB, playerA, match.toStringPlayerBMatch(), newPlayerBRating, newPlayerARating)
 
-		self.players[playerA].addMatch(tournament.name, tournament.date, playerB, newPlayerARating, logA)
-		self.players[playerB].addMatch(tournament.name, tournament.date, playerA, newPlayerBRating, logB)
+		self.players[playerA].addMatch(tournament.name, tournament.date, tournament.cities, playerB, newPlayerARating, logA)
+		self.players[playerB].addMatch(tournament.name, tournament.date, tournament.cities, playerA, newPlayerBRating, logB)
 		pass
 
 
@@ -67,6 +69,28 @@ class EloRating:
 
 	def saveRatings(self, filePath, pairings):
 		sortedPlayers = sorted(self.players.keys(), key=lambda x: self.players[x].getLastRating() * -1)
+		text = ""
+		for i in range(0, len(sortedPlayers)):
+			player = sortedPlayers[i]
+			text += str(i+1) + "," + player
+			text += ",%.2f" % self.players[player].getLastRating()
+			text += ",%i"%pairings.getTotalWins(player) + "/%i\n"%pairings.getTotalGames(player)
+		file = open(filePath, 'w', encoding='utf8')
+		file.write(text)
+		file.close()
+
+	def saveActiveRatings(self, filePath, pairings, locations):
+		activePlayers = list()
+		for player in self.players.keys():
+			active = False
+			for city in locations.keys():
+				if city in self.players[player].locations and timedelta(183) > (locations[city] - self.players[player].locations[city]):
+					active = True
+			if active:
+				activePlayers.append(player)
+		pass
+
+		sortedPlayers = sorted(activePlayers, key=lambda x: self.players[x].getLastRating() * -1)
 		text = ""
 		for i in range(0, len(sortedPlayers)):
 			player = sortedPlayers[i]

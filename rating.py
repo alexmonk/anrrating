@@ -32,14 +32,22 @@ class PlayerRating:
 		self.legend = legend
 		self.basicRating = basicRating
 		self.tournamentLogs = []
+		self.locations = dict()
 
 
-	def addMatch(self, tournamentName, tournamentData, opponent, rating, description):
+	def addMatch(self, tournamentName, tournamentData, locations, opponent, rating, description):
 		if not tournamentName in [x.tournamentName for x in self.tournamentLogs]:
 			self.tournamentLogs.append(PlayerTournamentLog(tournamentName, tournamentData))
 		pass
 		pos = [x.tournamentName for x in self.tournamentLogs].index(tournamentName)
 		self.tournamentLogs[pos].addMatch(opponent, rating, description)
+		for city in locations:
+			if city in self.locations:
+				if self.locations[city] < tournamentData:
+					self.locations[city] = tournamentData
+			else:
+				self.locations[city] = tournamentData
+			pass
 
 	def saveHistory(self, filePath):
 		historyStr = self.legend + "\n"

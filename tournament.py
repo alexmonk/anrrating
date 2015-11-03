@@ -57,6 +57,14 @@ class Tournament:
 			self.matches.append(Match(game))
 			pass
 
+		self.cities = list()
+		locations = tournamentDict["header"]["location"]["city"]
+		if isinstance(locations, list):
+			for city in locations:
+				self.cities.append(city)
+		else:
+			self.cities.append(locations)
+
 		print("Done")
 
 # -----------------------------------------------------------------

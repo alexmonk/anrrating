@@ -81,11 +81,19 @@ def executeRatingCalculate():
 	elo = EloRating()
 	pairings = Pairings()
 	ratings = list()
+	locations = dict()
 	for tournament in tournaments:
 		for match in tournament.matches:
 			pairings.addMatch(match)
 			elo.updateByMatch(match, tournament)
 		ratings.append(elo.getRatings())
+		for city in tournament.cities:
+			if city in locations:
+				if locations[city] < tournament.date:
+					locations[city] = tournament.date
+			else:
+				locations[city] = tournament.date
+	pass
 
 	print("Done")
 
@@ -98,6 +106,7 @@ def executeRatingCalculate():
 		os.makedirs("ratings")
 	saveHistory("ratings/history_elo.csv", tournaments, ratings)
 	elo.saveRatings("ratings/rating_elo.csv", pairings)
+	elo.saveActiveRatings("ratings/rating_active_elo.csv", pairings, locations)
 
 # -------------- Exotic ratings -------------------------
 
