@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+<header>
+	<date>2016-01-30T00:00:00</date>
+	<location>
+		<city>Msk</city>
+	</location>
+</header>
+<games>
+	<item><prestige2>4</prestige2><player2>Пинчук Сергей</player2><player1>Годелашвили Александр</player1><prestige1>0</prestige1><gamesCount>2</gamesCount></item>
+	<item><prestige2>2</prestige2><player2>Ярцев Александр</player2><player1>Зубко Дмитрий</player1><prestige1>2</prestige1><gamesCount>2</gamesCount></item>
+	<item><prestige2>0</prestige2><player2>Смирнов Антон</player2><player1>Попов Егор</player1><prestige1>4</prestige1><gamesCount>2</gamesCount></item>
+	<item><prestige2>2</prestige2><player2>Ковалёв Александр</player2><player1>Бутаков Никита</player1><prestige1>2</prestige1><gamesCount>2</gamesCount></item>
+	<item><prestige2>0</prestige2><player2>Смирнов Михаил</player2><player1>Антонов Евгений</player1><prestige1>4</prestige1><gamesCount>2</gamesCount></item>
+	<item><prestige2>1</prestige2><player2>Бутаков Никита</player2><player1>Ярцев Александр</player1><prestige1>3</prestige1><gamesCount>2</gamesCount></item>
+	<item><prestige2>0</prestige2><player2>Ковалёв Александр</player2><player1>Зубко Дмитрий</player1><prestige1>4</prestige1><gamesCount>2</gamesCount></item>
+	<item><prestige2>2</prestige2><player2>Пинчук Алексей</player2><player1>Пинчук Сергей</player1><prestige1>2</prestige1><gamesCount>2</gamesCount></item><item><prestige2>2</prestige2><player2>Антонов Евгений</player2><player1>Попов Егор</player1><prestige1>2</prestige1><gamesCount>2</gamesCount></item><item><prestige2>2</prestige2><player2>Годелашвили Александр</player2><player1>Смирнов Антон</player1><prestige1>2</prestige1><gamesCount>2</gamesCount></item><item><prestige2>0</prestige2><player2>Антонов Евгений</player2><player1>Зубко Дмитрий</player1><prestige1>4</prestige1><gamesCount>2</gamesCount></item><item><prestige2>0</prestige2><player2>Бутаков Никита</player2><player1>Годелашвили Александр</player1><prestige1>4</prestige1><gamesCount>2</gamesCount></item><item><prestige2>2</prestige2><player2>Пинчук Сергей</player2><player1>Попов Егор</player1><prestige1>2</prestige1><gamesCount>2</gamesCount></item><item><prestige2>1</prestige2><player2>Пинчук Алексей</player2><player1>Ярцев Александр</player1><prestige1>3</prestige1><gamesCount>2</gamesCount></item><item><prestige2>0</prestige2><player2>Смирнов Михаил</player2><player1>Смирнов Антон</player1><prestige1>4</prestige1><gamesCount>2</gamesCount></item><item><prestige2>0</prestige2><player2>Пинчук Сергей</player2><player1>Зубко Дмитрий</player1><prestige1>4</prestige1><gamesCount>2</gamesCount></item><item><prestige2>1</prestige2><player2>Ярцев Александр</player2><player1>Попов Егор</player1><prestige1>3</prestige1><gamesCount>2</gamesCount></item><item><prestige2>0</prestige2><player2>Ковалёв Александр</player2><player1>Антонов Евгений</player1><prestige1>4</prestige1><gamesCount>2</gamesCount></item><item><prestige2>0</prestige2><player2>Смирнов Михаил</player2><player1>Годелашвили Александр</player1><prestige1>4</prestige1><gamesCount>2</gamesCount></item><item><prestige2>0</prestige2><player2>Пинчук Алексей</player2><player1>Смирнов Антон</player1><prestige1>4</prestige1><gamesCount>2</gamesCount></item></games>
+</root>

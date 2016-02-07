@@ -1,0 +1,1548 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tournament xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PlayoffStartRound>WithoutPlayoffs</PlayoffStartRound>
+  <Name />
+  <Date>2016-01-30T00:00:00</Date>
+  <Importance>Local</Importance>
+  <PointsTable>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>f03aa26d-a9c5-4882-a804-fe46e0f38cc3</Id>
+      <Place>1</Place>
+      <Name />
+      <Surname />
+      <Alias>Zubko Dmitriy</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>3</GamesWin>
+      <GamesDraw>1</GamesDraw>
+      <GamesLoose>0</GamesLoose>
+      <SmallPointsPlus>70</SmallPointsPlus>
+      <SmallPointsMinus>10</SmallPointsMinus>
+      <RunnerWins>3</RunnerWins>
+      <CorpoWins>4</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>false</Payment>
+      <Active>true</Active>
+      <Bucholz>33</Bucholz>
+      <MBucholz>17</MBucholz>
+      <Points>14</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>ee6b8c26-3679-4714-81de-311eb115b669</Id>
+      <CorpoIdentity>Cerebral Imaging: Infinite Frontiers</CorpoIdentity>
+      <Place>2</Place>
+      <Name />
+      <Surname />
+      <Alias>Popov Egor</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>2</GamesDraw>
+      <GamesLoose>0</GamesLoose>
+      <SmallPointsPlus>51</SmallPointsPlus>
+      <SmallPointsMinus>21</SmallPointsMinus>
+      <RunnerWins>4</RunnerWins>
+      <CorpoWins>1</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>false</Payment>
+      <Active>true</Active>
+      <Bucholz>37</Bucholz>
+      <MBucholz>19</MBucholz>
+      <Points>11</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>4843af4a-884b-47cc-b496-e2ef17bf6783</Id>
+      <Place>3</Place>
+      <Name />
+      <Surname />
+      <Alias>Antonov Evgeniy</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>1</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>50</SmallPointsPlus>
+      <SmallPointsMinus>30</SmallPointsMinus>
+      <RunnerWins>3</RunnerWins>
+      <CorpoWins>2</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>false</Payment>
+      <Active>true</Active>
+      <Bucholz>35</Bucholz>
+      <MBucholz>17</MBucholz>
+      <Points>10</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>bf47be64-9831-4d9c-b685-739c167782ba</Id>
+      <Place>4</Place>
+      <Name />
+      <Surname />
+      <Alias>Smirnov Anton</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>1</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>50</SmallPointsPlus>
+      <SmallPointsMinus>30</SmallPointsMinus>
+      <RunnerWins>2</RunnerWins>
+      <CorpoWins>3</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>false</Payment>
+      <Active>true</Active>
+      <Bucholz>32</Bucholz>
+      <MBucholz>17</MBucholz>
+      <Points>10</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>50bbf243-eda9-4212-b737-0a40e0459148</Id>
+      <Place>5</Place>
+      <Name />
+      <Surname />
+      <Alias>Godelashvili Aleksandr</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>1</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>50</SmallPointsPlus>
+      <SmallPointsMinus>30</SmallPointsMinus>
+      <RunnerWins>2</RunnerWins>
+      <CorpoWins>3</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>false</Payment>
+      <Active>true</Active>
+      <Bucholz>29</Bucholz>
+      <MBucholz>15</MBucholz>
+      <Points>10</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>945383c6-2dfa-490b-839c-6bccd2d7ade7</Id>
+      <Place>6</Place>
+      <Name />
+      <Surname />
+      <Alias>Yartsev Aleksandr</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>2</GamesWin>
+      <GamesDraw>1</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>33</SmallPointsPlus>
+      <SmallPointsMinus>23</SmallPointsMinus>
+      <RunnerWins>2</RunnerWins>
+      <CorpoWins>1</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>false</Payment>
+      <Active>true</Active>
+      <Bucholz>39</Bucholz>
+      <MBucholz>18</MBucholz>
+      <Points>9</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>95a4cdf1-c843-4c30-a581-bae5bd14d728</Id>
+      <Place>7</Place>
+      <Name />
+      <Surname />
+      <Alias>Pinchuk Sergey</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>2</GamesDraw>
+      <GamesLoose>1</GamesLoose>
+      <SmallPointsPlus>40</SmallPointsPlus>
+      <SmallPointsMinus>40</SmallPointsMinus>
+      <RunnerWins>2</RunnerWins>
+      <CorpoWins>2</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>false</Payment>
+      <Active>true</Active>
+      <Bucholz>42</Bucholz>
+      <MBucholz>21</MBucholz>
+      <Points>8</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>b6197429-5c0f-4909-9ead-397763542f9d</Id>
+      <Place>8</Place>
+      <Name />
+      <Surname />
+      <Alias>Pinchuk Aleksey</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>1</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>11</SmallPointsPlus>
+      <SmallPointsMinus>41</SmallPointsMinus>
+      <RunnerWins>0</RunnerWins>
+      <CorpoWins>1</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>false</Payment>
+      <Active>true</Active>
+      <Bucholz>27</Bucholz>
+      <MBucholz>17</MBucholz>
+      <Points>7</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>008865cf-6d24-4528-a149-eaaf39b2650d</Id>
+      <Place>9</Place>
+      <Name />
+      <Surname />
+      <Alias>Butakov Nikita</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>1</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>11</SmallPointsPlus>
+      <SmallPointsMinus>41</SmallPointsMinus>
+      <RunnerWins>1</RunnerWins>
+      <CorpoWins>0</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>false</Payment>
+      <Active>true</Active>
+      <Bucholz>25</Bucholz>
+      <MBucholz>15</MBucholz>
+      <Points>7</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>f4887fd0-6380-44bf-815d-84f50732475a</Id>
+      <Place>10</Place>
+      <Name />
+      <Surname />
+      <Alias>Kovalev Aleksandr</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>1</GamesDraw>
+      <GamesLoose>2</GamesLoose>
+      <SmallPointsPlus>10</SmallPointsPlus>
+      <SmallPointsMinus>50</SmallPointsMinus>
+      <RunnerWins>1</RunnerWins>
+      <CorpoWins>0</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>false</Payment>
+      <Active>true</Active>
+      <Bucholz>31</Bucholz>
+      <MBucholz>17</MBucholz>
+      <Points>6</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+    <Player>
+      <IdGalakta>0</IdGalakta>
+      <Id>f346f8d8-722a-4a3d-8439-2466b9eed4a0</Id>
+      <Place>11</Place>
+      <Name />
+      <Surname />
+      <Alias>Smirnov Mikhail</Alias>
+      <RankBeforeTournament>0</RankBeforeTournament>
+      <GamesWin>1</GamesWin>
+      <GamesDraw>0</GamesDraw>
+      <GamesLoose>3</GamesLoose>
+      <SmallPointsPlus>0</SmallPointsPlus>
+      <SmallPointsMinus>60</SmallPointsMinus>
+      <RunnerWins>0</RunnerWins>
+      <CorpoWins>0</CorpoWins>
+      <DiceCount>0</DiceCount>
+      <DeckCheck>false</DeckCheck>
+      <Payment>false</Payment>
+      <Active>true</Active>
+      <Bucholz>30</Bucholz>
+      <MBucholz>20</MBucholz>
+      <Points>4</Points>
+      <SuperBYE>false</SuperBYE>
+    </Player>
+  </PointsTable>
+  <Rounds>
+    <Round>
+      <ScoreEnabled>false</ScoreEnabled>
+      <Number>1</Number>
+      <Games>
+        <Game>
+          <Player1Id>50bbf243-eda9-4212-b737-0a40e0459148</Player1Id>
+          <Player2Id>95a4cdf1-c843-4c30-a581-bae5bd14d728</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Godelashvili Aleksandr</Player1Alias>
+          <Player2Alias>Pinchuk Sergey</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>1</Number>
+        </Game>
+        <Game>
+          <Player1Id>b6197429-5c0f-4909-9ead-397763542f9d</Player1Id>
+          <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Pinchuk Aleksey</Player1Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>true</IsBYE>
+          <Number>2</Number>
+        </Game>
+        <Game>
+          <Player1Id>f03aa26d-a9c5-4882-a804-fe46e0f38cc3</Player1Id>
+          <Player2Id>945383c6-2dfa-490b-839c-6bccd2d7ade7</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Zubko Dmitriy</Player1Alias>
+          <Player2Alias>Yartsev Aleksandr</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>3</Number>
+        </Game>
+        <Game>
+          <Player1Id>ee6b8c26-3679-4714-81de-311eb115b669</Player1Id>
+          <Player2Id>bf47be64-9831-4d9c-b685-739c167782ba</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Popov Egor</Player1Alias>
+          <Player2Alias>Smirnov Anton</Player2Alias>
+          <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>4</Number>
+        </Game>
+        <Game>
+          <Player1Id>008865cf-6d24-4528-a149-eaaf39b2650d</Player1Id>
+          <Player2Id>f4887fd0-6380-44bf-815d-84f50732475a</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Butakov Nikita</Player1Alias>
+          <Player2Alias>Kovalev Aleksandr</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>5</Number>
+        </Game>
+        <Game>
+          <Player1Id>4843af4a-884b-47cc-b496-e2ef17bf6783</Player1Id>
+          <Player2Id>f346f8d8-722a-4a3d-8439-2466b9eed4a0</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Antonov Evgeniy</Player1Alias>
+          <Player2Alias>Smirnov Mikhail</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>6</Number>
+        </Game>
+      </Games>
+    </Round>
+    <Round>
+      <ScoreEnabled>false</ScoreEnabled>
+      <Number>2</Number>
+      <Games>
+        <Game>
+          <Player1Id>f346f8d8-722a-4a3d-8439-2466b9eed4a0</Player1Id>
+          <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Smirnov Mikhail</Player1Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>true</IsBYE>
+          <Number>1</Number>
+        </Game>
+        <Game>
+          <Player1Id>945383c6-2dfa-490b-839c-6bccd2d7ade7</Player1Id>
+          <Player2Id>008865cf-6d24-4528-a149-eaaf39b2650d</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Yartsev Aleksandr</Player1Alias>
+          <Player2Alias>Butakov Nikita</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>1</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>1</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>2</Number>
+        </Game>
+        <Game>
+          <Player1Id>f03aa26d-a9c5-4882-a804-fe46e0f38cc3</Player1Id>
+          <Player2Id>f4887fd0-6380-44bf-815d-84f50732475a</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Zubko Dmitriy</Player1Alias>
+          <Player2Alias>Kovalev Aleksandr</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>3</Number>
+        </Game>
+        <Game>
+          <Player1Id>95a4cdf1-c843-4c30-a581-bae5bd14d728</Player1Id>
+          <Player2Id>b6197429-5c0f-4909-9ead-397763542f9d</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Pinchuk Sergey</Player1Alias>
+          <Player2Alias>Pinchuk Aleksey</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>4</Number>
+        </Game>
+        <Game>
+          <Player1Id>ee6b8c26-3679-4714-81de-311eb115b669</Player1Id>
+          <Player2Id>4843af4a-884b-47cc-b496-e2ef17bf6783</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Popov Egor</Player1Alias>
+          <Player2Alias>Antonov Evgeniy</Player2Alias>
+          <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>5</Number>
+        </Game>
+        <Game>
+          <Player1Id>bf47be64-9831-4d9c-b685-739c167782ba</Player1Id>
+          <Player2Id>50bbf243-eda9-4212-b737-0a40e0459148</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Smirnov Anton</Player1Alias>
+          <Player2Alias>Godelashvili Aleksandr</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>10</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>6</Number>
+        </Game>
+      </Games>
+    </Round>
+    <Round>
+      <ScoreEnabled>false</ScoreEnabled>
+      <Number>3</Number>
+      <Games>
+        <Game>
+          <Player1Id>f03aa26d-a9c5-4882-a804-fe46e0f38cc3</Player1Id>
+          <Player2Id>4843af4a-884b-47cc-b496-e2ef17bf6783</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Zubko Dmitriy</Player1Alias>
+          <Player2Alias>Antonov Evgeniy</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>1</Number>
+        </Game>
+        <Game>
+          <Player1Id>f4887fd0-6380-44bf-815d-84f50732475a</Player1Id>
+          <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Kovalev Aleksandr</Player1Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>true</IsBYE>
+          <Number>2</Number>
+        </Game>
+        <Game>
+          <Player1Id>50bbf243-eda9-4212-b737-0a40e0459148</Player1Id>
+          <Player2Id>008865cf-6d24-4528-a149-eaaf39b2650d</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Godelashvili Aleksandr</Player1Alias>
+          <Player2Alias>Butakov Nikita</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>3</Number>
+        </Game>
+        <Game>
+          <Player1Id>ee6b8c26-3679-4714-81de-311eb115b669</Player1Id>
+          <Player2Id>95a4cdf1-c843-4c30-a581-bae5bd14d728</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Popov Egor</Player1Alias>
+          <Player2Alias>Pinchuk Sergey</Player2Alias>
+          <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>10</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>4</Number>
+        </Game>
+        <Game>
+          <Player1Id>945383c6-2dfa-490b-839c-6bccd2d7ade7</Player1Id>
+          <Player2Id>b6197429-5c0f-4909-9ead-397763542f9d</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Yartsev Aleksandr</Player1Alias>
+          <Player2Alias>Pinchuk Aleksey</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>1</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>1</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>5</Number>
+        </Game>
+        <Game>
+          <Player1Id>bf47be64-9831-4d9c-b685-739c167782ba</Player1Id>
+          <Player2Id>f346f8d8-722a-4a3d-8439-2466b9eed4a0</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Smirnov Anton</Player1Alias>
+          <Player2Alias>Smirnov Mikhail</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>6</Number>
+        </Game>
+      </Games>
+    </Round>
+    <Round>
+      <ScoreEnabled>false</ScoreEnabled>
+      <Number>4</Number>
+      <Games>
+        <Game>
+          <Player1Id>008865cf-6d24-4528-a149-eaaf39b2650d</Player1Id>
+          <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Butakov Nikita</Player1Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>0</Player1Score1>
+          <Player1Score2>0</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>true</IsBYE>
+          <Number>1</Number>
+        </Game>
+        <Game>
+          <Player1Id>f03aa26d-a9c5-4882-a804-fe46e0f38cc3</Player1Id>
+          <Player2Id>95a4cdf1-c843-4c30-a581-bae5bd14d728</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Zubko Dmitriy</Player1Alias>
+          <Player2Alias>Pinchuk Sergey</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>2</Number>
+        </Game>
+        <Game>
+          <Player1Id>ee6b8c26-3679-4714-81de-311eb115b669</Player1Id>
+          <Player2Id>945383c6-2dfa-490b-839c-6bccd2d7ade7</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Popov Egor</Player1Alias>
+          <Player2Alias>Yartsev Aleksandr</Player2Alias>
+          <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>1</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>1</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>3</Number>
+        </Game>
+        <Game>
+          <Player1Id>4843af4a-884b-47cc-b496-e2ef17bf6783</Player1Id>
+          <Player2Id>f4887fd0-6380-44bf-815d-84f50732475a</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Antonov Evgeniy</Player1Alias>
+          <Player2Alias>Kovalev Aleksandr</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>4</Number>
+        </Game>
+        <Game>
+          <Player1Id>50bbf243-eda9-4212-b737-0a40e0459148</Player1Id>
+          <Player2Id>f346f8d8-722a-4a3d-8439-2466b9eed4a0</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Godelashvili Aleksandr</Player1Alias>
+          <Player2Alias>Smirnov Mikhail</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>5</Number>
+        </Game>
+        <Game>
+          <Player1Id>bf47be64-9831-4d9c-b685-739c167782ba</Player1Id>
+          <Player2Id>b6197429-5c0f-4909-9ead-397763542f9d</Player2Id>
+          <Player1Dice>false</Player1Dice>
+          <Player2Dice>false</Player2Dice>
+          <Player1Alias>Smirnov Anton</Player1Alias>
+          <Player2Alias>Pinchuk Aleksey</Player2Alias>
+          <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+          <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+          <Player1RaceRunner>NotSet</Player1RaceRunner>
+          <Player2RaceRunner>NotSet</Player2RaceRunner>
+          <Player1Score1>10</Player1Score1>
+          <Player1Score2>10</Player1Score2>
+          <Player2Score1>0</Player2Score1>
+          <Player2Score2>0</Player2Score2>
+          <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+          <IsBYE>false</IsBYE>
+          <Number>6</Number>
+        </Game>
+      </Games>
+    </Round>
+  </Rounds>
+  <AllGames>
+    <Game>
+      <Player1Id>f03aa26d-a9c5-4882-a804-fe46e0f38cc3</Player1Id>
+      <Player2Id>bf47be64-9831-4d9c-b685-739c167782ba</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Zubko Dmitriy</Player1Alias>
+      <Player2Alias>Smirnov Anton</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>f03aa26d-a9c5-4882-a804-fe46e0f38cc3</Player1Id>
+      <Player2Id>50bbf243-eda9-4212-b737-0a40e0459148</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Zubko Dmitriy</Player1Alias>
+      <Player2Alias>Godelashvili Aleksandr</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>f03aa26d-a9c5-4882-a804-fe46e0f38cc3</Player1Id>
+      <Player2Id>b6197429-5c0f-4909-9ead-397763542f9d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Zubko Dmitriy</Player1Alias>
+      <Player2Alias>Pinchuk Aleksey</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>f03aa26d-a9c5-4882-a804-fe46e0f38cc3</Player1Id>
+      <Player2Id>f346f8d8-722a-4a3d-8439-2466b9eed4a0</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Zubko Dmitriy</Player1Alias>
+      <Player2Alias>Smirnov Mikhail</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>ee6b8c26-3679-4714-81de-311eb115b669</Player1Id>
+      <Player2Id>50bbf243-eda9-4212-b737-0a40e0459148</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Popov Egor</Player1Alias>
+      <Player2Alias>Godelashvili Aleksandr</Player2Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>ee6b8c26-3679-4714-81de-311eb115b669</Player1Id>
+      <Player2Id>008865cf-6d24-4528-a149-eaaf39b2650d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Popov Egor</Player1Alias>
+      <Player2Alias>Butakov Nikita</Player2Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>ee6b8c26-3679-4714-81de-311eb115b669</Player1Id>
+      <Player2Id>f4887fd0-6380-44bf-815d-84f50732475a</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Popov Egor</Player1Alias>
+      <Player2Alias>Kovalev Aleksandr</Player2Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>ee6b8c26-3679-4714-81de-311eb115b669</Player1Id>
+      <Player2Id>f346f8d8-722a-4a3d-8439-2466b9eed4a0</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Popov Egor</Player1Alias>
+      <Player2Alias>Smirnov Mikhail</Player2Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>4843af4a-884b-47cc-b496-e2ef17bf6783</Player1Id>
+      <Player2Id>bf47be64-9831-4d9c-b685-739c167782ba</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Antonov Evgeniy</Player1Alias>
+      <Player2Alias>Smirnov Anton</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>4843af4a-884b-47cc-b496-e2ef17bf6783</Player1Id>
+      <Player2Id>50bbf243-eda9-4212-b737-0a40e0459148</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Antonov Evgeniy</Player1Alias>
+      <Player2Alias>Godelashvili Aleksandr</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>4843af4a-884b-47cc-b496-e2ef17bf6783</Player1Id>
+      <Player2Id>945383c6-2dfa-490b-839c-6bccd2d7ade7</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Antonov Evgeniy</Player1Alias>
+      <Player2Alias>Yartsev Aleksandr</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>4843af4a-884b-47cc-b496-e2ef17bf6783</Player1Id>
+      <Player2Id>008865cf-6d24-4528-a149-eaaf39b2650d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Antonov Evgeniy</Player1Alias>
+      <Player2Alias>Butakov Nikita</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>bf47be64-9831-4d9c-b685-739c167782ba</Player1Id>
+      <Player2Id>945383c6-2dfa-490b-839c-6bccd2d7ade7</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Smirnov Anton</Player1Alias>
+      <Player2Alias>Yartsev Aleksandr</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>bf47be64-9831-4d9c-b685-739c167782ba</Player1Id>
+      <Player2Id>95a4cdf1-c843-4c30-a581-bae5bd14d728</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Smirnov Anton</Player1Alias>
+      <Player2Alias>Pinchuk Sergey</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>bf47be64-9831-4d9c-b685-739c167782ba</Player1Id>
+      <Player2Id>008865cf-6d24-4528-a149-eaaf39b2650d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Smirnov Anton</Player1Alias>
+      <Player2Alias>Butakov Nikita</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>50bbf243-eda9-4212-b737-0a40e0459148</Player1Id>
+      <Player2Id>945383c6-2dfa-490b-839c-6bccd2d7ade7</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Godelashvili Aleksandr</Player1Alias>
+      <Player2Alias>Yartsev Aleksandr</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>50bbf243-eda9-4212-b737-0a40e0459148</Player1Id>
+      <Player2Id>b6197429-5c0f-4909-9ead-397763542f9d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Godelashvili Aleksandr</Player1Alias>
+      <Player2Alias>Pinchuk Aleksey</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>945383c6-2dfa-490b-839c-6bccd2d7ade7</Player1Id>
+      <Player2Id>95a4cdf1-c843-4c30-a581-bae5bd14d728</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Yartsev Aleksandr</Player1Alias>
+      <Player2Alias>Pinchuk Sergey</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>945383c6-2dfa-490b-839c-6bccd2d7ade7</Player1Id>
+      <Player2Id>f346f8d8-722a-4a3d-8439-2466b9eed4a0</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Yartsev Aleksandr</Player1Alias>
+      <Player2Alias>Smirnov Mikhail</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>95a4cdf1-c843-4c30-a581-bae5bd14d728</Player1Id>
+      <Player2Id>008865cf-6d24-4528-a149-eaaf39b2650d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Pinchuk Sergey</Player1Alias>
+      <Player2Alias>Butakov Nikita</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>95a4cdf1-c843-4c30-a581-bae5bd14d728</Player1Id>
+      <Player2Id>f4887fd0-6380-44bf-815d-84f50732475a</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Pinchuk Sergey</Player1Alias>
+      <Player2Alias>Kovalev Aleksandr</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>95a4cdf1-c843-4c30-a581-bae5bd14d728</Player1Id>
+      <Player2Id>f346f8d8-722a-4a3d-8439-2466b9eed4a0</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Pinchuk Sergey</Player1Alias>
+      <Player2Alias>Smirnov Mikhail</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>b6197429-5c0f-4909-9ead-397763542f9d</Player1Id>
+      <Player2Id>008865cf-6d24-4528-a149-eaaf39b2650d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Pinchuk Aleksey</Player1Alias>
+      <Player2Alias>Butakov Nikita</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>b6197429-5c0f-4909-9ead-397763542f9d</Player1Id>
+      <Player2Id>f4887fd0-6380-44bf-815d-84f50732475a</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Pinchuk Aleksey</Player1Alias>
+      <Player2Alias>Kovalev Aleksandr</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>b6197429-5c0f-4909-9ead-397763542f9d</Player1Id>
+      <Player2Id>f346f8d8-722a-4a3d-8439-2466b9eed4a0</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Pinchuk Aleksey</Player1Alias>
+      <Player2Alias>Smirnov Mikhail</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>f4887fd0-6380-44bf-815d-84f50732475a</Player1Id>
+      <Player2Id>f346f8d8-722a-4a3d-8439-2466b9eed4a0</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Kovalev Aleksandr</Player1Alias>
+      <Player2Alias>Smirnov Mikhail</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>f03aa26d-a9c5-4882-a804-fe46e0f38cc3</Player1Id>
+      <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Zubko Dmitriy</Player1Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>true</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>ee6b8c26-3679-4714-81de-311eb115b669</Player1Id>
+      <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Popov Egor</Player1Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>true</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>4843af4a-884b-47cc-b496-e2ef17bf6783</Player1Id>
+      <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Antonov Evgeniy</Player1Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>true</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>945383c6-2dfa-490b-839c-6bccd2d7ade7</Player1Id>
+      <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Yartsev Aleksandr</Player1Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>true</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>95a4cdf1-c843-4c30-a581-bae5bd14d728</Player1Id>
+      <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Pinchuk Sergey</Player1Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>true</IsBYE>
+      <Number>0</Number>
+    </Game>
+    <Game>
+      <Player1Id>ee6b8c26-3679-4714-81de-311eb115b669</Player1Id>
+      <Player2Id>b6197429-5c0f-4909-9ead-397763542f9d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Popov Egor</Player1Alias>
+      <Player2Alias>Pinchuk Aleksey</Player2Alias>
+      <Player1RaceCorpo>HaasBioroid</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>2</Number>
+    </Game>
+    <Game>
+      <Player1Id>f03aa26d-a9c5-4882-a804-fe46e0f38cc3</Player1Id>
+      <Player2Id>008865cf-6d24-4528-a149-eaaf39b2650d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Zubko Dmitriy</Player1Alias>
+      <Player2Alias>Butakov Nikita</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>3</Number>
+    </Game>
+    <Game>
+      <Player1Id>945383c6-2dfa-490b-839c-6bccd2d7ade7</Player1Id>
+      <Player2Id>f4887fd0-6380-44bf-815d-84f50732475a</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Yartsev Aleksandr</Player1Alias>
+      <Player2Alias>Kovalev Aleksandr</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>4</Number>
+    </Game>
+    <Game>
+      <Player1Id>50bbf243-eda9-4212-b737-0a40e0459148</Player1Id>
+      <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Godelashvili Aleksandr</Player1Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>true</IsBYE>
+      <Number>6</Number>
+    </Game>
+    <Game>
+      <Player1Id>4843af4a-884b-47cc-b496-e2ef17bf6783</Player1Id>
+      <Player2Id>95a4cdf1-c843-4c30-a581-bae5bd14d728</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Antonov Evgeniy</Player1Alias>
+      <Player2Alias>Pinchuk Sergey</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>1</Number>
+    </Game>
+    <Game>
+      <Player1Id>f03aa26d-a9c5-4882-a804-fe46e0f38cc3</Player1Id>
+      <Player2Id>ee6b8c26-3679-4714-81de-311eb115b669</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Zubko Dmitriy</Player1Alias>
+      <Player2Alias>Popov Egor</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>HaasBioroid</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>2</Number>
+    </Game>
+    <Game>
+      <Player1Id>008865cf-6d24-4528-a149-eaaf39b2650d</Player1Id>
+      <Player2Id>f346f8d8-722a-4a3d-8439-2466b9eed4a0</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Butakov Nikita</Player1Alias>
+      <Player2Alias>Smirnov Mikhail</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>4</Number>
+    </Game>
+    <Game>
+      <Player1Id>50bbf243-eda9-4212-b737-0a40e0459148</Player1Id>
+      <Player2Id>f4887fd0-6380-44bf-815d-84f50732475a</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Godelashvili Aleksandr</Player1Alias>
+      <Player2Alias>Kovalev Aleksandr</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>5</Number>
+    </Game>
+    <Game>
+      <Player1Id>bf47be64-9831-4d9c-b685-739c167782ba</Player1Id>
+      <Player2Id>00000000-0000-0000-0000-000000000000</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Smirnov Anton</Player1Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>true</IsBYE>
+      <Number>6</Number>
+    </Game>
+    <Game>
+      <Player1Id>4843af4a-884b-47cc-b496-e2ef17bf6783</Player1Id>
+      <Player2Id>b6197429-5c0f-4909-9ead-397763542f9d</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Antonov Evgeniy</Player1Alias>
+      <Player2Alias>Pinchuk Aleksey</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>3</Number>
+    </Game>
+    <Game>
+      <Player1Id>bf47be64-9831-4d9c-b685-739c167782ba</Player1Id>
+      <Player2Id>f4887fd0-6380-44bf-815d-84f50732475a</Player2Id>
+      <Player1Dice>false</Player1Dice>
+      <Player2Dice>false</Player2Dice>
+      <Player1Alias>Smirnov Anton</Player1Alias>
+      <Player2Alias>Kovalev Aleksandr</Player2Alias>
+      <Player1RaceCorpo>NotSet</Player1RaceCorpo>
+      <Player2RaceCorpo>NotSet</Player2RaceCorpo>
+      <Player1RaceRunner>NotSet</Player1RaceRunner>
+      <Player2RaceRunner>NotSet</Player2RaceRunner>
+      <Player1Score1>0</Player1Score1>
+      <Player1Score2>0</Player1Score2>
+      <Player2Score1>0</Player2Score1>
+      <Player2Score2>0</Player2Score2>
+      <IsSecondGameNotStarted>false</IsSecondGameNotStarted>
+      <IsBYE>false</IsBYE>
+      <Number>4</Number>
+    </Game>
+  </AllGames>
+  <FinalResults />
+  <Playoffs16 />
+  <Playoffs8 />
+</Tournament>
